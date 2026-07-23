@@ -1,0 +1,86 @@
+name: Sync Notes and Publish
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install rclone
+        run: curl https://rclone.org/install.sh | sudo bash
+
+      - name: Configure rclone
+        run: |
+          mkdir -p ~/.config/rclone
+          OBSCURED=$(rclone obscure "${{ secrets.NC_PASS }}")
+          {
+            echo "[nextcloud]"
+            echo "type = webdav"
+            echo "url = ${{ secrets.NC_URL }}"
+            echo "vendor = nextcloud"
+            echo "user = ${{ secrets.NC_USER }}"
+            echo "pass = $OBSCURED"
+          } > ~/.config/rclone/rclone.conf
+
+      - name: Sync notes into content/
+        run: |
+          rclone sync nextcloud: content/ \
+            --exclude ".obsidian/**" \
+            --exclude ".trash/**" \
+            -v
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/
+          git diff --staged --quiet && echo "Nessuna modifica" && exit 0
+          git commit -m "Sync notes from Nextcloud"
+          git pull --rebase origin v5
+          git push
+
+  build:
+    needs: sync
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: v5
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Install Dependencies
+        run: npm ci
+      - name: Install Quartz plugins
+        run: npx quartz plugin install
+      - name: Build Quartz
+        run: npx quartz build
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
