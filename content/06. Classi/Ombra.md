@@ -1,0 +1,28 @@
+---
+Tipo: classe
+PV: "6"
+Abilità: Conoscenze, Magia
+livello1: Reazione; Distillatore magico; Usa Conoscenze per creare Composti e Veleni
+livello2: Crea e usa immediatamente un Composto o un Veleno
+livello3: Accesso ai Composti da Alchimista
+livello4: Può usare due Composti con un'Azione
+---
+Descrizione della classe, tira le pugnalate, ai che male, non so devo scrivere un po' di descrizione per vedere come sta.
+
+**PV:** 6  
+**Abilità:** Destrezza, Furtività
+
+---
+### Livello 1
+- **Reazione**: sei un difensore. Puoi Schivare un’attacco che potrebbe solo essere Bloccato o Parato.
+- Un numero di volte per riposo pari al tuo livello da Ombra, quando fallisci una prova di Destrezza o Furtività non legata alle trappole, non ci sono conseguenze e se vuoi puoi immediatamente ritentare la prova con un bonus di +2.
+- Hai +2 ad arrampicarti e se non sei sotto pressione puoi arrampicarti su una superfice con appigli o una corda senza dover fare delle prove.
+- Guadagni il talento Furtivo.
+### Livello 2
+- Puoi attraversare normalmente gli spazi occupati dai nemici.
+- Un numero di volte per riposo pari al tuo livello da Ombra, la tua prossima Azione non causa Reazioni.
+### Livello 3
+- Un numero di volte per riposo pari al tuo livello da Ombra, come movimento puoi sparire in un ombra e ricomparire in un’altra ombra che vedi entro 10m.
+- Se fallisci un tiro di Schivare per evitare del danno, dimezza il danno.
+### Livello 4
+- Una volta per riposo puoi momentaneamente svanire nell’ombra e diventare incorporeo per annullare gli effetti di un’attacco su di te.

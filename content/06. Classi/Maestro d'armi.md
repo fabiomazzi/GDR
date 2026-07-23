@@ -1,0 +1,32 @@
+---
+Tipo: classe
+PV: "8"
+Abilità: Conoscenze, Magia
+livello1: Reazione; Distillatore magico; Usa Conoscenze per creare Composti e Veleni
+livello2: Crea e usa immediatamente un Composto o un Veleno
+livello3: Accesso ai Composti da Alchimista
+livello4: Può usare due Composti con un'Azione
+---
+Descrizione della classe, tira le pugnalate, ai che male, non so devo scrivere un po' di descrizione per vedere come sta.
+
+**PV:** 8  
+**Abilità:** Destrezza, Forma Fisica
+
+---
+### Livello 1
+- **Reazione**: minacci l’attaccante, anche con un’arma comoda. Fai un’attacco rapido con un’arma impugnata o comoda, puoi tenere impugnata quell’arma.
+- Hai uno slot arma comoda aggiuntivo.
+- Sai usare le proprietà speciali di tutte le armi.
+- Arsenale vivente: quando attacchi con un’arma diversa da quella usata per il tuo ultimo attacco, ottieni una carica Arsenale (numero massimo pari al tuo livello da Maestro d’armi), se a fine turno non hai attaccato un nemico perdi una carica.
+- Per ogni Carica Arsenale hai +1 al tiro per colpire.
+### Livello 2
+- Puoi usare una Carica Arsenale per ritirare i danni di un attacco.
+- Quando colpisci puoi usare una Carica Arsenale per curarti di 1d4 PV per livello da Maestro d’armi.
+- Hai Armatura bonus pari alle tue Cariche Arsenale.
+### Livello 3
+- Puoi usare le tue armi comode per Parare e Bloccare.
+- Quando colpisci, puoi usare un Carica Arsenale per applicare una lesione al bersaglio.
+- Ad inizio incontro guadagna una Carica Arsenale.
+- Hai uno slot arma comoda aggiuntivo.
+### Livello 4
+- Considera le tue armi comode come armi secondarie, quando attacchi puoi usare una di essere per fare un attacco rapido.

@@ -1,0 +1,17 @@
+- togliere buff +X e mettere buff che modificano il come affrontare fight
+- il sistema di magia fa probabilmente schifo, è da sistemare
+- armi e altro equip dovrebbero dare cose non legate alla loro funzione, tipo un martello che da percezione, una staffa che da FF, etc
+- semplificare il sistema per creare di composti e veleni, così non ha neanche senso perché non si possono comprare o trovare
+- fare armi e armature da monaco
+- fare gear che i druidi possono usare da trasformati
+- fare nemici e incontri con attacchi che non possono essere schivati, ma solo bloccati o parati (un’arma gigante, proiettili a ricerca)
+- dare immunità o abbassare il grado delle lesioni al gear. es: elmo occhi, guanti d’arme mani, etc
+- fare le proprietà speciali delle armi
+- gear e talenti per far recuperare gli usi di incanalare, condotto spirituale e simili
+- ricordarsi quando si mastera e si fanno avventure di avere cose tipo “se c’è un classe/razza si hanno vantaggi, non bisogna tirare, etc.” soprattutto per classi “non da combat”
+- da controllare i vari “hai +x all’abilità” e “hai +x alle prove di abilità”
+- fare armi che hanno bonus se usate per attacchi con reazioni
+- dare a più cose la possibilità di fermare le persone, soprattutto ai tank
+- valutare se applicare lesioni è interessante o è meglio tenerla come meccanica principalmente per i nemici
+- fare le trappole
+- finire provenienze

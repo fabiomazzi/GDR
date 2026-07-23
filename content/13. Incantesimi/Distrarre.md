@@ -1,0 +1,11 @@
+---
+Costo: 2
+Difesa: Volontà
+Durata: Istantaneo
+Gittata: 10m
+Rapido: false
+Servitore: false
+Armatura: false
+Tipo: incantesimo
+---
+Rendi il bersaglio Frastornato fino al suo prossimo turno.
