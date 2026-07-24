@@ -1,4 +1,2 @@
-[[FAQ]]
-[[Work in progress]]
-[[Parole chiave e abbreviazioni]]
-[[Ambientazione]]
+![[99.1 Info generali]]
+![[99.2 Work in progress]]
