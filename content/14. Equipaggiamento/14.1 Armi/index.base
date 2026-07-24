@@ -1,3 +1,35 @@
+properties:
+  file.name:
+    displayName: Nome
 views:
   - type: table
-    name: Table
+    name: Armi
+    filters:
+      and:
+        - Tipo == "arma"
+        - Magico != true
+    order:
+      - file.name
+      - Danno
+      - FF req
+      - DES req
+      - Difesa
+      - 2h
+      - A
+      - L
+      - T
+      - P
+      - C
+      - Capacità Speciali
+      - Note
+    sort:
+      - property: Danno
+        direction: ASC
+      - property: FF req
+        direction: ASC
+      - property: Note
+        direction: ASC
+    columnSize:
+      note.FF req: 66
+      note.DES req: 80
+      note.Capacità Speciali: 233
