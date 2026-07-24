@@ -25,8 +25,6 @@ views:
     sort:
       - property: Danno
         direction: ASC
-      - property: FF req
-        direction: ASC
       - property: Note
         direction: ASC
     columnSize:

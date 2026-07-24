@@ -9,7 +9,7 @@ C: true
 DES req: 2
 Danno: 2d8
 difesa: B, P, S
-FF req: 7
+FF req: 6
 L: false
 Note:
 Parare:
