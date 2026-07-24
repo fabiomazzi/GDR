@@ -1,6 +1,9 @@
+properties:
+  file.name:
+    displayName: Nome
 views:
   - type: table
-    name: Table
+    name: Armi
     filters:
       and:
         - Tipo == "arma"
@@ -23,8 +26,6 @@ views:
       - property: Danno
         direction: ASC
       - property: FF req
-        direction: ASC
-      - property: file.name
         direction: ASC
       - property: Note
         direction: ASC
