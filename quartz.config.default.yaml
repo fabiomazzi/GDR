@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: it-IT
-  baseUrl: fabiomazzi.github.io/RPG
+  baseUrl: fabiomazzi.github.io/GDR
   ignorePatterns:
     - private
     - templates
