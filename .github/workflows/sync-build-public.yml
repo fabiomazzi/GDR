@@ -12,8 +12,6 @@ jobs:
     timeout-minutes: 10
     permissions:
       contents: write
-    outputs:
-      changed: ${{ steps.commit.outputs.changed }}
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -46,7 +44,6 @@ jobs:
             -v
 
       - name: Commit and push if changed
-        id: commit
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
@@ -55,18 +52,15 @@ jobs:
 
           if git diff --staged --quiet; then
             echo "Nessuna modifica"
-            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
           git commit -m "Sync notes from Nextcloud"
           git pull --rebase origin v5
           git push origin HEAD:v5
-          echo "changed=true" >> "$GITHUB_OUTPUT"
 
   build:
     needs: sync
-    if: needs.sync.outputs.changed == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
@@ -98,7 +92,6 @@ jobs:
 
   deploy:
     needs: build
-    if: needs.sync.outputs.changed == 'true'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
