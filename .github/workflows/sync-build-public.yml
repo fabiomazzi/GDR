@@ -1,8 +1,6 @@
 name: Sync Notes and Publish
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 3 * * *"  # ogni notte alle 03:00 UTC - rimuovi se non ti serve
 
 concurrency:
   group: "pages"
