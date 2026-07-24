@@ -1,12 +1,8 @@
 name: Sync Notes and Publish
-
 on:
   workflow_dispatch:
-
-permissions:
-  contents: write
-  pages: write
-  id-token: write
+  schedule:
+    - cron: "0 3 * * *"  # ogni notte alle 03:00 UTC - rimuovi se non ti serve
 
 concurrency:
   group: "pages"
@@ -15,15 +11,23 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          ref: v5
 
       - name: Install rclone
-        run: curl https://rclone.org/install.sh | sudo bash
+        run: sudo apt-get update && sudo apt-get install -y rclone
 
       - name: Configure rclone
         run: |
+          set -euo pipefail
           mkdir -p ~/.config/rclone
           OBSCURED=$(rclone obscure "${{ secrets.NC_PASS }}")
           {
@@ -37,38 +41,58 @@ jobs:
 
       - name: Sync notes into content/
         run: |
+          set -euo pipefail
           rclone sync nextcloud: content/ \
             --exclude ".obsidian/**" \
             --exclude ".trash/**" \
             -v
 
       - name: Commit and push if changed
+        id: commit
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add content/
-          git diff --staged --quiet && echo "Nessuna modifica" && exit 0
+
+          if git diff --staged --quiet; then
+            echo "Nessuna modifica"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
           git commit -m "Sync notes from Nextcloud"
           git pull --rebase origin v5
-          git push
+          git push origin HEAD:v5
+          echo "changed=true" >> "$GITHUB_OUTPUT"
 
   build:
     needs: sync
+    if: needs.sync.outputs.changed == 'true'
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@v4
         with:
           ref: v5
           fetch-depth: 0
+
       - uses: actions/setup-node@v4
         with:
-          node-version: 24
+          node-version: 22
+          cache: 'npm'
+
       - name: Install Dependencies
         run: npm ci
+
       - name: Install Quartz plugins
         run: npx quartz plugin install --latest
+
       - name: Build Quartz
         run: npx quartz build
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -76,10 +100,15 @@ jobs:
 
   deploy:
     needs: build
+    if: needs.sync.outputs.changed == 'true'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      pages: write
+      id-token: write
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
