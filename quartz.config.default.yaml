@@ -122,7 +122,7 @@ plugins:
   - source: github:quartz-community/content-page
     enabled: true
   - source: github:quartz-community/folder-page
-    enabled: true
+    enabled: false
     options:
       showFolderCount: false
   - source: github:quartz-community/tag-page
