@@ -1,8 +1,8 @@
 ---
+Descrizione: Descrizione della classe, tira le magie, pim pum pam tipo mago pazzo, non so devo scrivere un po' di descrizione per vedere come sta.
 Tipo: classe
 PV: "4"
 Abilità: Magia, Volontà
-Descrizione: Descrizione della classe, tira le magie, pim pum pam tipo mago pazzo, non so devo scrivere un po' di descrizione per vedere come sta.
 ---
 Descrizione della classe, tira le magie, pim pum pam tipo mago pazzo, non so devo scrivere un po' di descrizione per vedere come sta.
 
