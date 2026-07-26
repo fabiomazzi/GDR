@@ -1,0 +1,158 @@
+*⚠️ Per Azioni, Reazioni, inventario, etc. vengono trattati come tutti gli altri oggetti*
+
+In base alla tipologia possono essere lanciati entro 10m, cosparsi sul bersaglio o fatti ingerire.  
+Per identificare un composto bisogna superare la sua DIF con una delle abilità con cui si crea.  
+*es: per capire che in un cibo o una fiala c’è una Pozione di guarigione, bisogna tirare Medicina o Sopravvivenza superando la sua DIF*
+
+Per creare un composto di cui hai i requisiti devi:  
+1. saper usare un distillatore e averne uno a disposizione  
+2. preparare i materiali
+3. lasciarlo riposare per 8 ore
+4. metterlo in una fiala di vetro
+
+Dopo 24 ore diventa inerte, tranne se specificato diversamente.  
+Se un composto si riferisce a livello, PA o simili, si intende di chi lo ha creato.  
+Se un composto prevede un modo per difendersi, quando lo crei fai un tiro dell’abilità usata per crearlo, sarà la sua DIF.  
+*es: quando crei una fiala esplosiva fai un tiro di Conoscenze o Magia, sarà la DIF per difendersi*
+
+# Composti
+### 🧪 ANTIDOTO
+Ritira la difesa contro un veleno, hai un bonus a quel tiro pari all’abilità usata per creare l’antidoto.
+Non puoi assumere un antidoto dello stesso tipo fino al prossimo riposo.
+Requisiti: 1 PA in Medicina o Sopravvivenza.
+### 🔥 BOMBA ELEMENTALE
+Lancia una fialetta, considerala un’arma da lancio, il bersaglio può Schivarla, se non lo fa subisce 1d4 danni per livello dall’elemento scelto durante la creazione e per un round diventa Corroso se acido, Ustionato se fuoco, Congelato se ghiaccio, Assordato o Atterrato se aria, Sofferente se fulmine.
+
+Requisiti: 3 PA in Conoscenze.
+### 🕳️ CATRAME
+Crea una zona di terreno difficile del diametro di 10m, è facilmente infiammabile (basta un danno da fuoco).
+Se qualcuno inizia e finisce il suo turno nel catrame, diventa intrappolato.  
+Requisiti: 1 PA in Sopravvivenza.
+### 💣 FIALA ESPLOSIVA
+Fa 1d4 danni da un elemento a tua scelta per livello in un diametro di 1m per livello. Con Schivare o Bloccare si dimezza il danno.  
+Requisiti: 3 PA in Conoscenze o Magia.
+### 💨 ONDA D’URTO
+Tutti i bersagli entro 6m devono fare un tiro di FF, se falliscono vengono respinti di 6m nella direzione opposta rispetto all’esplosione.  
+Requisiti: 4 PA in Conoscenze o Magia.
+### ⚗️ POTENZA ARCANA
+Recuperi mana pari all’abilità utilizzata per crearla.
+Requisiti: 3 PA in Conoscenze o Magia.
+### 🦇 POZIONE DI ECOLOCAZIONE
+Per 1 ora puoi muoverti basandoti sui suoni, entro 10m puoi muoverti come se ci vedessi normalmente anche nel buio completo (non vedi i colori o altre cose per cui è necessaria la vista).
+Requisiti: 5 PA in Magia.
+### 🥷 POZIONE DI FURTIVITÀ
+Per un’ora hai +2 alle prove di Furtività e muoversi furtivamente non è un movimento complesso.
+Requisiti: 5 PA in Magia.
+### 🥊 POZIONE DEL COMBATTENTE
+Per 1 ora hai +1 a Colpire.
+Requisiti: 5 PA in Magia.
+### 🗿 POZIONE DELLA SALUTE
+Ritira la difesa contro una condizione fisica da cui sei afflitto tra Accecato, Assordato, Congelato, Corroso, Silenziato, Sofferente e Ustionato, hai un bonus a quel tiro pari all’abilità usata per creare la pozione.  
+Requisiti: 3 PA in Medicina o Sopravvivenza.
+### 🫣 POZIONE DI INVISIBILITÀ
+Diventi invisibile fino all’inizio del tuo prossimo turno.  
+Requisiti: 6 PA in Magia.
+### 🐒 POZIONE DEI MOVIMENTI AGILI
+Per 1 ora scalare, arrampicarsi, muoversi accucciato, attraversare cunicoli, folle, detriti, etc. non sono considerati movimenti complessi. Altre condizioni che ti intralciano fisicamente come essere carichi o trascinare qualcosa, rimangono movimenti complessi.  
+Requisiti: 5 PA in Conoscenze o Magia.
+### ❤️ POZIONE DI GUARIGIONE
+Ti curi di 1d4 PV per livello.  
+Requisiti: 5 PA in Conoscenze o Medicina.
+### 💪 POZIONE DI ABILITÀ
+Per un ora hai +2 alle prove di un’Abilità a tua scelta.  
+Requisiti: 5 PA in Conoscenze.
+### 🛡️ POZIONE DI PROTEZIONE
+Per 1 ora hai un bonus di Armatura pari al tuo livello.  
+Requisiti: 4 PA in Conoscenze o Magia.
+### 🩸 POZIONE DI RESISTENZA
+Per 1 ora hai resistenza al tipo di danno scelto durante la creazione di questo composto.  
+Requisiti: 4 PA in Conoscenze o Magia.
+### 🐟 POZIONE DI RESPIRARE SOTT’ACQUA
+Per 1 ora puoi respirare sott’acqua.  
+Requisiti: 5 PA in Magia.
+### 🏃‍♂️‍➡️ POZIONE DI VELOCITÀ
+Per 1 ora hai un bonus alla velocità di movimento di 4m.  
+Requisiti: 5 PA in Magia.
+### 🛫 POZIONE DI VOLARE
+Per i prossimi 10m di movimento effettuati entro 1 ora, puoi muoverti in qualunque direzione senza toccare il terreno.  
+Requisiti: 5 PA in Magia.
+### 📡 SEGNALATORE
+Puoi versarlo o lanciarlo su un oggetto o persona (può Schivare per difendersi).  
+Sai la direzione in cui è il bersaglio. Se ti avvicini entro 10m sai la posizione esatta.  
+Dura 20 minuti per PA.  
+Requisiti: 4 PA in Magia.
+### 🧉 UNGUENTO
+Spalma un unguento che toglie le condizioni Corroso, Sanguinante e Ustionato.  
+Requisiti: 1 PA in Medicina o Sopravvivenza.
+### 💉 VACCINO
+Crea un vaccino contro un Veleno o una malattia specifica. Il bersaglio ha +4 per difendersi da quel Veleno o malattia per 24 ore.  
+Requisiti: 4 PA in Medicina.
+# Composti da alchimista
+Se sei un Alchimista di livello 3 hai accesso ai seguenti composti, puoi creare ognuno di essi al massimo una volta al giorno, sono utilizzabili solo da te:
+### 🧌 POZIONE DI FORZA
+Per 1 ora guadagni:
+
+- raddoppia la tua stazza
+- aumenta di uno step la tua dimensione
+- +2 a FF, -2 a Destrezza e -4 a Furtività.
+- 2 PV bonus per livello
+
+Requisiti: 5 PA in Magia.
+### 🪨 POZIONE DI DIFESA
+Per 1 ora hai un bonus di Armatura pari all’abilità usata per creare la pozione.  
+Requisiti: 5 PA in Magia.
+### 🐒 POZIONE DEI RIFLESSI
+Per 1 ora hai +2 a Destrezza.  
+Requisiti: 5 PA in Magia.
+### 🪄 Simulacro
+Copia gli effetti di un incantesimo che ha un costo di mana pari o inferiore alle tue Conoscenze  
+Requisiti: 5 PA in Magia.
+# Veleni
+Possono avere un tempo di incubazione che va da immediato a 24 ore, a scelta di chi li crea.  
+Con un’Azione puoi intingere un arma in un veleno che hai in uno slot comodo, la prossima volta che colpisci con quell’arma, il bersaglio viene avvelenato. Ogni dose è sufficiente per un attacco.  
+In alternativa puoi far ingerire il veleno alla vittima.
+
+Per identificare un veleno bisogna superare la sua DIF con una delle abilità con cui si crea.  
+*es: per capire che in un cibo o fiala è presente un Siero della Verità, bisogna tirare Magia contro la sua DIF*
+
+Per creare un veleno di cui hai i requisiti devi:  
+1. saper usare un distillatore e averne uno a disposizione  
+2. prepararlo
+3. lasciarlo riposare per 8 ore
+4. metterlo in una fiala di vetro
+
+In alternativa, se hai i requisiti per crearlo, puoi estrarne una dose per pianta o animale.  
+*es: hai 6 punti in Medicina, puoi estrarre una dose di Lassativo da una pianta adatta, tira Medicina per determinare la sua DIF*
+
+In entrambi i casi dopo 24 ore diventa inerte.
+
+Quando lo crei fai un tiro dell’abilità usata per crearlo, sarà la DIF da superare con un tiro di FF per resistere al veleno. Se un veleno si riferisce a livello, PA o simili, si intende quello di chi lo ha creato.  
+*es: hai 6 punti in Medicina, puoi estrarre una dose di Lassativo da una pianta adatta, tira Medicina per determinare la sua DIF*
+
+### 💃 COREA
+Se a fine turno non hai fatto almeno 4m di movimento, subisci danni pari all’abilità usata per crearlo.  
+Requisiti: 5 PA in Medicina o Sopravvivenza.
+### 💩 LASSATIVO
+Hai un forte stimolo di andare in bagno, devi superare un tiro su Volontà per non farla sul posto (è un’Azione).  
+Requisiti: 2 PA in Medicina o Sopravvivenza.
+### 👄 SIERO DELLA VERITÀ
+Ogni volta che provi a mentire devi difenderti con Volontà, se fallisci devi dire la verità 
+Requisiti: 5 PA Magia.
+### 💤 SONNIFFERO
+Diventi Addormentato, se cerchi di resistere devi superare un tiro su Volontà.  
+Requisiti: 3 PA in Medicina o Sopravvivenza.
+### 😮‍💨 TOSSINA DEBILITANTE
+Hai -2 ad un’abilità a scelta di chi lo ha creato.  
+Requisiti: 3 PA in Medicina o Sopravvivenza.
+### ☠️ TOSSINA VELENOSA
+All’inizio del round subisci 1d4 danni da veleno.  
+Requisiti: 3 PA in Medicina o Sopravvivenza.
+### 😫 TOSSINA INDEBOLENTE
+Subisci un danno aggiuntivo da ogni fonte.  
+Requisiti: 4 PA in Medicina o Sopravvivenza.
+### 👀 TOSSINA STIMOLANTE
+Non puoi addormentarti, ogni 24 ore che passi sveglio ha -1 ad ogni tiro di dado.  
+Requisiti: 5 PA in Medicina o Sopravvivenza.
+### 🔥 TOSSINA URTICANTE
+Diventi Accecato, Assordato, Congelato, Silenziato o Ustionato, ogni round puoi ritirare FF per interrompere l’effetto.  
+Requisiti: 5 PA in Medicina o Sopravvivenza.
