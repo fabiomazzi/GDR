@@ -1,7 +1,9 @@
-```base
+properties:
+  file.name:
+    displayName: Nome
 views:
   - type: table
-    name: Table
+    name: Classi
     filters:
       and:
         - Tipo == "classe"
@@ -9,5 +11,5 @@ views:
       - file.name
       - PV
       - Abilità
-
-```
+    sort: []
+    columnSize: {}

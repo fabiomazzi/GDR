@@ -1,7 +1,7 @@
 ---
 Tipo: razza
 Abilità: Conoscenze, Perspicacia
-Linguaggi: Comune
+Linguaggi: Comune e uno a scelta
 ---
 Creati dal primo Tecnomante come schiavi, facendoli sempre più avanzati è riuscito ad infondergli una coscienza.
 Il Tecnomante non si sa che fine abbia fatto, nessuno/molto pochi sanno farli.

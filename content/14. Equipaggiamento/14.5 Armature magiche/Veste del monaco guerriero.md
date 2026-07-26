@@ -1,11 +1,11 @@
 ---
 Tipo: armatura
 magico: true
-armatura:
+armatura: 0
 Descrizione:
 FF req:
 MAG req:
 Schivare:
-VOL req: 6
+VOL req: 4
 ---
 

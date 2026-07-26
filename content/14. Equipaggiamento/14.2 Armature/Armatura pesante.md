@@ -6,7 +6,7 @@ Bloccare:
 Capacità Speciali:
 DES req:
 Danno:
-Destrezza: -3
+Malus DES: -3
 FF req: 3
 Note:
 Parare:

@@ -1,0 +1,17 @@
+properties:
+  file.name:
+    displayName: Nome
+views:
+  - type: table
+    name: Abilità
+    filters:
+      and:
+        - Tipo == "Abilità"
+    order:
+      - file.name
+      - Classi
+      - Razze
+      - Provenienze
+    columnSize:
+      note.Classi: 646
+      note.Razze: 227

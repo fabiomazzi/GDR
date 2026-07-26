@@ -1,0 +1,21 @@
+properties:
+  file.name:
+    displayName: Nome
+views:
+  - type: table
+    name: Incantesimi
+    filters:
+      and:
+        - Tipo == "incantesimo"
+    order:
+      - file.name
+      - Costo
+      - Durata
+      - Gittata
+      - Rapido
+      - Difesa
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.Costo: 66

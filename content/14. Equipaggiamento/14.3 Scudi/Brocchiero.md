@@ -6,7 +6,7 @@ Bloccare: 0
 Capacità Speciali:
 DES req: 2
 Danno:
-Destrezza:
+Malus DES:
 FF req:
 Note: la mano con cui viene usato viene considerata libera
 Parare: 1

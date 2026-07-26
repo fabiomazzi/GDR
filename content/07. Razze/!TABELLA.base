@@ -1,0 +1,15 @@
+properties:
+  file.name:
+    displayName: Nome
+views:
+  - type: table
+    name: Razze
+    filters:
+      and:
+        - Tipo == "razza"
+    order:
+      - file.name
+      - Abilità
+      - Linguaggi
+    columnSize:
+      note.Abilità: 273
