@@ -3,7 +3,7 @@ import * as ExternalPlugin from "./.quartz/plugins"
 
 // Nasconde "nascosto" dall'Explorer (deve stare prima di loadQuartzConfig)
 ExternalPlugin.Explorer({
-  filterFn: (node) => node.slug !== "Nascosto",
+  filterFn: (node) => node.slug !== "nascosto",
 })
 
 const config = await loadQuartzConfig()
