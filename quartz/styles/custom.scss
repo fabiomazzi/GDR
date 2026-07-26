@@ -1,3 +1,8 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+.bases-table th, .bases-table td {
+  width: auto !important;
+  min-width: 0 !important;
+}
