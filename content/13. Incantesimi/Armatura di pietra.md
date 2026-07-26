@@ -5,7 +5,7 @@ Durata: 1 giorno
 Gittata: Te stesso
 Rapido: false
 Servitore: false
-Armatura: true
+Armatura inc: true
 Tipo: incantesimo
 ---
 Hai +2 di armatura per ogni volta che hai pagato questo incantesimo.

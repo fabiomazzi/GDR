@@ -1,11 +1,8 @@
 ---
+Descrizione: Descrizione della classe, tira le magie, pim pum pam tipo mago pazzo, non so devo scrivere un po' di descrizione per vedere come sta.
 Tipo: classe
 PV: "4"
 Abilità: Magia, Volontà
-livello1: Reazione; Distillatore magico; Usa Conoscenze per creare Composti e Veleni
-livello2: Crea e usa immediatamente un Composto o un Veleno
-livello3: Accesso ai Composti da Alchimista
-livello4: Può usare due Composti con un'Azione
 ---
 Descrizione della classe, tira le magie, pim pum pam tipo mago pazzo, non so devo scrivere un po' di descrizione per vedere come sta.
 

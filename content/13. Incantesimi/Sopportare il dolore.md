@@ -5,7 +5,7 @@ Durata: 1 turno per livello
 Gittata: 10m
 Rapido: false
 Servitore: false
-Armatura: false
+Armatura inc: false
 Tipo: incantesimo
 ---
 Il bersaglio ignora una lesione non critica.

@@ -5,7 +5,7 @@ Durata: 1 giorno
 Gittata: Te stesso
 Rapido: false
 Servitore: false
-Armatura: true
+Armatura inc: true
 Tipo: incantesimo
 ---
 Hai resistenza ai danni da acido.

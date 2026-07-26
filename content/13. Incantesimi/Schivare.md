@@ -5,7 +5,7 @@ Durata: 1 turno
 Gittata: Te stesso
 Rapido: false
 Servitore: false
-Armatura: false
+Armatura inc: false
 Tipo: incantesimo
 ---
 Dai +1 a Schivare fino al tuo prossimo turno.

@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: it-IT
-  baseUrl: fabiomazzi.github.io/RPG
+  baseUrl: fabiomazzi.github.io/GDR
   ignorePatterns:
     - private
     - templates
@@ -122,7 +122,7 @@ plugins:
   - source: github:quartz-community/content-page
     enabled: true
   - source: github:quartz-community/folder-page
-    enabled: false
+    enabled: true
     options:
       showFolderCount: false
   - source: github:quartz-community/tag-page
@@ -131,9 +131,9 @@ plugins:
     enabled: true
     options:
       title: Explorer
-      folderClickBehavior: "collapse"
+      folderClickBehavior: "link"
       folderDefaultState: "collapsed"
-      useSavedState: true
+      useSavedState: false
     layout:
       position: left
       priority: 50
@@ -223,7 +223,7 @@ plugins:
   - source: github:quartz-community/note-properties
     enabled: true
     options:
-      includeAll: true
+      includeAll: false
       includedProperties: []
       excludedProperties: []
       hidePropertiesView: true

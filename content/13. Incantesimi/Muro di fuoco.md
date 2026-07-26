@@ -5,7 +5,7 @@ Durata: 1 turno per livello
 Gittata: 10m
 Rapido: true
 Servitore: false
-Armatura: false
+Armatura inc: false
 Tipo: incantesimo
 ---
 Crea un muro di fuoco lungo 10m e largo 1m, puoi modellare il lato lungo come vuoi, chi lo attraversa subisce 1d6 danni da fuoco per livello.

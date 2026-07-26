@@ -1,0 +1,28 @@
+properties:
+  file.name:
+    displayName: Nome
+views:
+  - type: table
+    name: Armature
+    filters:
+      and:
+        - Tipo == "armatura"
+        - Magico != true
+    order:
+      - file.name
+      - Armatura
+      - FF req
+      - Malus DES
+      - VOL req
+      - MAG req
+      - DES req
+      - Note
+      - Capacità Speciali
+    sort: []
+    columnSize:
+      note.Armatura: 89
+      note.FF req: 67
+      note.Malus DES: 96
+      note.DES req: 79
+      note.VOL req: 82
+      note.MAG req: 87

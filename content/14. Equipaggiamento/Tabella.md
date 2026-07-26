@@ -1,0 +1,76 @@
+Questa tabella raccoglie tutti i progetti attivi, filtrati per tag `#progetto` e ordinati per data di aggiornamento. Ogni riga rimanda alla nota completa. 
+
+
+```base
+properties:
+  file.name:
+    displayName: Nome
+views:
+  - type: table
+    name: Armi
+    filters:
+      and:
+        - Tipo == "arma"
+        - Magico != true
+    order:
+      - file.name
+      - Danno
+      - FF req
+      - DES req
+      - Difesa
+      - 2h
+      - A
+      - L
+      - T
+      - P
+      - C
+      - Capacità Speciali
+      - Note
+    sort:
+      - property: Danno
+        direction: ASC
+      - property: Note
+        direction: ASC
+    columnSize:
+      note.FF req: 66
+      note.DES req: 80
+      note.Capacità Speciali: 237
+  - type: table
+    name: Armi magiche
+    filters:
+      and:
+        - Tipo == "arma"
+        - Magico == true
+    order:
+      - file.name
+      - Danno
+      - FF req
+      - DES req
+      - Difesa
+      - 2h
+      - A
+      - L
+      - T
+      - P
+      - C
+      - Capacità Speciali
+      - Note
+    sort:
+      - property: Danno
+        direction: ASC
+      - property: Note
+        direction: ASC
+    columnSize:
+      note.FF req: 66
+      note.DES req: 80
+      note.Capacità Speciali: 237
+  - type: list
+    name: Intro
+    filters:
+      and:
+        - '!note["Intro armi"].isEmpty()'
+    order:
+      - Intro armi
+    rowHeight: extra
+
+```

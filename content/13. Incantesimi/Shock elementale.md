@@ -5,7 +5,7 @@ Durata: Istantaneo
 Gittata: Contatto
 Rapido: true
 Servitore: false
-Armatura: false
+Armatura inc: false
 Tipo: incantesimo
 ---
 Fai 1d4 danni per livello dell’elemento scelto.

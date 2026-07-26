@@ -5,7 +5,7 @@ Durata: Istantaneo
 Gittata: 10m
 Rapido: false
 Servitore: false
-Armatura: false
+Armatura inc: false
 Tipo: incantesimo
 ---
 Descrizione: Cura 1d4 PV per ogni volta che hai pagato questo incantesimo.

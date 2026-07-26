@@ -1,0 +1,3 @@
+---
+Tipo: oggetto
+---

@@ -5,7 +5,7 @@ Durata: Istantaneo
 Gittata: 10m
 Rapido: false
 Servitore: false
-Armatura: false
+Armatura inc: false
 Tipo: incantesimo
 ---
 Fai 1d4 danni necrotici per livello e curati di altrettanti PV.

@@ -5,7 +5,7 @@ Durata: Istantaneo
 Gittata: Contatto
 Rapido: false
 Servitore: false
-Armatura: false
+Armatura inc: false
 Tipo: incantesimo
 ---
 Fai 1d6 danni necrotici per livello.

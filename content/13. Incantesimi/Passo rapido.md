@@ -5,7 +5,7 @@ Durata: 1 turno
 Gittata: 10m
 Rapido: true
 Servitore: false
-Armatura: false
+Armatura inc: false
 Tipo: incantesimo
 ---
 I movimenti del bersaglio non causano opportunità.

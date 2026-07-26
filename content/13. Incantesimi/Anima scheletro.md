@@ -5,6 +5,6 @@ Durata: Istantaneo
 Gittata: 10m
 Rapido: false
 Servitore: false
-Armatura: false
+Armatura inc: false
 Tipo: incantesimo
 ---
