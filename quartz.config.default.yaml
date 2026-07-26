@@ -226,7 +226,9 @@ plugins:
       includeAll: true
       includedProperties: []
       excludedProperties:
-        - tipo
+        - title
+        - modified
+        - Tipo
       hidePropertiesView: false
       delimiters: ---
       language: yaml
