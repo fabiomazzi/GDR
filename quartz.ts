@@ -1,7 +1,10 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import * as ExternalPlugin from "./.quartz/plugins"
 
-ExternalPlugin.FolderPage({
+const config = await loadQuartzConfig()
+
+const customFolderPage = ExternalPlugin.FolderPage({
+  showFolderCount: false,
   sort: (a, b) => {
     const t1 = a.frontmatter?.title?.toLowerCase() ?? ""
     const t2 = b.frontmatter?.title?.toLowerCase() ?? ""
@@ -9,6 +12,9 @@ ExternalPlugin.FolderPage({
   },
 })
 
-const config = await loadQuartzConfig()
+config.plugins.pageTypes = config.plugins.pageTypes.map((p) =>
+  p.name === "FolderPage" ? customFolderPage : p
+)
+
 export default config
 export const layout = await loadQuartzLayout()

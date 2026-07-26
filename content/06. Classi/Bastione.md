@@ -4,7 +4,7 @@ PV: "10"
 Abilità: Forma Fisica, Percezione
 Descrizione: Descrizione della classe.
 ---
-Descrizione della classe.
+Descrizione della classe. Molto bella.
 
 **PV:** 10  
 **Abilità:** Forma Fisica, Percezione
