@@ -225,8 +225,10 @@ plugins:
     options:
       includeAll: false
       includedProperties: []
-      excludedProperties: []
-      hidePropertiesView: true
+      excludedProperties:
+        - tipo
+        
+      hidePropertiesView: false
       delimiters: ---
       language: yaml
     order: 5
