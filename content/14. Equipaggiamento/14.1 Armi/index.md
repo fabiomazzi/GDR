@@ -1,0 +1,1 @@
+![[14. Equipaggiamento/14.1 Armi/!TABELLA.base]]

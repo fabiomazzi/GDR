@@ -14,11 +14,17 @@ views:
       - Gittata
       - Rapido
       - Difesa
+<<<<<<< HEAD
       - Armatura
     sort:
       - property: file.name
         direction: ASC
       - property: Armatura
         direction: DESC
+=======
+    sort:
+      - property: file.name
+        direction: ASC
+>>>>>>> 772f6e72d6b353c6e0fa8d4a4afcfbc8d52fe1f6
     columnSize:
       note.Costo: 66
