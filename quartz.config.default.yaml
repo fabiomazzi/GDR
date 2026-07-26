@@ -12,7 +12,6 @@ configuration:
     - private
     - templates
     - .obsidian
-    - Nascosto
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
