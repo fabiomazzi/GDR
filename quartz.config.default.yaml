@@ -223,11 +223,10 @@ plugins:
   - source: github:quartz-community/note-properties
     enabled: true
     options:
-      includeAll: false
+      includeAll: true
       includedProperties: []
       excludedProperties:
         - tipo
-        
       hidePropertiesView: false
       delimiters: ---
       language: yaml
