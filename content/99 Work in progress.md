@@ -4,7 +4,7 @@
 - semplificare il sistema per creare di composti e veleni, così non ha neanche senso perché non si possono comprare o trovare
 - fare armi e armature specifiche per le classi?
 - fare gear che i druidi possono usare da trasformati
-- fare nemici e incontri con attacchi che non possono essere schivati, ma solo bloccati o parati (un’arma gigante, proiettili a ricerca)
+- fare armi, nemici e incontri con attacchi che non possono essere schivati, ma solo bloccati o parati (armi magiche, giganti, proiettili a ricerca)
 - dare immunità o abbassare il grado delle lesioni al gear. es: elmo occhi, guanti d’arme mani, etc
 - fare le proprietà speciali delle armi
 - gear e talenti per far recuperare gli usi di incanalare, condotto spirituale e simili
