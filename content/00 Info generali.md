@@ -1,7 +1,10 @@
 ---
-title: 00 Dove sono?
+title: Dove sono?
 ---
 Questo è il regolamento di \[INSERÒ IL NOME APPENA LO DECIDO].
+
+Un gioco di ruolo gratuito con un combattimento dinamico che ruota intorno a Schivate, Parate, Blocchi e Reazioni. Dove agisci anche fuori dal tuo turno e "come faccio a fare più danno possibile?" non è l'unica domanda che ti devi fare, senza collaborare si finisce male.
+Le lesioni fisiche non si risolvono con un cura ferite, un PG si fa in 10 minuti e ci sono più di 20 mila combinazioni di classi.
 ### Posso comprarlo?
 No, è gratis. Se volete supportare lo sviluppo, discutere e dare feedback potete iscrivervi qui con solo 5 euro al mese ed entrare nel gruppo Telegram: [https://fabiomazzi.it/nani](https://fabiomazzi.it/nani) (il sito è stato creato principalmente per il mio canale sui videogiochi, su Telegram abbiamo il canale per i GDR).
 
@@ -33,12 +36,6 @@ Trovo il combattimento di tanti GDR (soprattutto D&D) poco soddisfacente sotto v
 	- Se livellando volete che il vostro monaco studi necromanzia e alchimia, nessuno ve lo vieta.
 - Statistiche, caratteristiche, tira i dadi ma puoi togliere i più bassi e ritirare gli 1, non metterle dispari che non serve, competenze, talenti, puoi cambiare un bonus di razza per un altro... chi crea un PG le prime volte non ha idea di cosa sta facendo.
 	- Fare un PG è immediato, si crea in 10 minuti e non ci si sente sopraffatti. Nonostante questo la personalizzazione è tanta e ogni decisione conta.
-
-Altre note sparse:
-- non ci sono valute, si va a baratto
- - gli oggetti magici sono pochi e rari
- - il re non ha maghi di livello 20 a corte (che nonostante questo chiede aiuto a voi), il “power level” del mondo è molto basso
- - non c'è XP
 ### È fantasy?
 Sì ma molto adattabile, di base è “mid fantasy” (la magia è comune ma non eccessivamente potente).
 Il mondo era nato con una componente arcanopunk (marchingegni che incanalano la magia), ma è ancora da definire.
@@ -58,3 +55,8 @@ Un 12 per colpire causa una lesione o altri effetti in base alla classe.
 ### E gli attacchi di opportunità?
 Ci sono le Reazioni, sono azioni che potete fare se qualcuno vicino a voi attacca, viene attaccato, lancia un incantesimo, si cura, etc.
 Ogni classe ha reazioni diverse.
+### Altre note sparse:
+- non ci sono valute, il sistema "a soldi" ha troppi lati negativi rispetto a quelli positivi
+- gli oggetti magici sono pochi e rari
+- il re non ha maghi di livello 20 a corte (che nonostante questo chiede aiuto a voi), il “power level” del mondo è molto basso
+- non c'è XP, si livella a "milestones", cioè quando si raggiunge un determinato punto della storia (o il master si è svegliato di buon umore)

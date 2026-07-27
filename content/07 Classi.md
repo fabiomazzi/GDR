@@ -1,3 +1,4 @@
+```base
 properties:
   file.name:
     displayName: Nome
@@ -13,3 +14,5 @@ views:
       - Abilità
     sort: []
     columnSize: {}
+```
+
