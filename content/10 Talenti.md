@@ -1,3 +1,4 @@
+```base
 properties:
   file.name:
     displayName: Nome
@@ -10,3 +11,4 @@ views:
     sort:
       - property: file.name
         direction: ASC
+```

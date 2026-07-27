@@ -1,3 +1,4 @@
+```base
 properties:
   file.name:
     displayName: Nome
@@ -11,5 +12,8 @@ views:
       - file.name
       - Abilità
       - Linguaggi
-    columnSize:
-      note.Abilità: 273
+    columnSize: {}
+
+```
+
+

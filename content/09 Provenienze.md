@@ -1,3 +1,4 @@
+```base
 properties:
   file.name:
     displayName: Nome
@@ -11,3 +12,4 @@ views:
       - file.name
       - Abilità
     sort: []
+```
