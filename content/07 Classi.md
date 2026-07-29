@@ -15,4 +15,3 @@ views:
     sort: []
     columnSize: {}
 ```
-

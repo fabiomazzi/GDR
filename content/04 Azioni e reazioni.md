@@ -1,10 +1,11 @@
+## Azioni
 ### ⚔️ Attaccare
 Esegui un attacco con ogni arma che hai impugnato, gli attacchi con le armi secondarie sono Attacchi Rapidi.
 
 Un Attacco Rapido segue le stesse regole di un attacco normale ma senza aggiungere Colpire al danno e senza causare Reazioni.
 
 Vedi Gestire un’azione.
-### ✨ Attivare un effetto
+### ✨ Attivare un effetto magico
 Comprende:
 
 - lanciare un incantesimo
@@ -61,3 +62,14 @@ Se ti nascondi in combattimento, all’inizio di ogni turno devi ritirare Furtiv
 Ogni condizione può essere Trattata una volta per riposo.
 ### 🤸 Usare abilità e capacità
 Vedi Abilità e le Capacità di Classi, Razze, etc.
+## Reazioni
+Si hanno due reazioni ogni round, si possono usare in due modi:
+
+- Quando qualcuno compie un'azione, i partecipanti all'incontro possono usare una reazione fra le loro capacità, a patto di soddisfare i suoi requisiti
+*Si può usare una sola reazione per ogni azione. Esempi di requisiti:*
+	- *sei entro 10m da chi attacca*
+	- *un tuo alleato sta venendo attaccato*
+	- *un nemico ti sta attaccando*
+	- *minacci l'attaccante con un'arma da lancio*
+
+- Quando ci si sta difendendo si può usare una reazione per aggiungere la difesa specificata dall'attacco al proprio tiro.

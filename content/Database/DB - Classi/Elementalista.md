@@ -10,7 +10,7 @@ Descrizione della classe, tira le pugnalate, ai che male, non so devo scrivere u
 
 ---
 ### Livello 1
-- **Reazione**: sei entro 10m dell’attaccante. Lancia l’incantesimo Dardo Elementale.
+- **Reazione**: sei entro 10m dell’attaccante. Lancia l’incantesimo Dardo Elementale su di lui.
 - **Reazione**: sei un difensore. Lancia un incantesimo “armatura” su di te.
 - Padroneggiare un elemento.
 ### Livello 2

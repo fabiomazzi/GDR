@@ -1,22 +1,22 @@
 # Risolvere un'azione
-*Quando si risolve un’Azione, che sia ostile o meno, per “attaccante” si intende la persona o oggetto che compie l’azione, per “difensore” chi sta subendo l’azione.*  
-*es: una palla di fuoco può avere nessuno o più difensori, se qualcuno beve una pozione verrà considerato “attaccante” anche se non ci saranno difensori.*  
+*Quando si risolve un’azione, per “attaccante” si intende la persona o oggetto che compie l’azione, per “difensore” chi sta subendo l’azione.*  
+*es: una palla di fuoco può avere nessuno o più difensori, se qualcuno beve una pozione verrà considerato “attaccante” anche se non ci sono difensori.*  
 *Si può decidere di non opporsi e subire automaticamente l’azione.*
 ### 🎯 L’attaccante:
-- Usa un token Azione e dichiara che Azione vuole compiere, se stai lanciando un incantesimo consuma il Mana richiesto
+- Dichiara che [[04 Azioni e reazioni#Azioni|azione]] vuole compiere
 ### 🗡️ Gli altri partecipanti:
-- In ordine di iniziativa, possono usare un token Reazione per eseguire una Reazione
+- In ordine di [[02 Incontri e riposare|iniziativa]], possono eseguire una [[04 Azioni e reazioni#Reazioni|reazione]]
 ### 🎲 Risoluzione:
 **Se l’Azione non ha difensori, risolvila. Altrimenti:**
-- Se l’Azione ha un Colpire, l’attaccante tira 1d12 + il Colpire specificato
-- I difensori tirano 1d12 e se usano una Reazione aggiungono la difesa specificata dall’attacco
+- Se l’[[04 Azioni e reazioni#Azioni|azione]] ha un [[06 Scheda personaggio#Colpire|colpire]], l’attaccante tira 1d12 + il [[06 Scheda personaggio#Colpire|colpire]] specificato
+- I difensori tirano 1d12 e se usano una reazione aggiungono la difesa specificata dall’attacco.
 
 - **Attacco > difesa**
     - Si calcola il danno o gli effetti:
         - si tirano i dadi del danno
-        - si aggiunge il Colpire usato per l’attacco
-        - si aggiungono eventuali modifiche da Capacità, oggetti, etc.
-        - si riduce il totale per il valore di Armatura
+        - si aggiunge il [[06 Scheda personaggio#Colpire|colpire]] usato per l’attacco
+        - si aggiungono eventuali modifiche da capacità, oggetti, etc.
+        - si riduce il totale per il valore di [[06 Scheda personaggio#Armatura|armatura]]
         - si dimezza il totale rimasto per eventuali resistenze
         - Se si ha fatto 12 col dado per colpire, o se altri effetti lo specificano, si applica una lesione casuale in aggiunta al danno
         - Le reazioni che hanno “che sta subendo danno” come requisito possono essere usate ora  
@@ -31,7 +31,7 @@ Gli attacchi con le armi secondarie sono Attacchi Rapidi (non mettere Colpire al
 ⚠️ Non puoi usare una Reazione se sei ignaro della presenza di chi ha compiuto l’Azione.  
 *Esempio: non puoi usare una Reazione se non vedi chi sta lanciando l’incantesimo o per difenderti da una trappola di cui non sei a conoscenza.*
 
-### ❓ Se Colpire e Difesa non sono specificati, usa questa tabella:
+*Se Colpire e Difesa non sono specificati, usa questa tabella:*
 
 | Tipo di attacco                   | Colpire      | Difesa                       |
 | --------------------------------- | ------------ | ---------------------------- |

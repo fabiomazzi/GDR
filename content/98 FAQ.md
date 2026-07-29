@@ -15,12 +15,24 @@ SOP: Sopravvivenza
 VOL: Volontà
 ### Attivare un effetto magico
 Comprende il lanciare incantesimi, usare capacità magiche, usare un oggetto magico.
+### Capacità
+Tutte le cose che sa fare il vostro PG, determinate da classe, razza, talenti, etc.
 ### Critter
 Sono nemici molto deboli che muoiono automaticamente quando subiscono almeno un danno.
 ### Essere senziente
 Creature che sono in grado di ragionamenti anche basilari e che hanno un’anima o uno spirito. Una melma non può essere intimidita e un necromante non può usare la sua forza vitale, un lupo invece sì.
 ### Gratuitamente
 Non consuma token e puoi farlo immediatamente.
+### Iniziativa
+Determina chi agisce per primo all'inizio di un incontro e in altre situazione in cui più di una persona vuole agire nello stesso momento.
+È 1d12 + [[Perspicacia]] + [[Destrezza]].
+### Minacciare
+Minacci tutti i nemici che puoi attaccare con l'arma che hai impugnato.
+### Reazione
+Ogni azione come attaccare, lanciare un incantesimo, usare un oggetto, intimidire, etc. provoca una reazione. Chi fra le sue capacità ha una reazione con i requisiti soddisfatti e ha una reazione disponibile, può compierla.
+*Esempio: un nemico a 6m da me attacca.*
+*Io, che sono un Arcanista, ho fra le mie reazioni "se sei entro 10m dall'attaccante, lancia un incantesimo rapido su di lui".*
+*Se ho una reazione disponibile (ogni personaggio ne ha 2 da usare ogni round) posso usarnla e lanciare un incantesimo rapido.*
 ### Rigenerazione
 A fine turno recuperi PV pari alla rigenerazione.
 # Meccaniche e regolamento

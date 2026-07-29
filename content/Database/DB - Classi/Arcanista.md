@@ -11,7 +11,7 @@ Descrizione della classe, tira le magie, pim pum pam tipo mago pazzo, non so dev
 
 ---
 ### Livello 1
-- **Reazione**: sei entro 10m dell’attaccante. Lancia un incantesimo rapido.
+- **Reazione**: sei entro 10m dell’attaccante. Lancia un incantesimo rapido su di lui.
 - Scegli un incantesimo che costa 2 o meno mana da padroneggiare: diventa rapido e costa 0 mana.
 - Una volta per riposo puoi spendere un’ora ininterrotta per recuperare il tuo mana totale e gli altri usi per riposo di questa classe.
 ### Livello 2

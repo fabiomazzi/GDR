@@ -4,14 +4,14 @@
 - Metti 1 punto in ogni [[05 Abilità|abilità]] indicata nelle tabelle di [[07 Classi|classe]], [[08 Razze|razza]] e [[09 Provenienze|provenienza]].
 - Metti 1 punto in 3 [[05 Abilità|abilità]] a scelta in cui non hai punti.
 - Segna le capacità guadagnate da [[07 Classi|classe]], [[08 Razze|razza]] e [[09 Provenienze|provenienza]].
-- Guadagni [[06 Statistiche#Punti Vita (PV)|Punti Vita]] pari a quelli della tua [[07 Classi|classe]].
+- Guadagni [[06 Scheda personaggio#Punti Vita (PV)|punti vita]] pari a quelli della tua [[07 Classi|classe]].
 - Scegli equipaggiamento e oggetti iniziali.
 # Salire di livello
 - Aumenta di 1 il livello di una [[07 Classi|classe]], fino al limite segnato nella tabella qui sotto
 - Guadagni:
     - le capacità elencate sotto al nuovo livello
     - 1 punto nelle sue [[05 Abilità|abilità]] (2 in tutto)
-    - [[06 Statistiche#Punti Vita (PV)|Punti Vita]] pari a quelli della [[07 Classi|classe]]
+    - [[06 Scheda personaggio#Punti Vita (PV)|Punti Vita]] pari a quelli della [[07 Classi|classe]]
 - Metti 1 punto in 3 [[05 Abilità|abilità]] a scelta in cui non hai guadagnato punti durante questo aumento di livello.
 ### Limite di livello
 

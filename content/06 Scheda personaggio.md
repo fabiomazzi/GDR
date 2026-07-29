@@ -1,10 +1,27 @@
+### Barriera
+È una protezione intangibile e invisibile che para un numero di danni pari al suo valore.
+Viene data da capacità, incantesimi e simili.
+Alla fine del tuo turno torna a 0.
 ### Colpire
-- Pari a Destrezza, Forma Fisica o Magia, si usa quella specificata nell’azione.
+Pari a [[Destrezza]], [[Forma fisica]] o [[Magia]], si usa quella specificata nell’azione.
+*Se Colpire e Difesa non sono specificati, usa questa tabella:*
+
+| Tipo di attacco                   | Colpire      | Difesa                       |
+| --------------------------------- | ------------ | ---------------------------- |
+| Fisico a contatto                 | Forma fisica | Schivare / Parare / Bloccare |
+| Fisico a distanza                 | Destrezza    | Schivare / Bloccare          |
+| Magico con tiro per colpire       | Destrezza    | Schivare                     |
+| Magico a distanza (senza attacco) | Magia        | Volontà                      |
+| Magico ad area (danno)            | Magia        | Schivare                     |
+| Magico ad area (mentale)          | Magia        | Volontà                      |
+| Non magico ad area                | Destrezza    | Schivare / Bloccare          |
+
 ### Difese
-- **Bloccare** → pari a Forma Fisica, richiede uno scudo o un oggetto con la proprietà “Bloccare”.
-- **Risolutezza** → pari a Volontà.
-- **Parare** → pari a Destrezza, richiede un’arma qualunque o un oggetto con la proprietà “Parare”.
-- **Schivare** → pari ad Destrezza.
+Aggiungi questi valori ai tiri per difendersi quando usi una [[04 Azioni e reazioni#Reazioni|reazione]].
+- **Bloccare** → pari a [[Forma fisica]], richiede uno scudo o un oggetto con la proprietà “Bloccare”.
+- **Parare** → pari a [[Destrezza]], richiede un’arma qualunque o un oggetto con la proprietà “Parare”.
+- **Schivare** → pari a [[Destrezza]].
+- **Risolutezza** → pari a [[Volontà]].
 ### Punti Vita (PV)
 Rappresentano lo stato psicofisico del personaggio, un misto di salute fisica, determinazione ed energia.
 
@@ -37,3 +54,6 @@ Rappresentano lo stato psicofisico del personaggio, un misto di salute fisica, d
     Se qualcosa si riferisce al “livello di classe” o “il tuo livello da Alchimista” considera solo il livello che hai in quella classe.  
 
 *es: un Arcanista 3/Duellante 2/Devoto 1 è un personaggio di livello 6 ma un Duellante di livello 2*
+### Velocità
+La velocità base di un personaggio è di 10m.
+Per i dettagli vedi [[02 Incontri e riposare#Movimento|movimento]].
