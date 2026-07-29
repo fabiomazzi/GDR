@@ -18,20 +18,17 @@
         - si aggiungono eventuali modifiche da capacità, oggetti, etc.
         - si riduce il totale per il valore di [[06 Scheda personaggio#Armatura|armatura]]
         - si dimezza il totale rimasto per eventuali resistenze
-        - Se si ha fatto 12 col dado per colpire, o se altri effetti lo specificano, si applica una lesione casuale in aggiunta al danno
-        - Le reazioni che hanno “che sta subendo danno” come requisito possono essere usate ora  
+        - Se si ha fatto 12 col dado per colpire, o se altri effetti lo specificano, si applica una [[11 Condizioni e lesioni#Lesioni|lesioni]] casuale in aggiunta al danno
+        - Le [[04 Azioni e reazioni#Reazioni|reazioni]] che hanno “che sta subendo danno” come requisito possono essere usate ora  
 - **Attacco <= difesa**
     - Nessun danno o effetto
 
-⚔️ Quando risolvi l’Azione Attacco, ripeti il tiro per colpire e il danno per ogni arma secondaria o per ogni attacco a disposizione.  
-Gli attacchi con le armi secondarie sono Attacchi Rapidi (non mettere Colpire al danno e non causano Reazioni).
+⚔️ Quando risolvi l’azione attacco, fai un [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]] con le armi secondarie e per ogni attacco a disposizione.
+*Gli attacchi rapidi non aggiungono il colpire al danno e non causano Reazioni.*
 
-🏹 Se attacchi con un’arma dalla distanza un nemico adiacente, non mettere Colpire al danno.
+🏹 Se attacchi con un’arma dalla distanza o da lancio un nemico [[#Distanze|adiacente]], non mettere [[06 Scheda personaggio#Colpire|colpire]] al danno.
 
-⚠️ Non puoi usare una Reazione se sei ignaro della presenza di chi ha compiuto l’Azione.  
-*Esempio: non puoi usare una Reazione se non vedi chi sta lanciando l’incantesimo o per difenderti da una trappola di cui non sei a conoscenza.*
-
-*Se Colpire e Difesa non sono specificati, usa questa tabella:*
+**Se Colpire e Difesa non sono specificati, usa questa tabella:**
 
 | Tipo di attacco                   | Colpire      | Difesa                       |
 | --------------------------------- | ------------ | ---------------------------- |
@@ -49,9 +46,9 @@ Gli attacchi con le armi secondarie sono Attacchi Rapidi (non mettere Colpire al
 - **Lontano**: dai 10 ai 50 metri.
 - **Distante**: oltre i 50 metri.
 # tipi di danno
-- Tagliente
-- Perforante
-- Impatto
-- Magico: ignora l’armatura
-- Necrotico: ignora l’armatura e la Barriera
-- Elementali: freddo, ghiaccio, fuoco, terra, sonico, elettrico, etc.
+- T = Tagliente
+- P = Perforante
+- C = Contundente
+- M = Magico, ignora l’[[06 Scheda personaggio#Armatura|armatura]]
+- N = Necrotico, ignora l’[[06 Scheda personaggio#Armatura|armatura]] e la [[06 Scheda personaggio#Barriera|barriera]]
+- Elementale: freddo, ghiaccio, fuoco, terra, sonico, elettrico, etc.

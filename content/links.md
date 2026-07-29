@@ -22,3 +22,5 @@
 [[11 Condizioni e lesioni#Lesioni|lesioni]]
 [[04 Azioni e reazioni#Azioni|azione]]
 [[06 Scheda personaggio#Colpire|colpire]]
+[[06 Scheda personaggio#Armatura|armatura]]
+[[06 Scheda personaggio#Barriera|barriera]]

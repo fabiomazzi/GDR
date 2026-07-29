@@ -4,7 +4,8 @@ Viene data da capacità, incantesimi e simili.
 Alla fine del tuo turno torna a 0.
 ### Colpire
 Pari a [[Destrezza]], [[Forma fisica]] o [[Magia]], si usa quella specificata nell’azione.
-*Se Colpire e Difesa non sono specificati, usa questa tabella:*
+
+**Se Colpire e Difesa non sono specificati, usa questa tabella:**
 
 | Tipo di attacco                   | Colpire      | Difesa                       |
 | --------------------------------- | ------------ | ---------------------------- |

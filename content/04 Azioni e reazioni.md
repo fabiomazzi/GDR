@@ -1,8 +1,8 @@
 ## Azioni
 ### ⚔️ Attaccare
-Esegui un attacco con ogni arma che hai impugnato, gli attacchi con le armi secondarie sono Attacchi Rapidi.
+Esegui un attacco con ogni arma che hai impugnato, gli attacchi con le armi secondarie sono attacchi rapidi.
 
-Un Attacco Rapido segue le stesse regole di un attacco normale ma senza aggiungere Colpire al danno e senza causare Reazioni.
+Un attacco rapido segue le stesse regole di un attacco normale ma senza aggiungere colpire al danno e senza causare reazioni.
 
 Vedi Gestire un’azione.
 ### ✨ Attivare un effetto magico

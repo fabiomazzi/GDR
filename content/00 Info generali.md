@@ -3,27 +3,26 @@ title: Dove sono?
 ---
 Questo è il regolamento di \[INSERÒ IL NOME APPENA LO DECIDO].
 
-Un gioco di ruolo gratuito con un combattimento dinamico che ruota intorno a Schivate, Parate, Blocchi e Reazioni. Dove agisci anche fuori dal tuo turno e "come faccio a fare più danno possibile?" non è l'unica domanda che ti devi fare, senza collaborare si finisce male.
+Un gioco di ruolo gratuito con un combattimento dinamico che ruota intorno a Schivate, Parate, Blocchi e Reazioni. Dove agisci anche fuori dal tuo turno e "come faccio a fare più danno possibile?" non è l'unica domanda che ti devi fare: senza collaborare si finisce male.
 Le lesioni fisiche non si risolvono con un cura ferite, un PG si fa in 10 minuti e ci sono più di 20 mila combinazioni di classi.
 ### Posso comprarlo?
 No, è gratis. Se volete supportare lo sviluppo, discutere e dare feedback potete iscrivervi qui con solo 5 euro al mese ed entrare nel gruppo Telegram: [https://fabiomazzi.it/nani](https://fabiomazzi.it/nani) (il sito è stato creato principalmente per il mio canale sui videogiochi, su Telegram abbiamo il canale per i GDR).
 
-Il gioco è gratis e sempre in evoluzione, se la community ha idee per il bilanciamento, per migliorare il regolamento o per aggiungere contenuti basta scrivere che verranno prese in considerazione ed eventualmente implementate. Troverete sempre disponibile online l’ultima versione aggiornata.
+Il gioco è in continua evoluzione, le vostre idee per bilanciamento, migliorie e nuovi contenuti verranno prese in considerazione ed eventualmente implementate. Troverete sempre disponibile online l’ultima versione aggiornata.
 
-Occhio perché il regolamento è in pre Alpha: incompleto, sbilanciato, scritto male e da un giorno all’altro potrei togliere o rifare da zero meccaniche, classi o altro.
-### Perché stai scrivendo un GDR? E perché dovrei giocare al tuo invece che ai mille milioni che esistono già e sono pure più belli?
-Perché mi diverte e lo voglio fare da sempre.
-
-Gli scontri sono dinamici e punitivi: ruotano intorno allo schivare, parare, bloccare o concentrarsi in modo attivo contro gli attacchi e c'è un sistema di Reazioni.
-Quindi evitate i “colpisco solo con 20? Ma sì, ci provo” perché potreste ricevere una mazzata in faccia dopo esservi fatti bloccare il colpo.
+Attenzione perché il regolamento è in pre Alpha: incompleto, sbilanciato, scritto male e da un giorno all’altro potrei togliere o rifare da zero meccaniche, classi o altro.
+### perché dovrei giocare al tuo invece che ai mille milioni che esistono già e sono pure più belli?
+Gli scontri sono dinamici e punitivi: ruotano intorno allo schivare, parare, bloccare o concentrarsi in modo attivo e c'è un sistema di Reazioni.
+Evitate i “colpisco solo con 20? Ma sì, ci provo” perché potreste ricevere una mazzata in faccia dopo esservi fatti bloccare il colpo.
 *Nella realtà andreste a tirare un pugno a Mike Tyson dicendo “ma sì, magari lo prendo” o cerchereste una tattica alternativa?*
 
 Una spadata in faccia può cavarti un occhio, le armature riducono il danno che subisci, perdere una gamba non si risolve con un Cura Ferite.
 
-Ci sono molti metodi per evitare di subire danno ma quando si subisce se ne subisce tanto. Buttarsi in mezzo ai nemici, posizionarsi male, non avere il supporto del party e non essersi preparati bene per lo scontro vi fa fare una brutta fine.  
+Ci sono molti metodi per evitare di subire danno ma quando si subisce se ne subisce tanto. Buttarsi in mezzo ai nemici, posizionarsi male, non avere il supporto del party e non essersi preparati bene per lo scontro vi farà fare una brutta fine.  
 *Motivo per cui fare un nuovo PG è semplice e veloce.*
 
 Trovo il combattimento di tanti GDR (soprattutto D&D) poco soddisfacente sotto vari aspetti e sono così presuntuoso da voler migliorare le cose che non mi piacciono.
+
 - L'unica domanda da farsi è "come faccio più danno possibile?".
 	- Posizionamento, preparazione e collaborazione devono essere più importanti dei numeri.
 - Ognuno ottimizza il proprio turno senza pensare agli altri.
@@ -40,7 +39,7 @@ Trovo il combattimento di tanti GDR (soprattutto D&D) poco soddisfacente sotto v
 Sì ma molto adattabile, di base è “mid fantasy” (la magia è comune ma non eccessivamente potente).
 Il mondo era nato con una componente arcanopunk (marchingegni che incanalano la magia), ma è ancora da definire.
 ### Che sistema usa?
-d12, ha una bella forma.
+d12, mi piace la sua forma.
 ### Quante classi ci sono?
 Al momento 26, ogni personaggio a livello 8 avrà una classe a livello 4, una di livello 3 e una di livello 1 (oppure 4-2-2), per un totale di 23400 combinazioni.
 ### Non hai paura che ci siano combinazioni rotte e sbilanciate?
@@ -50,9 +49,7 @@ Sto facendo del mio meglio per evitarle e le sistemerò immediatamente quando sc
 Consiglio ai Master di limitare power play e min-maxing in caso non siano graditi al tavolo.
 ### Qual è il livello massimo?
 Il gioco è pensato per livelli 1-8, ma nulla vieta di proseguire.
-### Ci sono i critici?
-Un 12 per colpire causa una lesione o altri effetti in base alla classe.
-### E gli attacchi di opportunità?
+### Ci sono gli attacchi di opportunità?
 Ci sono le Reazioni, sono azioni che potete fare se qualcuno vicino a voi attacca, viene attaccato, lancia un incantesimo, si cura, etc.
 Ogni classe ha reazioni diverse.
 ### Altre note sparse:
