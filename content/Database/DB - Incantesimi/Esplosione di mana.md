@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Consuma tutta la tua Barriera per fare altrettanto danno ai nemici in un raggio di 6m intorno a te.
+Consuma tutta la tua Barriera per fare altrettanto danno ai nemici in un raggio di 4m intorno a te.

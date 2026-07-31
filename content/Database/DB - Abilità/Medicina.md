@@ -4,17 +4,17 @@ Classi: Druido, Medico, Studioso
 Provenienze: Deserto
 Razze: 
 ---
-**Descrizione:** Trattare le Lesioni. Conoscere e creare rimedi per Veleni e Malattie, determinare la causa di morte. Stabilizzare un personaggio morente.
+**Descrizione:** Trattare le [[11 Condizioni e lesioni#Lesioni|lesioni]]. Conoscere e creare rimedi per [[12 Composti e veleni#Veleni|veleni]] e malattie, determinare la causa di morte.
 
 **Esempi:**
-- Trattare una Lesione.
-- Preparare un rimedio contro un Veleno → DIF pari alla DIF del Veleno.
-- Diagnosticare un semplice raffreddore → DIF 3
-- Stabilizzare un personaggio → DIF 5
-- Identificare una malattia rara come causa di morte → DIF 8
-- Trattare una Lesione Grave → DIF 10
-- Trattare una condizione sconosciuta mai documentata → DIF 15
+- Trattare una [[11 Condizioni e lesioni#Lesioni|lesione]].
+- Preparare un rimedio contro un [[12 Composti e veleni#Veleni|veleno]] → [[05 Abilità#Fare una prova di abilità|DIF]] pari alla [[05 Abilità#Fare una prova di abilità|DIF]] del Veleno.
+- Diagnosticare un semplice raffreddore → [[05 Abilità#Fare una prova di abilità|DIF]] 3
+- Stabilizzare un personaggio → [[05 Abilità#Fare una prova di abilità|DIF]] 5
+- Identificare una malattia rara come causa di morte → [[05 Abilità#Fare una prova di abilità|DIF]] 8
+- Trattare una Lesione Grave → [[05 Abilità#Fare una prova di abilità|DIF]] 10
+- Trattare una condizione sconosciuta mai documentata → [[05 Abilità#Fare una prova di abilità|DIF]] 15
 
-**Classi:** Druido, Medico, Studioso  
-**Provenienze:** Deserto  
+**Classi:** [[Druido]], [[Medico]], [[Studioso]]  
+**Provenienze:** [[Deserto]]  
 **Razze:** 

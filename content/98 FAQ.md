@@ -32,7 +32,7 @@ Minacci tutti i nemici che puoi attaccare con l'arma che hai impugnato.
 Ogni azione come attaccare, lanciare un incantesimo, usare un oggetto, intimidire, etc. provoca una reazione. Chi fra le sue capacità ha una reazione con i requisiti soddisfatti e ha una reazione disponibile, può compierla.
 *Esempio: un nemico a 6m da me attacca.*
 *Io, che sono un Arcanista, ho fra le mie reazioni "se sei entro 10m dall'attaccante, lancia un incantesimo rapido su di lui".*
-*Se ho una reazione disponibile (ogni personaggio ne ha 2 da usare ogni round) posso usarnla e lanciare un incantesimo rapido.*
+*Se ho una reazione disponibile (ogni personaggio ne ha 2 ogni round) posso usarla e lanciare un incantesimo rapido.*
 ### Rigenerazione
 A fine turno recuperi PV pari alla rigenerazione.
 # Meccaniche e regolamento

@@ -10,11 +10,12 @@ DES req:
 Danno: "1"
 Difesa: B, P, S
 FF req:
-L: false
+D: false
 Note:
 Parare: -4
 P: false
 Schivare:
 T: false
+Gittata:
 ---
 

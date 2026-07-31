@@ -4,14 +4,14 @@ Classi: Tecnomante, Tuttofare
 Provenienze: Città
 Razze: Automa, Gnomo
 ---
-**Descrizione:** Intuire come funziona un macchinario. Determinare le Difese di un avversario. Capire cos'è successo in un luogo.
+**Descrizione:** Intuire come funziona un macchinario. Determinare le [[06 Scheda personaggio#🛡️ Difese|difese]], il [[06 Scheda personaggio|colpire]] e il livello di un essere. Capire cos'è successo in un luogo dopo un combattimento, un furto, etc.
 
 **Esempi:**
 - Capire cos’è successo su un luogo del crimine.
-- Evitare un imboscata → contrapposta a Furtività
+- Evitare un imboscata → contrapposta a [[Furtività]]
 - Capire come funziona un macchinario mai visto prima.
-- Intuire le Difese di un avversario, DIF pari al suo livello.
+- Intuire le [[06 Scheda personaggio#🛡️ Difese|difese]] di un avversario, DIF pari al suo livello.
 
-**Classi:** Tecnomante, Tuttofare  
-**Provenienze:** Città  
-**Razze:** Automa, Gnomo
+**Classi:** [[Tecnomante]], [[Tuttofare]]  
+**Provenienze:** [[Città]]  
+**Razze:** [[Automa]], [[Gnomo]]

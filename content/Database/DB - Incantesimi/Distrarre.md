@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Rendi il bersaglio Frastornato fino al suo prossimo turno.
+Rendi il bersaglio Frastornato fino all'inizio del suo prossimo turno.

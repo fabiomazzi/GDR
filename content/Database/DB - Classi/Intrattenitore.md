@@ -25,6 +25,6 @@ Descrizione della classe, tira le pugnalate, ai che male, non so devo scrivere u
 - Puoi trattare le condizioni mentali, usa Carisma invece che Medicina.
 ### Livello 3
 - L’incantesimo Controincantesimo costa metà mana e puoi usare Carisma per la sua prova, compreso Identificare l’incantesimo lanciato.
-- Con un’Azione puoi far finta di lanciare un incantesimo verso un bersaglio, deve superare una prova di Carisma o Magia contro il tuo Carisma, se fallisce applica una fra queste condizioni per un round: addormentato, ammaliato, confuso, spaventato.
+- Con un’Azione puoi far finta di lanciare un incantesimo verso un bersaglio, deve superare una prova di Carisma o Magia contro il tuo Carisma, se fallisce applica una fra queste condizioni per un turno: addormentato, ammaliato, confuso, spaventato.
 ### Livello 4
 - Un numero di volte al giorno pari al tuo livello da Intrattenitore, con un’Azione puoi fare un tiro di Intimidire su un bersaglio, se fallisce provoca una Reazione come se fosse un attaccante.

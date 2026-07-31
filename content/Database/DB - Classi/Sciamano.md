@@ -48,10 +48,10 @@ Aggiungi alle azioni disponibili quando manifesti uno spirito:
     - +1 oppure -1 ad un Abilità a tua scelta
     - +1 ad Iniziativa, non puoi essere colto alla sprovvista, all’inizio del combattimento ripristina una Reazione
     - resistenza ad un tipo di danno
-    - lo spirito rivela costantemente la sua posizione fluttuandogli intorno, anche se è nascosto o invisibile, all’inizio di ogni suo round il bersaglio può difendersi
-- Ammalia o Spaventa un bersaglio per un numero di round pari alla tua Volontà
-- Dimezza la velocità del bersaglio per un numero di round pari alla tua Volontà
+    - lo spirito rivela costantemente la sua posizione fluttuandogli intorno, anche se è nascosto o invisibile, all’inizio di ogni suo turno il bersaglio può difendersi
+- Ammalia o Spaventa un bersaglio per un numero di turni pari alla tua Volontà
+- Dimezza la velocità del bersaglio per un numero di turni pari alla tua Volontà
 ### Livello 4
-- Una volta per riposo, se ad inizio round sei sotto l’effetto di una condizione mentale puoi lasciare il controllo del tuo corpo ad uno spirito e ignorare tale condizione durante il tuo prossimo turno.
-- Quando sei morente puoi in qualunque momento decidere di separare il tuo spirito e il tuo corpo. Per un numero di round pari alla tua Volontà assumi il controllo del tuo spirito, nel tuo turno puoi solo muoverti di 10m e fare un’Azione del tuo Condotto Spirituale con range 0m. I nemici non possono interagire con te.
-- Alla fine di questi round puoi unire il tuo spirito con un corpo simile al tuo *(a discrezione del master, niente draghi)* adiacente a te, dopo 1 ora il processo ha termine e torni in vita nel tuo nuovo corpo con 1 PV.
+- Una volta per riposo, se ad inizio turno sei sotto l’effetto di una condizione mentale puoi lasciare il controllo del tuo corpo ad uno spirito e ignorare tale condizione durante il tuo prossimo turno.
+- Quando sei morente puoi in qualunque momento decidere di separare il tuo spirito e il tuo corpo. Per un numero di turni pari alla tua Volontà assumi il controllo del tuo spirito, nel tuo turno puoi solo muoverti di 10m e fare un’Azione del tuo Condotto Spirituale con range 0m. I nemici non possono interagire con te.
+- Alla fine di questi turni puoi unire il tuo spirito con un corpo simile al tuo *(a discrezione del master, niente draghi)* adiacente a te, dopo 1 ora il processo ha termine e torni in vita nel tuo nuovo corpo con 1 PV.

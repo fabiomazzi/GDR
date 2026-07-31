@@ -1,4 +1,5 @@
-- togliere buff +X e mettere buff che modificano il come affrontare fight
+- obiettivo: è togliere più buff possibile che danno +X preferendo abilità che modificano il come affrontare gli incontri
+- valutare se applicare lesioni è interessante o è meglio tenerla come meccanica solo per i nemici
 - il sistema di magia fa probabilmente schifo, è da sistemare
 - armi e altro equip dovrebbero dare cose non legate alla loro funzione, tipo un martello che da percezione, una staffa che da FF, etc
 - semplificare il sistema per creare di composti e veleni, così non ha neanche senso perché non si possono comprare o trovare
@@ -11,5 +12,6 @@
 - ricordarsi quando si scrivono avventure e si mastera di avere cose tipo “se c’è un classe/razza si hanno vantaggi, non bisogna tirare, etc.” soprattutto per classi “non da combat”
 - fare armi che hanno bonus se usate per attacchi con reazioni
 - dare a più cose la possibilità di fermare le persone, soprattutto ai tank
-- valutare se applicare lesioni è interessante o è meglio tenerla come meccanica solo per i nemici
 - fare le trappole
+- fare gli oggetti
+- decidere se dare dei talenti quando si livella

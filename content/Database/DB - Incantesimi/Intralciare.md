@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Un quadrato di 5m per lato diventa terreno difficile naturale, non è considerato un effetto magico.
+Un'area con diametro di 6m diventa terreno difficile naturale, non è considerato un effetto magico.

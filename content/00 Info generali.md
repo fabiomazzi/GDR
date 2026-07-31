@@ -11,7 +11,7 @@ No, è gratis. Se volete supportare lo sviluppo, discutere e dare feedback potet
 Il gioco è in continua evoluzione, le vostre idee per bilanciamento, migliorie e nuovi contenuti verranno prese in considerazione ed eventualmente implementate. Troverete sempre disponibile online l’ultima versione aggiornata.
 
 Attenzione perché il regolamento è in pre Alpha: incompleto, sbilanciato, scritto male e da un giorno all’altro potrei togliere o rifare da zero meccaniche, classi o altro.
-### perché dovrei giocare al tuo invece che ai mille milioni che esistono già e sono pure più belli?
+### Perché dovrei giocare al tuo invece che ai mille milioni che esistono già e sono pure più belli?
 Gli scontri sono dinamici e punitivi: ruotano intorno allo schivare, parare, bloccare o concentrarsi in modo attivo e c'è un sistema di Reazioni.
 Evitate i “colpisco solo con 20? Ma sì, ci provo” perché potreste ricevere una mazzata in faccia dopo esservi fatti bloccare il colpo.
 *Nella realtà andreste a tirare un pugno a Mike Tyson dicendo “ma sì, magari lo prendo” o cerchereste una tattica alternativa?*
@@ -52,6 +52,8 @@ Il gioco è pensato per livelli 1-8, ma nulla vieta di proseguire.
 ### Ci sono gli attacchi di opportunità?
 Ci sono le Reazioni, sono azioni che potete fare se qualcuno vicino a voi attacca, viene attaccato, lancia un incantesimo, si cura, etc.
 Ogni classe ha reazioni diverse.
+### Implementerai questa cosa? Questa regola è scritta male. Hai pensato di fare...
+Date un occhiata alla pagina [[99 Work in progress]], lì cerco di tenere aggiornato tutto quello a cui sto lavorando e che voglio sistemare e implementare
 ### Altre note sparse:
 - non ci sono valute, il sistema "a soldi" ha troppi lati negativi rispetto a quelli positivi
 - gli oggetti magici sono pochi e rari

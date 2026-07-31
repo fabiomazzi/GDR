@@ -17,8 +17,8 @@ Descrizione della classe, tira le pugnalate, ai che male, non so devo scrivere u
 - Incanalare: puoi infliggere ad un bersaglio entro 10m danni necrotici pari al tuo livello + la tua Volontà, si può difendere con Volontà.
 - Una volta per riposo puoi pregare per un’ora ininterrotta e perdere un qualunque numero di PV per recuperare mana e usi di Incanalare pari a quel valore.
 ### Livello 2
-- Incanalare: tocca un’arma non sacra per benedirla, per un numero di round pari al tuo livello da Devoto fa danni extra pari alla tua Volontà.
-- Incanalare: tocca un’armatura per benedirla, per un numero di round pari al tuo livello da Devoto guadagna un bonus di Armatura pari alla tua Volontà.
+- Incanalare: tocca un’arma non sacra per benedirla, per un numero di turni pari al tuo livello da Devoto fa danni extra pari alla tua Volontà.
+- Incanalare: tocca un’armatura per benedirla, per un numero di turni pari al tuo livello da Devoto guadagna un bonus di Armatura pari alla tua Volontà.
 ### Livello 3
 - Incanalare: puoi curare un qualunque numero di bersagli entro 10m che vedi o che sono adiacenti a te di 1d4 per livello + Volontà, dividendo la cura come preferisci; se scegli un solo bersaglio può ritirare la difesa contro un effetto magico, condizione o veleno da cui è afflitto usando la tua Volontà come difesa.
 - Incanalare, se fai danno: puoi infliggere ad un qualunque numero di bersagli entro 10m che vedi o che sono adiacenti a te danni necrotici pari al tuo livello + Volontà, dividendo il danno come preferisci; se scegli un solo bersaglio e fallisce il tiro di Volontà puoi applicare una di queste condizioni per un turno: addormentato, ammaliato, confuso, spaventato, accecato, assordato, atterrato, congelato, intrappolato, silenziato, ustionato.

@@ -1,35 +1,34 @@
-## Azioni
+# Azioni
 ### ⚔️ Attaccare
-Esegui un attacco con ogni arma che hai impugnato, gli attacchi con le armi secondarie sono attacchi rapidi.
+Esegui un [[03 Combattimento#Risolvere un'azione|attacco]] con ogni arma che hai impugnato, gli attacchi con le armi secondarie sono attacchi rapidi.
 
 Un attacco rapido segue le stesse regole di un attacco normale ma senza aggiungere colpire al danno e senza causare reazioni.
 
-Vedi Gestire un’azione.
+Vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]].
 ### ✨ Attivare un effetto magico
 Comprende:
-
-- lanciare un incantesimo
+- lanciare un [[14 Incantesimi|incantesimo]]
 - attivare un oggetto magico
 - usare una capacità magica
 
-Lanciare un incantesimo richiedere il parlare a voce alta e il poter gesticolare con almeno una mano (armi, scudi e altri oggetti non impediscono di farlo). Attivare un oggetto o capacità magica no.
+Lanciare un [[14 Incantesimi|incantesimo]] richiedere il parlare a voce alta e il poter gesticolare con almeno una mano, anche se sta impugnando degli oggetti. Attivare un oggetto o capacità magica no.
 
-Gli Incantesimi Rapidi non causano Reazioni.
+Gli [[14 Incantesimi|incantesimi rapidi]] non causano reazioni.
 
-Vedi Gestire un’azione.
+Vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]].
 ### 😠 Intimidire
-Tira Carisma contro Perspicacia di un essere senziente. Deve poterti vedere o sentire.
+Tira [[Carisma|carisma]] contro [[Perspicacia|perspicacia]] di un [[98 FAQ#Essere senziente|essere senziente]]. Deve poterti vedere o sentire.
 
 In caso di successo puoi:
 
 - convincerlo ad arrendersi o a scappare
 - dare +2 al prossimo attacco verso di lui
 - dare -2 al suo prossimo attacco
-- dare -2 al prossimo tiro per difendersi di questo round
+- dare -2 al prossimo tiro per difendersi
 - costringerlo a non attaccare per un turno
 - dimezza il danno del suo prossimo attacco
 - costringerlo ad attaccare con la sua prossima azione
-- negare la sua prossima reazione
+- renderlo [[11 Condizioni e lesioni#FRASTORNATO|frastornato]] fino alla fine del suo prossimo turno
 - influenzarlo in altro modo a discrezione del Master
 
 Si può provare ad influenzare lo stesso bersaglio quante volte si vuole quando si è in combattimento, fuori dal combattimento a discrezione del Master.
@@ -37,39 +36,36 @@ Si può provare ad influenzare lo stesso bersaglio quante volte si vuole quando 
 _Il Master dovrebbe applicare bonus o malus in base alla situazione.  
 Esempio: se uno scagnozzo rimane da solo contro cinque persone, il giocatore può ricevere anche un +10 per cercare di farlo arrendere. Se si prova a fare lo stesso contro il capo di una setta in superiorità numerica non ci sono possibilità di successo._
 ### 🤼‍♂️ Lottare
-Fai una prova di FF contro FF o Destrezza di un bersaglio a contatto fino una taglia più grande rispetto alla tua, in tal caso hai -4 alla prova. Se vinci, puoi scegliere di
-- spingere il bersaglio fino a 2m in una direzione opposta alla tua e atterrarlo
-- afferrare un bersaglio di massimo una taglia più grande della tua
+Fai una prova di [[Forma Fisica]] contro [[Forma Fisica]] o [[Destrezza]] di un bersaglio [[03 Combattimento#Distanze|a contatto]], hai -4 alla prova per ogni taglia di differenza. Se vinci, puoi scegliere di
+- spingerlo fino a 2m in una direzione opposta alla tua e atterrarlo
+- [[11 Condizioni e lesioni#🤼‍♂️ AFFERRATO|afferrarlo]]
 ### 🪛 Maneggiare oggetti
-Puoi scegliere fra:
-- attivare un oggetto comodo
+Puoi scegliere uno fra:
 - impugnare o mettere in uno slot comodo un oggetto dallo zaino
+- attivare un oggetto comodo
 ### 🏃‍♂️ Movimento
-Vedi [[02. Turno, movimento e riposo#Movimento|Movimento]] e [[#Distanze]]
+Vedi [[02 Incontri e riposare#Movimento|movimento]] e [[03 Combattimento#Distanze|distanze]]
 ### 🥷 Nascondersi
-Tira Furtività contro Percezione per nasconderti.  
+Tira [[Furtività]] contro [[Percezione]] per nasconderti.  
 Serve un ambiente adeguato (rovine, ostacoli visivi, confusione di una folla, etc.).  
-Se una persona sa della tua presenza, siete in combattimento o ti sta attivamente cercando ha +4 ai tiri di Percezione per notarti.  
-Se ti nascondi in combattimento, all’inizio di ogni turno devi ritirare Furtività contro Percezione di chi ti potrebbe vedere.
+Se una persona sa della tua presenza, siete in combattimento o ti sta attivamente cercando ha +4 ai tiri di Percezione.  
+Se ti nascondi in combattimento, all’inizio di ogni turno devi ritirare [[Furtività]] contro [[Percezione]] di chi ti potrebbe vedere.
 ### 🩹 Trattare
-- Con un tiro di Medicina puoi rimuovere da te o da un bersaglio adiacente:
-    - una Lesione Lieve, DIF 6
-    - portare una Lesione da Grave a Lieve, DIF 12
-    - un Sanguinamento (uno per azione), DIF pari al danno che fa
-    - un Veleno non magico, DIF pari a quella del veleno
-    - *(solo determinate classi o abilità)* una condizione mentale o un veleno magico, DIF pari alla DIF dell’effetto
+- Con un tiro di [[Medicina]] puoi trattare un bersaglio [[03 Combattimento#Distanze|adiacente]] per:
+    - curare una [[11 Condizioni e lesioni#Lesioni|lesione lieve]], [[05 Abilità#Fare una prova di abilità|DIF]] 6
+    - portare una [[11 Condizioni e lesioni#Lesioni|lesione]] da grave a lieve, [[05 Abilità#Fare una prova di abilità|DIF]] 12
+    - curare un [[11 Condizioni e lesioni#🩸 SANGUINANTE|sanguinamento]] (uno per azione), [[05 Abilità#Fare una prova di abilità|DIF]] pari al danno che fa
+    - curare un [[12 Composti e veleni#Veleni|veleno]], [[05 Abilità#Fare una prova di abilità|DIF]] pari a quella del [[12 Composti e veleni#Veleni|veleno]]
+    - *(solo determinate classi o abilità)* curare una [[11 Condizioni e lesioni#Condizioni mentali|condizione mentale]], [[05 Abilità#Fare una prova di abilità|DIF]] pari alla [[05 Abilità#Fare una prova di abilità|DIF]] dell’effetto
 
-Ogni condizione può essere Trattata una volta per riposo.
+Ogni condizione può essere trattata una volta per [[02 Incontri e riposare#Riposare|riposo]].
 ### 🤸 Usare abilità e capacità
-Vedi Abilità e le Capacità di Classi, Razze, etc.
-## Reazioni
+Vedi [[05 Abilità|abilità]] e le capacità di classi, razze, etc.
+# Reazioni
 Si hanno due reazioni ogni round, si possono usare in due modi:
 
-- Quando qualcuno compie un'azione, i partecipanti all'incontro possono usare una reazione fra le loro capacità, a patto di soddisfare i suoi requisiti
-*Si può usare una sola reazione per ogni azione. Esempi di requisiti:*
-	- *sei entro 10m da chi attacca*
-	- *un tuo alleato sta venendo attaccato*
-	- *un nemico ti sta attaccando*
-	- *minacci l'attaccante con un'arma da lancio*
+- Quando qualcuno compie un'azione, i partecipanti all'incontro possono usare una reazione fra le loro capacità, a patto di soddisfare i suoi requisiti. 
+Si può usare una sola reazione per ogni azione.
+- Quando ci si sta difendendo si può usare una reazione per aggiungere la difesa specificata al proprio tiro.
 
-- Quando ci si sta difendendo si può usare una reazione per aggiungere la difesa specificata dall'attacco al proprio tiro.
+Vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]].

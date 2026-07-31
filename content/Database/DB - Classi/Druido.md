@@ -85,7 +85,7 @@ Aggiungi alle tue Reazioni: esegui la Reazione dell’animale in cui ti sei tras
 
 ### Livello 2️
 - Scegli due incantesimi, puoi lanciarli quando sei trasformato senza dover parlare o gesticolare.
-- Puoi trasformarti all’inizio del tuo round senza Usare un Azione (consumi comunque un utilizzo di Forma Naturale).
+- Puoi trasformarti all’inizio del tuo turno senza Usare un Azione (consumi comunque un utilizzo di Forma Naturale).
 ### Livello 3
 - Puoi scegliere un secondo attacco dell’animale e usarlo come attacco rapido.
 - Guadagni anche i movimenti speciali dell’animale in cui ti trasformi.

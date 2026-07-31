@@ -10,11 +10,12 @@ DES req: 1
 Danno: 1d4
 Difesa: B, S
 FF req:
-L: false
+D: true
 Note:
 Parare: -4
 P: true
 Schivare:
 T: false
+Gittata: 10m
 ---
 

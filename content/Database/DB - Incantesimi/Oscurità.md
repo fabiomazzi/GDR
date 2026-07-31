@@ -8,5 +8,5 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Crea un quadrato largo 1m per livello dove viene bloccata ogni forma di luce, chiunque è nell’area viene considerato Cieco.
+In un'area con diametro 1m per livello viene bloccata ogni forma di luce, chiunque è nell’area viene considerato Cieco.
 Chi è fuori questo quadrato non può vedere all’interno o attraverso di esso.

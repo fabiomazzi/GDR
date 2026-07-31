@@ -46,7 +46,7 @@ Scegli un insetto, guadagni le sue capacità.
 
 ## FALENA
 ### Livello 1️
-- Un numero di round per riposo pari al tuo livello puoi muoverti nel buio totale, entro 10m puoi muoverti come se ci vedessi normalmente (non vedi i colori o altre cose per cui è necessaria la vista)
+- Un numero di turni per riposo pari al tuo livello puoi muoverti nel buio totale, entro 10m puoi muoverti come se ci vedessi normalmente (non vedi i colori o altre cose per cui è necessaria la vista)
 ### Livello 3️
 - [da finire]
 

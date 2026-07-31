@@ -10,12 +10,13 @@ DES req:
 Danno: 1d6
 Difesa: S
 FF req:
-L: false
+D: false
 Note: Fa danno magico
 Parare:
 P: false
 Schivare:
 T: false
 MAG req: "5"
+Gittata:
 ---
 

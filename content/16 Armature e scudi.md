@@ -117,13 +117,13 @@ views:
 ```
 
 ### Armatura
-Riduci il danno subito di questo valore. Non ha effetto contro danno magico o necrotico.
+Riduci il danno subito di questo valore. Non ha effetto contro danni magici o necrotici.
 ### Bloccare/Parare
-Aumenta il tuo valore di Bloccare/Parare pari a questo numero.
+Bonus al tuo [[06 Scheda personaggio#Difese|bloccare]]/[[06 Scheda personaggio#Difese|parare]].
 ### FF/DES/MAG/VOL
-Abilità richiesta per usare l'equipaggiamento. I requisiti si sommano.
+[[05 Abilità|Abilità]] richiesta per usare l'equipaggiamento. I requisiti si sommano.
 Se per esempio voglio indossare un’armatura media (FF 2), uno scudo grande (FF 2) e una spada corta (FF 1 o DES 1) devo avere uno fra:
 - FF 5
 - FF 4 e Destrezza 1 (in questo caso la spada corta userà DES come Colpire)
 ### Malus DES
-Abbassa il tuo valore di DES pari a questo numero.
+Malus alla tua [[Destrezza]].

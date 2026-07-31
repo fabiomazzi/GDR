@@ -4,13 +4,12 @@ Classi: Arcanista, Devoto, Elementalista, Monaco, Necromante, Sciamano, Templare
 Provenienze: Palude
 Razze: Nano
 ---
-**Descrizione:** Fermezza mentale e morale. Determina Risolutezza.rsonalità e l’espressività. Saper leggere le persone e le situazioni. Vedi Intimidire.
+**Descrizione:** Fermezza mentale e morale. Determina [[06 Scheda personaggio#🛡️ Difese|risolutezza]].
 
 **Esempi:**
 - Resistere al canto di una sirena.
-- Resistere ad incantesimi ed effetti magici mentali.
-- Non subire gli effetti di un sonnifero.
+- Resistere ad [[14 Incantesimi|incantesimi]] ed effetti magici mentali.
 
-**Classi:** Arcanista, Devoto, Elementalista, Monaco, Necromante, Sciamano, Templare
-**Provenienze:** Palude
-**Razze:** Nano
+**Classi:** [[Arcanista]], [[Devoto]], [[Elementalista]], [[Monaco]], [[Necromante]], [[Sciamano]], [[Templare]]
+**Provenienze:** [[Palude]]
+**Razze:** [[Nano]]

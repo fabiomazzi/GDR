@@ -3,12 +3,13 @@
 *es: una palla di fuoco può avere nessuno o più difensori, se qualcuno beve una pozione verrà considerato “attaccante” anche se non ci sono difensori.*  
 *Si può decidere di non opporsi e subire automaticamente l’azione.*
 ### 🎯 L’attaccante:
-- Dichiara che [[04 Azioni e reazioni#Azioni|azione]] vuole compiere
+- Dichiara che [[04 Azioni e reazioni#Azioni|azione]] vuole compiere.
+- Se quell'azione ha un numero limitato di usi ne scala uno. Se è un [[14 Incantesimi|incantesimo]] consuma il mana richiesto.
 ### 🗡️ Gli altri partecipanti:
-- In ordine di [[02 Incontri e riposare|iniziativa]], possono eseguire una [[04 Azioni e reazioni#Reazioni|reazione]]
+- In ordine di [[02 Incontri e riposare|iniziativa]], possono eseguire una [[04 Azioni e reazioni#Reazioni|reazione]].
 ### 🎲 Risoluzione:
 **Se l’Azione non ha difensori, risolvila. Altrimenti:**
-- Se l’[[04 Azioni e reazioni#Azioni|azione]] ha un [[06 Scheda personaggio#Colpire|colpire]], l’attaccante tira 1d12 + il [[06 Scheda personaggio#Colpire|colpire]] specificato
+- Se l’[[04 Azioni e reazioni#Azioni|azione]] ha un [[06 Scheda personaggio#Colpire|colpire]], l’attaccante tira 1d12 + il [[06 Scheda personaggio#Colpire|colpire]] specificato.
 - I difensori tirano 1d12 e se usano una reazione aggiungono la difesa specificata dall’attacco.
 
 - **Attacco > difesa**
@@ -21,12 +22,12 @@
         - Se si ha fatto 12 col dado per colpire, o se altri effetti lo specificano, si applica una [[11 Condizioni e lesioni#Lesioni|lesioni]] casuale in aggiunta al danno
         - Le [[04 Azioni e reazioni#Reazioni|reazioni]] che hanno “che sta subendo danno” come requisito possono essere usate ora  
 - **Attacco <= difesa**
-    - Nessun danno o effetto
+    - Nessun danno o effetto.
 
 ⚔️ Quando risolvi l’azione attacco, fai un [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]] con le armi secondarie e per ogni attacco a disposizione.
 *Gli attacchi rapidi non aggiungono il colpire al danno e non causano Reazioni.*
 
-🏹 Se attacchi con un’arma dalla distanza o da lancio un nemico [[#Distanze|adiacente]], non mettere [[06 Scheda personaggio#Colpire|colpire]] al danno.
+🏹 Se attacchi con un’arma dalla distanza un nemico [[#Distanze|adiacente]], non mettere [[06 Scheda personaggio#Colpire|colpire]] al danno.
 
 **Se Colpire e Difesa non sono specificati, usa questa tabella:**
 

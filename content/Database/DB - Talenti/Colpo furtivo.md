@@ -6,4 +6,4 @@ Tipo: talento
   - raddoppia il danno
   - applica una lesione grave
   - applica due sanguinamenti
-  - il bersaglio diventa Confuso per un round
+  - il bersaglio diventa Confuso per un fino alla fine del suo prossimo turno
