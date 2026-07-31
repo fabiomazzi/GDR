@@ -18,14 +18,14 @@ Per le regole sul lanciare un incantesimo vedi [[03 Combattimento|gestire un'azi
 # Mana
 È pari al doppio della tua abilità [[Magia]].  
 Non si può per nessun motivo avere più mana del proprio mana totale.
-Quando lanci un [[14 Incantesimi|incantesimo]] consumi Mana pari al suo costo.
+Quando lanci un [[13 Incantesimi|incantesimo]] consumi Mana pari al suo costo.
 # Servitori
 Sono creature evocate che obbediscono ciecamente all’incantatore. Può esserne attivo solo uno in ogni momento, se viene evocato un servitore, gli altri spariscono.
 Agiscono insieme a chi li comanda, subito prima o subito dopo.
 # Tramite
-Puoi lanciare il tuo [[14 Incantesimi|incantesimo]] su un essere o un oggetto che diventa il tramite, sarà lui ad attivarlo al tuo posto, se non viene attivato entro l'inizio del tuo prossimo turno l’incantesimo è perso.
+Puoi lanciare il tuo [[13 Incantesimi|incantesimo]] su un essere o un oggetto che diventa il tramite, sarà lui ad attivarlo al tuo posto, se non viene attivato entro l'inizio del tuo prossimo turno l’incantesimo è perso.
 Puoi usare un tramite solo se specificato.
 
-*Esempio: un druido può usare il suo Compagno Animale come tramite -> lancia un’incantesimo toccandolo, entro l'inizio del suo prossimo turno il Compagno Animale può attivare quell’incantesimo come parte del suo attacco, segui le regole degli [[14 Incantesimi#Gittata|incantesimi a contatto]].* 
+*Esempio: un druido può usare il suo Compagno Animale come tramite -> lancia un’incantesimo toccandolo, entro l'inizio del suo prossimo turno il Compagno Animale può attivare quell’incantesimo come parte del suo attacco, segui le regole degli [[13 Incantesimi#Gittata|incantesimi a contatto]].* 
 
 *Esempio: col talento Mago Combattente puoi usare una freccia come tramite per un'incantesimo, lancialo toccando la freccia, dovrai colpire qualcuno con quella freccia entro l'inizio del tuo prossimo turno per rilasciare l’incantesimo. Se manchi l’attacco, l’incantesimo è perso.*

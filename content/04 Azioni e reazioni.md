@@ -7,13 +7,13 @@ Un attacco rapido segue le stesse regole di un attacco normale ma senza aggiunge
 Vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]].
 ### ✨ Attivare un effetto magico
 Comprende:
-- lanciare un [[14 Incantesimi|incantesimo]]
+- lanciare un [[13 Incantesimi|incantesimo]]
 - attivare un oggetto magico
 - usare una capacità magica
 
-Lanciare un [[14 Incantesimi|incantesimo]] richiedere il parlare a voce alta e il poter gesticolare con almeno una mano, anche se sta impugnando degli oggetti. Attivare un oggetto o capacità magica no.
+Lanciare un [[13 Incantesimi|incantesimo]] richiedere il parlare a voce alta e il poter gesticolare con almeno una mano, anche se sta impugnando degli oggetti. Attivare un oggetto o capacità magica no.
 
-Gli [[14 Incantesimi|incantesimi rapidi]] non causano reazioni.
+Gli [[13 Incantesimi|incantesimi rapidi]] non causano reazioni.
 
 Vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]].
 ### 😠 Intimidire
@@ -55,7 +55,7 @@ Se ti nascondi in combattimento, all’inizio di ogni turno devi ritirare [[Furt
     - curare una [[11 Condizioni e lesioni#Lesioni|lesione lieve]], [[05 Abilità#Fare una prova di abilità|DIF]] 6
     - portare una [[11 Condizioni e lesioni#Lesioni|lesione]] da grave a lieve, [[05 Abilità#Fare una prova di abilità|DIF]] 12
     - curare un [[11 Condizioni e lesioni#🩸 SANGUINANTE|sanguinamento]] (uno per azione), [[05 Abilità#Fare una prova di abilità|DIF]] pari al danno che fa
-    - curare un [[12 Composti e veleni#Veleni|veleno]], [[05 Abilità#Fare una prova di abilità|DIF]] pari a quella del [[12 Composti e veleni#Veleni|veleno]]
+    - curare un [[16 Composti e veleni#Veleni|veleno]], [[05 Abilità#Fare una prova di abilità|DIF]] pari a quella del [[16 Composti e veleni#Veleni|veleno]]
     - *(solo determinate classi o abilità)* curare una [[11 Condizioni e lesioni#Condizioni mentali|condizione mentale]], [[05 Abilità#Fare una prova di abilità|DIF]] pari alla [[05 Abilità#Fare una prova di abilità|DIF]] dell’effetto
 
 Ogni condizione può essere trattata una volta per [[02 Incontri e riposare#Riposare|riposo]].

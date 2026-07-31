@@ -4,7 +4,7 @@
 *Si può decidere di non opporsi e subire automaticamente l’azione.*
 ### 🎯 L’attaccante:
 - Dichiara che [[04 Azioni e reazioni#Azioni|azione]] vuole compiere.
-- Se quell'azione ha un numero limitato di usi ne scala uno. Se è un [[14 Incantesimi|incantesimo]] consuma il mana richiesto.
+- Se quell'azione ha un numero limitato di usi ne scala uno. Se è un [[13 Incantesimi|incantesimo]] consuma il mana richiesto.
 ### 🗡️ Gli altri partecipanti:
 - In ordine di [[02 Incontri e riposare|iniziativa]], possono eseguire una [[04 Azioni e reazioni#Reazioni|reazione]].
 ### 🎲 Risoluzione:

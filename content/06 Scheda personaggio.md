@@ -36,7 +36,7 @@ Puoi andare in negativo fino ad un valore pari al tuo livello\*8, dopo di che mu
 - Riduci i danni ricevuti da ogni effetto diretto (non si applica a sanguinamenti e simili) di una quantità pari alla tua armatura.
 - Danni magici e necrotici ignorano l’armatura.
 ### 🔮 Mana
-- Riserva magica per lanciare [[14 Incantesimi|incantesimi]].
+- Riserva magica per lanciare [[13 Incantesimi|incantesimi]].
 - È pari al doppio della tua [[Magia]].
 ### 🧰 Armi e Oggetti
 Armi, scudi e oggetti comodi sono quelli che hai impugnato o che hai in uno degli slot comodi su di te:

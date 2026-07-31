@@ -20,7 +20,7 @@ Quando diventi atterrato causi [[04 Azioni e reazioni#Reazioni|reazioni]].
 Hai -2 ai tiri per difenderti e a [[06 Scheda personaggio|colpire]].  
 Se vieni atterrato durante un tuo movimento, quel movimento si interrompe e viene perso.
 ### ☠️ Avvelenato
-Sei afflitto da un [[12 Composti e veleni#Veleni|veleno]]. Vedi [[12 Composti e veleni#Veleni|veleni]]
+Sei afflitto da un [[16 Composti e veleni#Veleni|veleno]]. Vedi [[16 Composti e veleni#Veleni|veleni]]
 ### ❄️ Congelato
 La tua velocità è dimezzata.  
 Hai -2 a colpire.
@@ -95,7 +95,7 @@ Come si curano:
 - [[02 Incontri e riposare#Riposare|riposando]], se superi un tiro di [[Forma Fisica]]
 - con la magia o altre capacità
 
-Per curare le lesioni critiche è necessaria la [[14 Incantesimi|magia]] o una [[Medico|protesi]].
+Per curare le lesioni critiche è necessaria la [[13 Incantesimi|magia]] o una [[Medico|protesi]].
 
 _Ai fini della narrazione una Lesione Critica rende l’arto inutilizzabile, per esempio un amputazione._
 
@@ -112,8 +112,8 @@ _Ai fini della narrazione una Lesione Critica rende l’arto inutilizzabile, per
 - Grave: -2 a [[06 Scheda personaggio|colpire]], [[06 Scheda personaggio#🛡️ Difese|difese]], [[02 Incontri e riposare#Incontro, turno e round|iniziativa]] e alle prove di [[Percezione]] basate sulla vista
 - Critica: sei [[#🙈 Accecato|accecato]]
 ### 👄 Bocca
-- Lieve: i bersagli hanno +1 per resistere ai tuoi [[14 Incantesimi|incantesimi]] e hai -2 alle prove di [[Carisma]] che includono il parlare
-- Grave: i bersagli hanno +2 per resistere ai tuoi [[14 Incantesimi|incantesimi]], hai -4 alle prove di [[Carisma]] che includono il parlare e non puoi lanciare incantesimi rapidi
+- Lieve: i bersagli hanno +1 per resistere ai tuoi [[13 Incantesimi|incantesimi]] e hai -2 alle prove di [[Carisma]] che includono il parlare
+- Grave: i bersagli hanno +2 per resistere ai tuoi [[13 Incantesimi|incantesimi]], hai -4 alle prove di [[Carisma]] che includono il parlare e non puoi lanciare incantesimi rapidi
 - Critica: sei [[#🙊 Silenziato|silenziato]]
 ### 🫀 Ferita interna
 - Lieve: ogni volta che usi un'[[04 Azioni e reazioni#Azioni|azione]] subisci 1d4 danni

@@ -5,7 +5,7 @@ In base alla tipologia possono essere:
 - cosparsi sul bersaglio
 - fatti ingerire
 
-Per [[13 Magia#Identificare|identificare]] un composto bisogna superare la sua [[05 Abilità#Fare una prova di abilità|DIF]] con una delle [[05 Abilità|abilità]] con cui si crea.  
+Per [[12 Magia#Identificare|identificare]] un composto bisogna superare la sua [[05 Abilità#Fare una prova di abilità|DIF]] con una delle [[05 Abilità|abilità]] con cui si crea.  
 *es: per capire che in un cibo o una fiala c’è una Pozione di guarigione, bisogna tirare Medicina o Sopravvivenza superando la sua DIF*
 
 Per creare un composto devi:  
@@ -156,7 +156,7 @@ Spalma un unguento che toglie le condizioni [[11 Condizioni e lesioni#☢️ Cor
 **Uso**: ingerimento.
 **Difesa**: [[Forma Fisica]]
 ### 💉 Vaccino
-Crea un vaccino contro un [[12 Composti e veleni#Veleni|veleno]] o una malattia specifica. Per 24 ore hai un bonus a difendersi contro quel veleno o malattia pari all’abilità usata per creare l’antidoto.
+Crea un vaccino contro un [[16 Composti e veleni#Veleni|veleno]] o una malattia specifica. Per 24 ore hai un bonus a difendersi contro quel veleno o malattia pari all’abilità usata per creare l’antidoto.
 
 **Requisiti**: 4 punti in [[Medicina]].
 **Uso**: ingerimento.
@@ -182,7 +182,7 @@ Per 1 ora hai +2 a [[Destrezza]].
 **Requisiti**: 5 punti in [[Magia]].
 **Uso**: ingerimento.
 ### 🪄 Simulacro
-Copia gli effetti di un [[14 Incantesimi|incantesimo]] che ha un costo di [[06 Scheda personaggio#Mana|mana]] pari o inferiore alle tue [[Conoscenze]]. Usa le tue [[Conoscenze]] invece che [[Magia]] per lanciarlo.
+Copia gli effetti di un [[13 Incantesimi|incantesimo]] che ha un costo di [[06 Scheda personaggio#Mana|mana]] pari o inferiore alle tue [[Conoscenze]]. Usa le tue [[Conoscenze]] invece che [[Magia]] per lanciarlo.
 
 **Requisiti**: 5 punti in [[Magia]].
 **Uso**: ingerimento.

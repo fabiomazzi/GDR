@@ -67,7 +67,7 @@ Se passi almeno 8 ore riposando:
 - ❤️ Recupera metà dei tuoi [[06 Scheda personaggio#Punti Vita (PV)|punti vita]] totali
 - ♻️ Recupera gli usi “X volte per riposo”
 - 🩹 Per ogni [[11 Condizioni e lesioni#Lesioni|lesioni]] fai un tiro di [[Forma Fisica]], abbassa di un grado le lesioni lievi se fai 8 o più, quelle gravi se fai 12 o più. Ogni riposo in cui non guarisci da una lesione, hai un +1 cumulativo a quel tiro.
-- 🧪 [[03 Combattimento#Risolvere un'azione|Difenditi]] dai [[12 Composti e veleni#Veleni|veleni]] che hai in corpo, ogni riposo in cui non guarisci da un veleno, hai un +1 cumulativo a quel tiro.
+- 🧪 [[03 Combattimento#Risolvere un'azione|Difenditi]] dai [[16 Composti e veleni#Veleni|veleni]] che hai in corpo, ogni riposo in cui non guarisci da un veleno, hai un +1 cumulativo a quel tiro.
 
 Si può riposare indicativamente una volta al giorno, a discrezione del Master.
 
