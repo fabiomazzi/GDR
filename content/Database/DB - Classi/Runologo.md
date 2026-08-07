@@ -3,14 +3,14 @@ Tipo: classe
 PV: "8"
 Abilità: Conoscenze, Sopravvivenza
 ---
-Descrizione della classe, tira le pugnalate, ai che male, non so devo scrivere un po' di descrizione per vedere come sta.
+Descrizione della classe.
 
 **PV:** 8  
-**Abilità:** Conoscenze, Sopravvivenza
+**Abilità:** [[Conoscenze]], [[Sopravvivenza]]
 
 ---
 ### Livello 1
-- **Reazione**: 
+- **Reazione**: *<>* .
 - Cerchio Runico.
 ### Livello 2
 - Mentre sei dentro al tuo Cerchio Runico hai un bonus ad Armatura e Colpire pari al tuo livello di classe.

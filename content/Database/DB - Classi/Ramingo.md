@@ -3,14 +3,14 @@ Tipo: classe
 PV: "8"
 Abilità: Conoscenze, Sopravvivenza
 ---
-Descrizione della classe, tira le pugnalate, ai che male, non so devo scrivere un po' di descrizione per vedere come sta.
+Descrizione della classe.
 
 **PV:** 8  
-**Abilità:** Conoscenze, Sopravvivenza
+**Abilità:** [[Conoscenze]], [[Sopravvivenza]]
 
 ---
 ### Livello 1
-- **Reazione**: 
+- **Reazione**: *<>*.
 - Guadagni il talento Esploratore, devi studiare un territorio solo 1 ora e i tuoi bonus sono +2 invece che +1.
 - Guadagni il talento Girovago.
 - Sai parlare due linguaggi aggiuntivi.

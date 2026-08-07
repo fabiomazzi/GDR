@@ -1,6 +1,7 @@
 - obiettivo: è togliere più buff possibile che danno +X preferendo abilità che modificano il come affrontare gli incontri
 - valutare se applicare lesioni è interessante o è meglio tenerla come meccanica solo per i nemici
 - il sistema di magia fa probabilmente schifo, è da sistemare
+	- soprattutto devo dare una codifica agli incantesimi che puoi pagare più volte e pensare se farlo diventare lo standard per la magia
 - armi e altro equip dovrebbero dare cose non legate alla loro funzione, tipo un martello che da percezione, una staffa che da FF, etc
 - semplificare il sistema per creare di composti e veleni, così non ha neanche senso perché non si possono comprare o trovare
 - fare armi e armature specifiche per le classi?
@@ -15,3 +16,5 @@
 - fare le trappole
 - fare gli oggetti
 - decidere se dare dei talenti quando si livella
+- fare una classe che lancia armi e cose
+- fare la classe studioso e finire quelle con dei buchi

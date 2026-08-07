@@ -119,7 +119,7 @@ views:
 ### Armatura
 Riduci il danno subito di questo valore. Non ha effetto contro danni magici o necrotici.
 ### Bloccare/Parare
-Bonus al tuo [[06 Scheda personaggio#Difese|bloccare]]/[[06 Scheda personaggio#Difese|parare]].
+Bonus al tuo [[06 Scheda personaggio#🛡️ Difese|bloccare/parare]].
 ### FF/DES/MAG/VOL
 [[05 Abilità|Abilità]] richiesta per usare l'equipaggiamento. I requisiti si sommano.
 Se per esempio voglio indossare un’armatura media (FF 2), uno scudo grande (FF 2) e una spada corta (FF 1 o DES 1) devo avere uno fra:

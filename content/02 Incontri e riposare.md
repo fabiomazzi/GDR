@@ -12,7 +12,7 @@ Svolgimento di un Incontro:
 ### 🟡 Inizio turno
 - Ottieni un Movimento, un'Azione e due Reazioni.
 - Riduci di 1 la durata di ogni effetto “dura X turni" generato da te, se scende a 0 termina.
-- Puoi decidere che armi e oggetti impugnare o rinfoderare fra quelli [[06 Scheda personaggio#Armi e Oggetti|comodi]].
+- Puoi decidere che armi e oggetti impugnare o rinfoderare fra quelli [[06 Scheda personaggio#🧰 Armi e Oggetti|comodi]].
 - Subisci i danni da [[11 Condizioni e lesioni#🩸 SANGUINANTE|sanguinamento]] e altri effetti “all’inizio del turno”.
 ### 🟢 Durante il turno
 Puoi Usare un Movimento per spostarti della tua velocità, 10m di base, suddivisi come preferisci. Puoi Usare un'Azione come se fosse un Movimento.
@@ -27,7 +27,7 @@ Puoi Usare un'Azione, provocando una Reazione, per:
 - [[04 Azioni e reazioni#🩹 Trattare|Trattare]]
 - Usare un’[[05 Abilità|abilità]] o una capacità che richiede un'azione (se non specificato decide il Master)
 ### 🔴 Fine turno
-- Perdi la tua [[06 Scheda personaggio#Punti Vita (PV)|barriera]].
+- Perdi la tua [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]].
 - Scegli chi agirà dopo di te, tra chi ancora non ha giocato in questo round.
 ### ⚪ Fuori dal turno
 - Quando qualcuno provoca una [[04 Azioni e reazioni#Reazioni|reazione]] puoi eseguirne una, rispettando i requisiti descritti nelle tue capacità
@@ -35,7 +35,7 @@ Puoi Usare un'Azione, provocando una Reazione, per:
 *Io, che sono un Alchimista, ho fra le mie reazioni "se sei entro 10m dall’attaccante, usa un composto comodo su di lui".*
 *Se ho una reazione disponibile posso usarla e usare un composto comodo sull'attaccante.*
 
-- Mentre ti difendi puoi usare una reazione per aggiungere [[06 Scheda personaggio#Difese|schivare]], [[06 Scheda personaggio#Difese|parare]], [[06 Scheda personaggio#Difese|bloccare]] o [[06 Scheda personaggio#Difese|risolutezza]] al tuo tiro. Vedi [[03 Combattimento|risolvere un'azione]].
+- Mentre ti difendi puoi usare una reazione per aggiungere [[06 Scheda personaggio#🛡️ Difese|schivare]], [[06 Scheda personaggio#🛡️ Difese|parare]], [[06 Scheda personaggio#🛡️ Difese|bloccare]] o [[06 Scheda personaggio#🛡️ Difese|risolutezza]] al tuo tiro. Vedi [[03 Combattimento|risolvere un'azione]].
 *Puoi usare al massimo una Reazione per ogni Azione.*
 *Se più persone vogliono eseguire una Reazione nello stesso momento, si eseguono in ordine di Iniziativa o a discrezione del master.*
 *In nessun caso le Reazioni causano Reazioni.*
@@ -63,8 +63,8 @@ Saltare in alto: puoi saltare 20cm in altezza ogni punto in [[Forma Fisica]] (mi
 # Riposare
 Se passi almeno 8 ore riposando:
 
-- 🔋 Recupera tutto il [[06 Scheda personaggio#Mana|mana]]
-- ❤️ Recupera metà dei tuoi [[06 Scheda personaggio#Punti Vita (PV)|punti vita]] totali
+- 🔋 Recupera tutto il [[06 Scheda personaggio#🔮 Mana|mana]]
+- ❤️ Recupera metà dei tuoi [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] totali
 - ♻️ Recupera gli usi “X volte per riposo”
 - 🩹 Per ogni [[11 Condizioni e lesioni#Lesioni|lesioni]] fai un tiro di [[Forma Fisica]], abbassa di un grado le lesioni lievi se fai 8 o più, quelle gravi se fai 12 o più. Ogni riposo in cui non guarisci da una lesione, hai un +1 cumulativo a quel tiro.
 - 🧪 [[03 Combattimento#Risolvere un'azione|Difenditi]] dai [[16 Composti e veleni#Veleni|veleni]] che hai in corpo, ogni riposo in cui non guarisci da un veleno, hai un +1 cumulativo a quel tiro.

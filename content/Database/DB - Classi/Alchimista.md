@@ -6,7 +6,7 @@ Abilità: Conoscenze, Magia
 Descrizione della classe.
 
 **PV:** 6  
-**Abilità:** Conoscenze, Magia
+**Abilità:** [[Conoscenze]], [[Magia]]
 
 ---
 ### Livello 1
@@ -18,8 +18,8 @@ Descrizione della classe.
 	- quando crei un composto puoi invece crearne tanti quanti ne tiene il tuo distillatore facendoli riposare solo 2 ore invece che 8, ma devono essere composti che non hai già creato durante questo riposo.
 - Puoi usare [[Conoscenze]] invece che l’abilità richiesta per creare [[16 Composti e veleni#Composti|composti]] e [[16 Composti e veleni#Veleni|veleni]].
 ### Livello 2
-- Azione: un numero di volte per riposo pari al tuo livello, crea un composto o un veleno, usalo immediatamente come parte di quest’Azione o diventa inerte.
+- **Azione**: un numero di volte per riposo pari al tuo livello, crea un [[16 Composti e veleni#Composti|composto]] o un [[16 Composti e veleni#Veleni|veleno]], usalo immediatamente come parte di quest’[[02 Incontri e riposare#Il tuo turno|azione]] o diventa inerte.
 ### Livello 3
-- Hai accesso ai [Composti da Alchimista](app://obsidian.md/12.%20Composti%20e%20Veleni#Composti%20da%20alchimista).
+- Quando usi il tuo distillatore potenziato hai accesso ai [[16 Composti e veleni#Composti da alchimista|composti da alchimista]].
 ### Livello 4
-- Un numero di volte per riposo pari al tuo livello da Alchimista, quando usi un composto con un’Azione puoi invece usarne due.
+- Un numero di volte per riposo pari al tuo livello da Alchimista, quando usi un composto con un’[[02 Incontri e riposare#Il tuo turno|azione]] puoi invece usarne due.

@@ -54,7 +54,7 @@ Ogni volta oltre alla prima che diventeresti Ustionato, aumenta questo malus di 
 Cadi a terra addormentato.  
 Non puoi agire.  
 Se subisci danno ti svegli.  
-Il tuo tiro per difenderti è considerato 0 e chi ti attacca da adiacente fa automaticamente 12 e danno massimo.  
+I tuoi tiri per difenderti sono considerati 0 e chi ti attacca da adiacente fa automaticamente 12 e danno massimo.  
 Un altro personaggio può svegliarti con un’azione.
 Fallisci automaticamente le prove che richiedono un qualunque movimento.
 ### 😍 Ammaliato
@@ -69,7 +69,7 @@ Obbedisci agli ordini impartiti da chi ti ha dominato.
 Non puoi eseguire [[04 Azioni e reazioni#Reazioni|reazioni]].
 ### 🗿 Paralizzato
 Sei bloccato e non puoi agire.  
-Il tuo tiro per difenderti è considerato 0 e chi ti attacca da adiacente fa automaticamente 12 e danno massimo.  
+I tuoi tiri per difenderti sono considerati 0 e chi ti attacca da adiacente fa automaticamente 12 e danno massimo.  
 Fallisci automaticamente le prove che richiedono un qualunque movimento.
 ### 😱 Spaventato
 Cerchi in tutti i modi di allontanarti dalla fonte dell’effetto.  
@@ -80,13 +80,14 @@ Non puoi usare [[04 Azioni e reazioni#Azioni|azioni]], [[04 Azioni e reazioni#Re
 ### 😑 Svenuto
 Cadi a terra svenuto.  
 Non puoi agire.  
-Il tuo tiro per difenderti è considerato 0 e chi ti attacca da adiacente fa automaticamente 12 e danno massimo.  
+I tuoi tiri per difenderti sono considerati 0 e chi ti attacca da adiacente fa automaticamente 12 e danno massimo.  
+Dopo 24 ore rinvieni.
 # Lesioni
 Quando un attacco va a segno e il dado per colpire segna un 12, si applica una lesione casuale. Tira 1d12 per scegliere a che zona applicarla, se fai 12 sceglila tu.
 
 Se un effetto ti dice “applica una lesione” scegli tu la zona.
 
-Più lesioni sulla stessa parte aumentano di un grado la gravità, se è già critica non succede nulla. Tranne dove specificato i malus di una gravità si sommano a quelli precedenti.
+Più lesioni sulla stessa zona aumentano di un grado la gravità, se è già critica non succede nulla.
 
 A discrezione del Master, le creature con un’anatomia non adatta sono immuni a determinate lesioni.
 
@@ -120,38 +121,36 @@ _Ai fini della narrazione una Lesione Critica rende l’arto inutilizzabile, per
 - Grave: ogni volta che usi un'[[04 Azioni e reazioni#Azioni|azione]] subisci 2d4 danni e diventi [[#😵‍💫 Frastornato|frastornato]] fino all'inizio del tuo prossimo turno
 - Critica: subisci 4d4 danni ogni volta che usi un’[[04 Azioni e reazioni#Azioni|azione]], in più sei [[#😵‍💫 Frastornato|frastornato]]
 ### ✋ Mano destra
-- Lieve: hai -1 a [[06 Scheda personaggio#Colpire|colpire]], [[06 Scheda personaggio#Difese|bloccare]], [[06 Scheda personaggio#Difese|parare]] e alle prove di [[05 Abilità|abilità]] che richiedono l’uso delle mani
-- Grave: hai -3 a [[06 Scheda personaggio#Colpire|colpire]], [[06 Scheda personaggio#Difese|bloccare]], [[06 Scheda personaggio#Difese|parare]] e alle prove di [[05 Abilità|abilità]] che richiedono l’uso delle mani
+- Lieve: hai -1 a [[06 Scheda personaggio#🎯 Colpire|colpire]], [[06 Scheda personaggio#🛡️ Difese|bloccare]], [[06 Scheda personaggio#🛡️ Difese|parare]] e alle prove di [[05 Abilità|abilità]] che richiedono l’uso delle mani
+- Grave: hai -3 a [[06 Scheda personaggio#🎯 Colpire|colpire]], [[06 Scheda personaggio#🛡️ Difese|bloccare]], [[06 Scheda personaggio#🛡️ Difese|parare]] e alle prove di [[05 Abilità|abilità]] che richiedono l’uso delle mani
 - Critica: perdi l’utilizzo della mano, non puoi compiere azioni che richiedono due mani come usare arma e scudo o un’arma a due mani.
 Azioni complicate da fare con una sola mano, come arrampicarsi, nuotare e scassinare, hanno [[05 Abilità#Fare una prova di abilità|DIF]] raddoppiata.
 
 *⚠️ se perdi l’utilizzo di entrambe le mani non puoi compiere azioni che richiedono l’uso delle mani*
 ### 🤚 Mano sinistra
-- Lieve: hai -1 a [[06 Scheda personaggio#Colpire|colpire]], [[06 Scheda personaggio#Difese|bloccare]], [[06 Scheda personaggio#Difese|parare]] e alle prove di [[05 Abilità|abilità]] che richiedono l’uso delle mani
-- Grave: hai -3 a [[06 Scheda personaggio#Colpire|colpire]], [[06 Scheda personaggio#Difese|bloccare]], [[06 Scheda personaggio#Difese|parare]] e alle prove di [[05 Abilità|abilità]] che richiedono l’uso delle mani
+- Lieve: hai -1 a [[06 Scheda personaggio#🎯 Colpire|colpire]], [[06 Scheda personaggio#🛡️ Difese|bloccare]], [[06 Scheda personaggio#🛡️ Difese|parare]] e alle prove di [[05 Abilità|abilità]] che richiedono l’uso delle mani
+- Grave: hai -3 a [[06 Scheda personaggio#🎯 Colpire|colpire]], [[06 Scheda personaggio#🛡️ Difese|bloccare]], [[06 Scheda personaggio#🛡️ Difese|parare]] e alle prove di [[05 Abilità|abilità]] che richiedono l’uso delle mani
 - Critica: perdi l’utilizzo della mano, non puoi compiere azioni che richiedono due mani come usare arma e scudo o un’arma a due mani.
 	Azioni complicate da fare con una sola mano, come arrampicarsi, nuotare e scassinare, hanno [[05 Abilità#Fare una prova di abilità|DIF]] raddoppiata.
 
 *⚠️ se perdi l’utilizzo di entrambe le mani non puoi compiere azioni che richiedono l’uso delle mani*
 ### 🦵 Gamba destra
-- Lieve: -1 a [[06 Scheda personaggio#Difese|schivare]] e alle prove di [[05 Abilità|abilità]] che richiedono l'uso delle gambe
-- Grave: -3 a [[06 Scheda personaggio#Difese|schivare]] e alle prove di [[05 Abilità|abilità]] che richiedono l'uso delle gambe
-- Critica: perdi l’utilizzo della gamba, hai -5 a [[06 Scheda personaggio#Difese|schivare]] e alle prove di [[05 Abilità|abilità]] che richiedono l'uso delle gambe.
-	La tua velocità si abbassa di 4m
+- Lieve: -1 a [[06 Scheda personaggio#🛡️ Difese|schivare]] e alle prove di [[05 Abilità|abilità]] che richiedono l'uso delle gambe, la tua velocità si abbassa di 2m
+- Grave: -3 a [[06 Scheda personaggio#🛡️ Difese|schivare]] e alle prove di [[05 Abilità|abilità]] che richiedono l'uso delle gambe, la tua velocità si abbassa di 4m
+- Critica: perdi l’utilizzo della gamba, hai -5 a [[06 Scheda personaggio#🛡️ Difese|schivare]] e alle prove di [[05 Abilità|abilità]] che richiedono l'uso delle gambe. La tua velocità si abbassa di 6m
 
 *⚠️ se perdi l’utilizzo di entrambe le gambe non puoi stare in piedi senza supporti e non puoi muoverti*
 ### 🦵 Gamba sinistra
-- Lieve: -1 a [[06 Scheda personaggio#Difese|schivare]] e alle prove di [[05 Abilità|abilità]] che richiedono l'uso delle gambe
-- Grave: -3 a [[06 Scheda personaggio#Difese|schivare]] e alle prove di [[05 Abilità|abilità]] che richiedono l'uso delle gambe
-- Critica: perdi l’utilizzo della gamba, hai -5 a [[06 Scheda personaggio#Difese|schivare]] e alle prove di [[05 Abilità|abilità]] che richiedono l'uso delle gambe.
-	La tua velocità si abbassa di 4m
+- Lieve: -1 a [[06 Scheda personaggio#🛡️ Difese|schivare]] e alle prove di [[05 Abilità|abilità]] che richiedono l'uso delle gambe, la tua velocità si abbassa di 2m
+- Grave: -3 a [[06 Scheda personaggio#🛡️ Difese|schivare]] e alle prove di [[05 Abilità|abilità]] che richiedono l'uso delle gambe, la tua velocità si abbassa di 4m
+- Critica: perdi l’utilizzo della gamba, hai -5 a [[06 Scheda personaggio#🛡️ Difese|schivare]] e alle prove di [[05 Abilità|abilità]] che richiedono l'uso delle gambe. La tua velocità si abbassa di 6m
 
 *⚠️ se perdi l’utilizzo di entrambe le gambe non puoi stare in piedi senza supporti e non puoi muoverti*
 ### 🦶 Piede destro
-- Lieve: quando ti muovi scegli se dimezzare la tua velocità o subire 1d4 danni
-- Grave: quando ti muovi scegli se dimezzare la tua velocità o subire 2d4 danni
-- Critica: quando ti muovi scegli se dimezzare la tua velocità o subire 4d4 danni
+- Lieve: quando ti muovi più di 2m in un round subisci 1d4 danni
+- Grave: quando ti muovi più di 2m in un round subisci 2d4 danni
+- Critica: quando ti muovi più di 2m in un round subisci 4d4 danni
 ### 🦶 Piede sinistro
-- Lieve: quando ti muovi scegli se dimezzare la tua velocità o subire 1d4 danni
-- Grave: quando ti muovi scegli se dimezzare la tua velocità o subire 2d4 danni
-- Critica: quando ti muovi scegli se dimezzare la tua velocità o subire 4d4 danni
+- Lieve: quando ti muovi più di 2m in un round subisci 1d4 danni
+- Grave: quando ti muovi più di 2m in un round subisci 2d4 danni
+- Critica: quando ti muovi più di 2m in un round subisci 4d4 danni

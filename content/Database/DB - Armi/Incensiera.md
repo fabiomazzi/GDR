@@ -11,11 +11,12 @@ Danno: 1d6
 Difesa: B, P, S
 FF req: 1
 D: false
-Note: Arma secondaria se 2h
+Note: Se usata con 2 mani sei considerato avere un'arma secondaria
 Parare: -4
 P: false
 Schivare:
 T: false
 Gittata:
+L: false
 ---
 

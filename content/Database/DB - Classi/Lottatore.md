@@ -3,14 +3,14 @@ Tipo: classe
 PV: "10"
 Abilità: Destrezza, Forma Fisica
 ---
-Descrizione della classe, tira le pugnalate, ai che male, non so devo scrivere un po' di descrizione per vedere come sta.
+Descrizione della classe.
 
 **PV:** 10  
-**Abilità:** Destrezza, Forma Fisica
+**Abilità:** [[Destrezza]], [[Forma Fisica]]
 
 ---
 ### Livello 1
-- **Reazione**: minacci l’attaccante. Lotta con lui, l’attacco si risolve anche se lo afferri o spingi, ma farà metà danno.
+- **Reazione**: *<minacci l’attaccante>* lotta con lui, se lo afferri o spingi l’attacco fa metà danno.
 - Hai il talento Grappler.
 - Ogni estremità del tuo corpo è considerata un’arma naturale affilata, perforante e contundente che fa 1d6 danni, se hai già altre abilità simili fa invece un danno extra
 - Lottare non causa Reazioni.

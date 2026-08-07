@@ -4,7 +4,7 @@ Magico: false
 2h: true
 A: true
 Armatura:
-Capacità Speciali:
+Capacità Speciali: Non hai malus se attacchi un nemico adiacente
 C: false
 DES req: 1
 Danno: 1d4
@@ -16,6 +16,7 @@ Parare: -4
 P: true
 Schivare:
 T: false
-Gittata: 10m
+Gittata: 12m
+L: false
 ---
 

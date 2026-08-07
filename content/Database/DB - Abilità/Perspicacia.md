@@ -4,7 +4,7 @@ Classi: Tecnomante, Tuttofare
 Provenienze: Città
 Razze: Automa, Gnomo
 ---
-**Descrizione:** Intuire come funziona un macchinario. Determinare le [[06 Scheda personaggio#🛡️ Difese|difese]], il [[06 Scheda personaggio|colpire]] e il livello di un essere. Capire cos'è successo in un luogo dopo un combattimento, un furto, etc.
+**Descrizione:** Intuire come funziona un macchinario. Determinare le [[06 Scheda personaggio#🛡️ Difese|difese]], il [[06 Scheda personaggio#🎯 Colpire|colpire]] e il livello di un essere. Capire cos'è successo in un luogo dopo un combattimento, un furto, etc.
 
 **Esempi:**
 - Capire cos’è successo su un luogo del crimine.

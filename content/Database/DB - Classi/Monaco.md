@@ -3,14 +3,14 @@ Tipo: classe
 PV: "6"
 Abilità: Destrezza, Volontà
 ---
-Descrizione della classe, tira le pugnalate, ai che male, non so devo scrivere un po' di descrizione per vedere come sta.
+Descrizione della classe.
 
 **PV:** 6  
-**Abilità:** Destrezza, Volontà
+**Abilità:** [[Destrezza]], [[Volontà]]
 
 ---
 ### Livello 1
-- **Reazione**: minacci l’attaccante con un’arma naturale o un’arma da monaco comoda. Puoi fare un attacco rapido con quell’arma.
+- **Reazione**: *<minacci l’attaccante con un’arma naturale o un’arma da monaco comoda>* puoi fare un attacco rapido con quell’arma.
 - Ogni estremità del tuo corpo è considerata un’arma naturale affilata, perforante e contundente che fa 1d4 danni, sei sempre considerato avere un’arma naturale secondaria impugnata.
 - Hai un bonus a Schivare pari a metà della tua Volontà.
 - Guadagni Armatura e un bonus contro veleni e malattie pari alla tua Volontà.

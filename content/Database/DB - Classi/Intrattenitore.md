@@ -3,14 +3,14 @@ Tipo: classe
 PV: "6"
 Abilità: Carisma, Conoscenze
 ---
-Descrizione della classe, tira le pugnalate, ai che male, non so devo scrivere un po' di descrizione per vedere come sta.
+Descrizione della classe.
 
 **PV:** 6  
-**Abilità:** Carisma, Conoscenze
+**Abilità:** [[Carisma]], [[Conoscenze]]
 
 ---
 ### Livello 1
-- **Reazione**: sei entro 10m dall’attaccante. Intimidiscilo.
+- **Reazione**: *<sei entro 10m dall’attaccante>* intimidiscilo.
 - Una numero di volte per riposo pari al tuo livello da Intrattenitore, se fallisci un tiro su Carisma puoi immediatamente ritirare il dado e tenere il risultato più alto.
 - Quando usi l’Azione Intimidire puoi influenzare un bersaglio aggiuntivo.
 - Puoi includere il lancio di un incantesimo in un normale dialogo, routine di danza o canzone, se non si supera un tiro di Perspicacia pari al tuo Carisma non si capisce che stai lanciando un incantesimo o che l’incantesimo è partito da te.

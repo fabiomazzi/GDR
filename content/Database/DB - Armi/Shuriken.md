@@ -11,11 +11,12 @@ Danno: 1d4
 Difesa: B, S
 FF req: 2
 D: true
-Note: FF oppure DES
+Note: FF oppure DES. In un slot arma puoi mettere 6 shuriken.
 Parare:
 P: true
 Schivare:
 T: false
 Gittata: 6m
+L: true
 ---
 

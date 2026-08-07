@@ -21,7 +21,7 @@ Non si può per nessun motivo avere più mana del proprio mana totale.
 Quando lanci un [[13 Incantesimi|incantesimo]] consumi Mana pari al suo costo.
 # Servitori
 Sono creature evocate che obbediscono ciecamente all’incantatore. Può esserne attivo solo uno in ogni momento, se viene evocato un servitore, gli altri spariscono.
-Agiscono insieme a chi li comanda, subito prima o subito dopo.
+Agiscono subito prima o subito dopo di chi li comanda.
 # Tramite
 Puoi lanciare il tuo [[13 Incantesimi|incantesimo]] su un essere o un oggetto che diventa il tramite, sarà lui ad attivarlo al tuo posto, se non viene attivato entro l'inizio del tuo prossimo turno l’incantesimo è perso.
 Puoi usare un tramite solo se specificato.

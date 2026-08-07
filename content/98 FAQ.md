@@ -41,8 +41,8 @@ No:
 - un bonus a Colpire si mette sia al danno che al tiro per colpire
 - un bonus al tiro per colpire modifica solo il tiro per colpire
 - un bonus al danno modifica solo il danno
-### Dimezzare
-Se un numero va dimezzato si arrotonda per eccesso.
+### Dimezzare e dividere
+Se un numero va dimezzato o diviso si arrotonda per eccesso.
 ### Perdere punti vita
 La perdita di punti vita volontaria non può essere prevenuta in nessun modo. Armatura, resistenze, barriera, etc. non servono.
 ### “+2 a Destrezza” e “+2 alle prove di Destrezza” è la stessa cosa?

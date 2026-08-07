@@ -3,21 +3,22 @@ Tipo: classe
 PV: "6"
 Abilità: Destrezza, Percezione
 ---
-Descrizione della classe, tira le pugnalate, ai che male, non so devo scrivere un po' di descrizione per vedere come sta.
+Descrizione della classe.
 
 **PV:** 6  
-**Abilità:** Destrezza, Percezione
+**Abilità:** [[Destrezza]], [[Percezione]]
 
 ---
 ### Livello 1
-- **Reazione**: minacci un’attaccante entro 20m con un’arma dalla distanza o da lancio. Fai un attacco rapido su di lui con quell’arma.
-- Guadagni il talento Cecchino.
-- Sai usare le proprietà speciali delle armi a distanza e da lancio.
-- Hai uno slot arma comoda aggiuntivo (massimo 4), usalo solo per armi da lancio.
+- **Reazione**: *<minacci un’attaccante entro 20m con un’arma dalla distanza impugnata oppure un'arma da lancio comoda>* fai un attacco rapido su di lui con quell’[[14 Armi|arma]].
+- Guadagni il talento [[Cecchino]].
+- Sai usare le [[14 Armi#Capacità speciali|capacità speciali]] delle armi dalla distanza.
+- Hai uno slot [[06 Scheda personaggio#🧰 Armi e Oggetti|arma comoda]] aggiuntivo (massimo 4), usalo solo per armi da lancio.
 ### Livello 2
-- Se attacchi con un’arma dalla distanza o da lancio un nemico adiacente, aggiungi normalmente Colpire al danno.
-- Abbassa di 2 il risultato necessario col dado per applicare una lesione, quando applicheresti una lesione puoi invece fare danni bonus pari al tuo Colpire.
+- Se attacchi con un’[[14 Armi#(D) dalla distanza|arma dalla distanza]] un nemico adiacente non hai malus e puoi aggiungere normalmente [[06 Scheda personaggio#🎯 Colpire|colpire]] al danno.
+- Abbassa di 2 il risultato necessario col dado per [[03 Combattimento#Risolvere un'azione|applicare una lesione]], quando applicheresti una lesione in questo modo, scegli la zona.
 ### Livello 3
 - Considera le tue armi comode da lancio come armi secondarie.
+- Hai uno slot [[06 Scheda personaggio#🧰 Armi e Oggetti|arma comoda]] aggiuntivo (massimo 4), usalo solo per armi da lancio.
 ### Livello 4
-- Hai un’Azione extra, usala solo per attaccare con un’arma dalla distanza.
+- Hai un’[[02 Incontri e riposare#Il tuo turno|azione]] extra, usala solo per attaccare con un’[[14 Armi#(D) dalla distanza|arma dalla distanza]].

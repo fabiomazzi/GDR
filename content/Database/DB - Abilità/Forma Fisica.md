@@ -4,7 +4,7 @@ Classi: Berserker, Bastione, Elementalista, Guerriero, Maestro d'armi, Lottatore
 Provenienze: Montagna
 Razze: Gigante, Nano, Orco
 ---
-**Descrizione:** Quanto si è forti e robusti fisicamente. Serve per lanciare, sollevare, correre, scalare, arrampicarsi, nuotare, saltare, etc. Determina il bonus a [[06 Scheda personaggio|colpire]], il danno e il [[06 Scheda personaggio#Difese|bloccare]].
+**Descrizione:** Quanto si è forti e robusti fisicamente. Serve per lanciare, sollevare, correre, scalare, arrampicarsi, nuotare, saltare, etc. Determina il bonus a [[06 Scheda personaggio#🎯 Colpire|colpire]], il danno e il [[06 Scheda personaggio#🛡️ Difese|bloccare]].
 
 **Esempi:**
 - Sollevare un peso di 10kg → [[05 Abilità#Fare una prova di abilità|DIF]] 3

@@ -6,17 +6,17 @@ A: true
 Armatura:
 Capacità Speciali: Nel momento in cui impugni quest'arma, puoi lanciarla facendo un attacco rapido.
 C: false
-DES req: 1
+DES req: 2
 Danno: 1d3
 Difesa: B, P, S
-FF req: 1
-D: false
+FF req:
+D: true
 Note: FF oppure DES.
 Parare: -3
 P: true
 Schivare:
-T: true
-Gittata:
-L: false
+T: false
+Gittata: 6m
+L: true
 ---
-
+È identico al [[Pugnale]], è una voce diversa per comodità di lettura.

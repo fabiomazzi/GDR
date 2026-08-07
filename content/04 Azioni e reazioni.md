@@ -1,7 +1,6 @@
 # Azioni
 ### ⚔️ Attaccare
 Esegui un [[03 Combattimento#Risolvere un'azione|attacco]] con ogni arma che hai impugnato, gli attacchi con le armi secondarie sono attacchi rapidi.
-
 Un attacco rapido segue le stesse regole di un attacco normale ma senza aggiungere colpire al danno e senza causare reazioni.
 
 Vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]].
@@ -20,7 +19,6 @@ Vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]].
 Tira [[Carisma|carisma]] contro [[Perspicacia|perspicacia]] di un [[98 FAQ#Essere senziente|essere senziente]]. Deve poterti vedere o sentire.
 
 In caso di successo puoi:
-
 - convincerlo ad arrendersi o a scappare
 - dare +2 al prossimo attacco verso di lui
 - dare -2 al suo prossimo attacco
@@ -64,7 +62,8 @@ Vedi [[05 Abilità|abilità]] e le capacità di classi, razze, etc.
 # Reazioni
 Si hanno due reazioni ogni round, si possono usare in due modi:
 
-- Quando qualcuno compie un'azione, i partecipanti all'incontro possono usare una reazione fra le loro capacità, a patto di soddisfare i suoi requisiti. 
+- Quando qualcuno causa una reazione, i partecipanti all'incontro possono usare una reazione che hanno fra le loro capacità, a patto di soddisfare i suoi requisiti. 
+Si causa una reazione quando si compie un'azione o in altri casi dove è specificato, per esempio quando ci si rialza da terra o si fa un movimento complesso. 
 Si può usare una sola reazione per ogni azione.
 - Quando ci si sta difendendo si può usare una reazione per aggiungere la difesa specificata al proprio tiro.
 

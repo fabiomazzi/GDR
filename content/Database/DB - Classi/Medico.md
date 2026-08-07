@@ -3,14 +3,14 @@ Tipo: classe
 PV: "6"
 Abilità: Conoscenze, Medicina
 ---
-Descrizione della classe, tira le pugnalate, ai che male, non so devo scrivere un po' di descrizione per vedere come sta.
+Descrizione della classe.
 
 **PV:** 6  
-**Abilità:** Conoscenze, Medicina
+**Abilità:** [[Conoscenze]], [[Medicina]]
 
 ---
 ### Livello 1
-- **Reazione**: minacci l’attaccante con un arma da mischia o naturale. Attacca usando Medicina, se colpisci dimezza il danno dell’attacco, non fai danno.
+- **Reazione**: *<minacci l’attaccante con un arma da mischia o naturale>* attacca usando Medicina, se colpisci dimezza il danno dell’attacco, non fai danno.
 - Trattare non causa Reazioni.
 - Un numero di volte per riposo pari alla tua Medicina, quando Tratti puoi in aggiunta curare il bersaglio di PV pari a 1d4 per livello da Medico + Medicina.
 - Puoi attaccare usando Medicina per Colpire, applica una lesione come unico effetto di questo attacco..

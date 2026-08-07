@@ -3,14 +3,14 @@ Tipo: classe
 PV: "4"
 Abilità: Magia, Volontà
 ---
-Descrizione della classe, tira le pugnalate, ai che male, non so devo scrivere un po' di descrizione per vedere come sta.
+Descrizione della classe.
 
 **PV:** 4  
-**Abilità:** Magia, Volontà
+**Abilità:** [[Magia]], [[Volontà]]
 
 ---
 ### Livello 1
-- **Reazione**: uno dei tuoi non morti minaccia l’attaccante. Quel non-morto lo attacca o usa su di lui una capacità.
+- **Reazione**: *<uno dei tuoi non morti minaccia l’attaccante>* quel non-morto lo attacca o usa su di lui una capacità.
 - Servitore non morto è permanente.
 - Esercito di non-morti e Consumare un non-morto.
 ### Livello 2

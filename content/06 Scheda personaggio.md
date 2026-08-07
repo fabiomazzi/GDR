@@ -21,7 +21,7 @@ Vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]].
 | Non magico ad area                | Destrezza    | Schivare / Bloccare          |
 
 ### 🛡️ Difese
-Aggiungi questi valori ai tiri per difenderti quando usi una [[04 Azioni e reazioni#Reazioni|reazione]].
+Aggiungi questi valori ai tiri per difenderti se usi una [[04 Azioni e reazioni#Reazioni|reazione]].
 - **Bloccare** → pari a [[Forma Fisica]], richiede uno scudo o un oggetto con la proprietà “Bloccare”.
 - **Parare** → pari a [[Destrezza]], richiede un’arma qualunque o un oggetto con la proprietà “Parare”.
 - **Schivare** → pari a [[Destrezza]].
@@ -30,8 +30,9 @@ Aggiungi questi valori ai tiri per difenderti quando usi una [[04 Azioni e reazi
 Vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]].
 ### 🩷 Punti Vita (PV)
 Rappresentano lo stato psicofisico del personaggio, un misto di salute fisica, determinazione ed energia. Quando subisci danno sottrailo dai tuoi punti vita.
-A 0 o meno punti vita, [[11 Condizioni e lesioni#😑 Svenuto|svieni]]. Se torni a 1 o più, rinvieni.
+A 0 o meno punti vita, [[11 Condizioni e lesioni#😑 Svenuto|svieni]]. Se torni a 1 o più punti vita, rinvieni.
 Puoi andare in negativo fino ad un valore pari al tuo livello\*8, dopo di che muori.
+Se hai "rigenerazione X", all'inizio del tuo turno recuperi X punti vita.
 ### 🦺 Armatura
 - Riduci i danni ricevuti da ogni effetto diretto (non si applica a sanguinamenti e simili) di una quantità pari alla tua armatura.
 - Danni magici e necrotici ignorano l’armatura.

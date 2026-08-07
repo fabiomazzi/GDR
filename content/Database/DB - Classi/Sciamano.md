@@ -3,14 +3,14 @@ Tipo: classe
 PV: "6"
 Abilità: Carisma, Volontà
 ---
-Descrizione della classe, tira le pugnalate, ai che male, non so devo scrivere un po' di descrizione per vedere come sta.
+Descrizione della classe.
 
 **PV:** 6  
-**Abilità:** Carisma, Volontà
+**Abilità:** [[Carisma]], [[Volontà]]
 
 ---
 ### Livello 1
-- **Reazione**: un difensore o un attaccante sono un bersaglio valido per il tuo Condotto Spirituale. Usa Condotto Spirituale su di lui.
+- **Reazione**: *\<un difensore o un attaccante sono un bersaglio valido per il tuo Condotto Spirituale>* usa Condotto Spirituale su di lui.
 - Condotto Spirituale.
 ### Livello 2
 - Migliora il Condotto Spirituale.

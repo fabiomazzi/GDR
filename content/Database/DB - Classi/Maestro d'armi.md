@@ -3,14 +3,14 @@ Tipo: classe
 PV: "8"
 Abilità: Destrezza, Forma Fisica
 ---
-Descrizione della classe, tira le pugnalate, ai che male, non so devo scrivere un po' di descrizione per vedere come sta.
+Descrizione della classe.
 
 **PV:** 8  
-**Abilità:** Destrezza, Forma Fisica
+**Abilità:** [[Destrezza]], [[Forma Fisica]]
 
 ---
 ### Livello 1
-- **Reazione**: minacci l’attaccante, anche con un’arma comoda. Fai un’attacco rapido con un’arma impugnata o comoda, puoi tenere impugnata quell’arma.
+- **Reazione**: *<minacci l’attaccante con un’arma comoda>* fai un attacco rapido con quell'arma, puoi tenerla impugnata dopo aver attaccato.
 - Hai uno slot arma comoda aggiuntivo.
 - Sai usare le proprietà speciali di tutte le armi.
 - Arsenale vivente: quando attacchi con un’arma diversa da quella usata per il tuo ultimo attacco, ottieni una carica Arsenale (numero massimo pari al tuo livello da Maestro d’armi), se a fine turno non hai attaccato un nemico perdi una carica.

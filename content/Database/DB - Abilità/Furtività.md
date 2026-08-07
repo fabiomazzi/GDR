@@ -1,6 +1,6 @@
 ---
 Tipo: Abilità
-Classi: Assassino, Ombra
+Classi: Ombra, Sicario
 Provenienze: Sottosuolo
 Razze: Felari
 ---
@@ -11,6 +11,6 @@ Razze: Felari
 - Se vuoi borseggiare qualcuno tira Furtività contro [[Percezione]], ha +4 al tiro se ti sta osservando.
 - Se una persona sa della tua presenza, siete in combattimento o ti sta attivamente cercando ha +4 ai tiri di [[Percezione]] per notarti.
 
-**Classi:** [[Assassino]], [[Ombra]]  
+**Classi:** [[Sicario]], [[Ombra]]  
 **Provenienze:** [[Sottosuolo]]  
 **Razze:** [[Felari (gatti)|Felari]]

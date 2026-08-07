@@ -3,19 +3,19 @@ Tipo: classe
 PV: "12"
 Abilità: Forma Fisica, Sopravvivenza
 ---
-Descrizione della classe, tira le pugnalate, ai che male, non so devo scrivere un po' di descrizione per vedere come sta.
+Descrizione della classe.
 
 **PV:** 12  
-**Abilità:** Forma Fisica, Sopravvivenza
+**Abilità:** [[Forma Fisica]], [[Sopravvivenza]]
 
 ---
 ### Livello 1
-- **Reazione**: sei un difensore. Puoi subire automaticamente l’attacco per attaccare gratuitamente l’attaccante.
-- Quando sei a metà punti vita o meno puoi andare in ira.
-- Se indossi un’armatura che ha un requisito di FF 2 o superiore perdi tutti i bonus dati dalla classe Berserker.
+- **Reazione**: *\<sei un difensore>* puoi fallire automaticamente le [[03 Combattimento#Risolvere un'azione#|difese]] legate all'attacco (sia per il danno che per eventuali veleni, effetti mentali, lesioni, etc.) per [[04 Azioni e reazioni#⚔️ Attaccare|attaccare]] gratuitamente l’attaccante.
+- Quando sei a metà [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] o meno puoi andare in [[#IRA|ira]].
+- Se indossi un’[[15 Armature e scudi|armatura]] perdi tutti i bonus dati dalla classe Berserker.
 ### Livello 2
-- Puoi sottrarre al tiro per colpire di un’attacco un numero fino al tuo livello da Berserker e aggiungerne il doppio ai danni (decidilo prima di tirare per colpire).
-- Sai usare le proprietà speciali di un’arma a tua scelta.
+- Puoi sottrarre ai tuoi tiri per colpire un numero fino al tuo livello da Berserker per aggiungerne il doppio ai danni (decidilo prima di tirare i dadi).
+- Sai usare le [[14 Armi#Capacità speciali|capacità speciali]] di un’[[14 Armi|arma]] a tua scelta.
 ### Livello 3
 - L’ira migliora.
 ### Livello 4
@@ -27,23 +27,23 @@ Descrizione della classe, tira le pugnalate, ai che male, non so devo scrivere u
 Quando sei a metà o meno punti vita e sei in combattimento, sei considerato in ira.
 - sei visibilmente agitato e manesco
 - hai protezione da tutti i tipi di danno
-- +2 a FF e Volontà
-- +2 a Intimidire
-- considera le lesioni non critiche come fossero un grado più basse (sono comunque presenti con la loro gravità originale)
-- i movimenti complessi vengono considerati normali
+- +2 a [[Forma Fisica]]
+- +2 a [[Volontà]]
+- +2 a [[04 Azioni e reazioni#😠 Intimidire|intimidire]]
+- -2 a [[Destrezza]]
+- considera le [[11 Condizioni e lesioni#Lesioni|lesioni]] non critiche come fossero un grado più basse (rimangono comunque presenti con la loro gravità originale)
+- i [[02 Incontri e riposare#Movimento|movimenti complessi]] vengono considerati normali
 - hai un bonus alla velocità di movimento di 2m
-- hai rigenerazione 2
-- -2 a Destrezza
-- perdi ogni bonus a Conoscenze, Furtività, Perspicacia
-- non puoi lanciare incantesimi
-- non puoi Bloccare
+- hai [[06 Scheda personaggio#🩷 Punti Vita (PV)|rigenerazione]] 2
+- perdi ogni bonus a [[Conoscenze]], [[Furtività]], [[Perspicacia]]
+- non puoi lanciare [[13 Incantesimi|incantesimo]]
 
 ### Livello 3
-- i bonus a FF e Volontà diventano +3
+- i bonus a [[Forma Fisica]] e [[Volontà]] diventano +3
 - il bonus al movimento diventa di 4m
-- la rigenerazione diventa 3
-- puoi ignorare fino ad una condizione mentale da cui sei afflitto
-- una volta per riposo, quando scendi a 0 o meno punti vita puoi eseguire immediatamente un attacco, poi diventi morente
-- non puoi essere spaventato
+- la [[06 Scheda personaggio#🩷 Punti Vita (PV)|rigenerazione]] diventa 3
+- puoi ignorare fino ad una [[11 Condizioni e lesioni#Condizioni mentali|condizione mentale]] da cui sei afflitto
+- una volta per riposo, quando scendi a 0 o meno punti vita puoi eseguire immediatamente un'azione prima di [[06 Scheda personaggio#🩷 Punti Vita (PV)|svenire]]
+- non puoi essere [[11 Condizioni e lesioni#😱 Spaventato|spaventato]]
 ### Livello 4
-- una volta per riposo, se scendi a 0 o meno PV, torni invece ad un numero di PV pari al tuo livello
+- una volta per riposo, quando scendi a 0 o meno [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]], torni invece ad un numero di [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] pari al tuo livello
