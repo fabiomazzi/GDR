@@ -1,6 +1,6 @@
 ---
 Costo: 2
-Difesa: Volontà
+Difesa: Risolutezza
 Durata: 1 turno per livello
 Gittata: 10m
 Rapido: false
@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Ogni volta che il bersaglio prova a mentire deve difendersi con Volontà, se fallisce deve dire la verità.
+Ogni volta che il bersaglio prova a mentire deve difendersi con Risolutezza, se fallisce deve dire la verità.

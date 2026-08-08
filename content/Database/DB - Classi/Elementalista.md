@@ -27,7 +27,7 @@ Descrizione della classe, che farò con calma.
 ## Padroneggiare gli elementi
 - Scegli un elemento da padroneggiare.
 - Guadagni il talento [[Soffio]], devi scegliere il tuo elemento.
-- Gli incantesimi Dardo Elementale e Shock Elementale costano 0 mana se lanciati scegliendo il tuo elemento, usa la più bassa fra [[Forma Fisica]] e [[Volontà]] invece che [[Magia]] per i tiri.
+- Gli incantesimi [[Dardo Elementale]] e [[Shock Elementale]] costano 0 mana se lanciati scegliendo il tuo elemento, usa la più bassa fra [[Forma Fisica]] e [[Volontà]] invece che [[Magia]] per i tiri.
 - Hai Cariche Elementali pari alla somma della tua [[Forma Fisica]] e [[Volontà]], le recuperi riposando. Se un'abilità richiede un tiro per difendersi usa la più bassa fra [[Forma Fisica]] e [[Volontà]].
 - Puoi usare queste cariche per:
 	- potenziare un movimento con Movimento Elementale, non è un'azione

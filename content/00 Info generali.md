@@ -52,8 +52,8 @@ Il gioco è pensato per livelli 1-8, ma nulla vieta di proseguire.
 ### Ci sono gli attacchi di opportunità?
 Ci sono le Reazioni, sono azioni che potete fare se qualcuno vicino a voi attacca, viene attaccato, lancia un incantesimo, si cura, etc.
 Ogni classe ha reazioni diverse.
-### Implementerai questa cosa? Questa regola è scritta male. Hai pensato di fare...
-Date un occhiata alla pagina [[99 Work in progress]], lì cerco di tenere aggiornato tutto quello a cui sto lavorando e che voglio sistemare e implementare
+### Implementerai questa cosa? Questa regola è scritta male. Non hai finito questa classe. Hai pensato di fare...
+Date un occhiata alla pagina [[99 Work in progress]], lì cerco di tenere aggiornato tutto quello a cui sto lavorando e che voglio sistemare o implementare.
 ### Altre note sparse:
 - non ci sono valute, il sistema "a soldi" ha troppi lati negativi rispetto a quelli positivi
 - gli oggetti magici sono pochi e rari

@@ -50,7 +50,7 @@ Se una persona sa della tua presenza, siete in combattimento o ti sta attivament
 Se ti nascondi in combattimento, all’inizio di ogni turno devi ritirare [[Furtività]] contro [[Percezione]] di chi ti potrebbe vedere.
 ### 🩹 Trattare
 - Con un tiro di [[Medicina]] puoi trattare un bersaglio [[03 Combattimento#Distanze|adiacente]] per:
-    - curare una [[11 Condizioni e lesioni#Lesioni|lesione lieve]], [[05 Abilità#Fare una prova di abilità|DIF]] 6
+    - curare una [[11 Condizioni e lesioni#Lesioni|lesione lieve]], [[05 Abilità#Fare una prova di abilità|DIF]] 8
     - portare una [[11 Condizioni e lesioni#Lesioni|lesione]] da grave a lieve, [[05 Abilità#Fare una prova di abilità|DIF]] 12
     - curare un [[11 Condizioni e lesioni#🩸 SANGUINANTE|sanguinamento]] (uno per azione), [[05 Abilità#Fare una prova di abilità|DIF]] pari al danno che fa
     - curare un [[16 Composti e veleni#Veleni|veleno]], [[05 Abilità#Fare una prova di abilità|DIF]] pari a quella del [[16 Composti e veleni#Veleni|veleno]]

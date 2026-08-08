@@ -72,20 +72,14 @@ views:
       note.Capacità Speciali: 233
 
 ```
-### FF/DES/MAG/VOL req
-Abilità richiesta per usare l'equipaggiamento. I requisiti si sommano.
-Se per esempio voglio indossare un’armatura media (FF 2), uno scudo grande (FF 2) e una spada corta (FF 1 o DES 1) devo avere uno fra:
-- FF 5
-- FF 4 e Destrezza 1 (in questo caso la spada corta userà DES come Colpire)
 
-Se un’arma ti fa scegliere tra [[Forma Fisica]] o [[Destrezza]], devi usare quello che scegli anche come [[06 Scheda personaggio#🎯 Colpire|colpire]].
-### Difesa
-Come ci si difende dagli attacchi di quest'arma. Vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]].
 ### 2H
 L'arma va utilizzata con due mani.
 Occupa due [[06 Scheda personaggio#🧰 Armi e Oggetti|slot comodi]].
 ###  (A) Agile
 Con quest'arma puoi usare [[Destrezza]] come [[06 Scheda personaggio#🎯 Colpire|colpire]].
+### Capacità speciali
+Classi e talenti danno la possibilità di usare le capacità speciali segnate in questa colonna.
 ### (D) Dalla distanza
 Con quest'arma minacci entro la gittata indicata e puoi attaccare dalla distanza.
 Devi usare [[Destrezza]] come [[06 Scheda personaggio#🎯 Colpire|colpire]].
@@ -93,13 +87,23 @@ Se attacchi con un’arma dalla distanza un nemico [[#Distanze|adiacente]], non 
 Per ogni incremento di gittata hai -4 a colpire.
 *Esempio: se la gittata è 6m, fra 6 e 12 metri hai -4, fra 12 e 18 metri hai -8, etc.*
 *Esempio: se la gittata è 20m, fra 20 e 40 metri hai -4, fra 40 e 60 metri hai -8, etc.*
+### Difesa
+Come ci si difende dagli attacchi di quest'arma. Vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]].
+### FF/DES/MAG/VOL req
+Abilità richiesta per usare l'equipaggiamento. I requisiti si sommano.
+Se per esempio voglio indossare un’armatura media (FF 2), uno scudo grande (FF 2) e una spada corta (FF 1 o DES 1) devo avere uno fra:
+- FF 5
+- FF 4 e Destrezza 1 (in questo caso la spada corta userà DES come Colpire)
+
+Se un’arma ti fa scegliere tra [[Forma Fisica]] o [[Destrezza]], devi usare quello che scegli anche come [[06 Scheda personaggio#🎯 Colpire|colpire]].
 ### (L) Da lancio
 Deve essere lanciata.
+### Naturale
+È un'arma che fa parte del tuo corpo, come le mani, una coda, il morso, etc.
 ### Tipo di danno
-T: Tagliente
-C: Contundente
-P: Perforante
-M: Magico
-N: Necrotico
-### Capacità speciali
-Classi e talenti danno la possibilità di usare le capacità speciali segnate in questa colonna.
+A = Affilato
+C = Contundente
+M = Magico
+N = Necrotico
+P = Perforante
+T = Tagliente

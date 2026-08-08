@@ -18,6 +18,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+      - property: Difesa
+        direction: ASC
     columnSize:
       note.Costo: 75
 

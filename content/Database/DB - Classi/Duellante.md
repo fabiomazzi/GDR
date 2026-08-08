@@ -19,7 +19,7 @@ Descrizione della classe, che farò con calma.
 - Guadagni un talento fra [[Mago combattente]], [[Montantero]] e [[Spadaccino]].
 ### Livello 2
 - **Reazione**, **Maestria**: *<minacci un’attaccante che sta attaccando con un’arma dalla distanza o da lancio>* fai un tiro contrapposto di [[Destrezza]], se lo superi fai cadere il proiettile o arma da lancio, perde l’attacco.
-- **[[#Punti Maestria|Maestria]]**: aggiungi il tuo livello da Duellante ad un tiro per [[06 Scheda personaggio#🛡️ Difese|resistere]] o [[06 Scheda personaggio#🛡️ Difese|parare]].
+- **[[#Punti Maestria|Maestria]]**: aggiungi il tuo livello da Duellante ad un tiro di [[06 Scheda personaggio#🛡️ Difese|risolutezza]] o [[06 Scheda personaggio#🛡️ Difese|parare]].
 - **[[#Punti Maestria|Maestria]]**: all’inizio di un incontro, dopo aver visto le iniziative, puoi muoverti di 4m e ripristinare una [[04 Azioni e reazioni#Reazioni|reazione]].
 - **[[#Punti Maestria|Maestria]]**: un tuo attacco andato a segno applica [[11 Condizioni e lesioni#🩸 SANGUINANTE|sanguinamento]].
 ### Livello 3

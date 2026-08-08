@@ -1,6 +1,6 @@
 ---
 Costo: 3
-Difesa: Volontà
+Difesa: Risolutezza
 Durata: 1 turno per livello
 Gittata: 0m
 Rapido: false

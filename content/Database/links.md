@@ -17,6 +17,7 @@
 [[06 Scheda personaggio#Armi e Oggetti|comodi]]
 [[11 Condizioni e lesioni#Condizioni mentali|condizione mentale]]
 [[07 Classi|classe]]
+[[16 Composti e veleni#Composti|composto]]
 [[11 Condizioni e lesioni#☢️ Corroso|corroso]]
 [[05 Abilità#Fare una prova di abilità|DIF]]
 [[06 Scheda personaggio#🛡️ Difese|difese]]

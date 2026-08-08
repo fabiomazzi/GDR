@@ -33,20 +33,17 @@ Se superi questo limite collassano a partire dal primo.
 
 I tuoi non-morti agiscono subito prima o subito dopo il tuo turno seguendo i tuoi comandi. Se non sei in grado di comandarli continuano a seguire l’ultimo comando fino a quando possibile, poi rimangono inerti.
 
-|Tipo|Liv richiesto|PV|Danno|Colpire|Difese|Abilità|Note|
-|---|---|---|---|---|---|---|---|
-|Scheletro|0|||||||
-|(anche critter)|3|1d4 T|1|0|Se è distrutto, all’inizio del suo prossimo turno si riforma. Quel turno non ha Azioni. È resistente ai danni taglienti e perforanti, debole a quelli contundenti.|||
-|Zombie|0|||||||
-|(anche critter)|4|1d4 C|2|Armatura 1|È resistente ai danni contundenti e perforanti, debole a quelli taglienti.|||
-|Zombie infuocato|1|3|/|/|Armatura 1|All’inizio del turno infligge 1d4 +1 per livello danni da fuoco intorno a lui. È resistente ai danni contundenti e perforanti, debole a quelli taglienti.||
-|Zombie ristoratore|1|8|/|/|Armatura 1|Con un Azione può toccare un essere e cedergli PV pari alla tua Volontà. È resistente ai danni contundenti e perforanti, debole a quelli taglienti.|Perde i PV che cede.|
-|Zombie incanalatore|2|3|/|LIV +2|Armatura 1|Puoi usarlo come tramite per i tuoi incantesimi. È resistente ai danni contundenti e perforanti, debole a quelli taglienti.||
-|Scheletro guerriero|3|10|2d4 T|3|0|Se è distrutto, all’inizio del suo prossimo turno si riforma. Quel turno non ha Azioni. È resistente ai danni taglienti e perforanti, debole a quelli contundenti.||
-|Zombie guerriero|3|16|2d4 C|4|Armatura 3|È resistente ai danni contundenti e perforanti, debole a quelli taglienti.||
-|Scheletro incantatore|3|6|/|4|0|Come Azione può lanciare gli incantesimi: Dardo Elementale (fa danno magico)||
-|altri [da fare]||||||||
-|da valutare se usare direttamente le schede dei mob||||||||
+| Tipo                  | Liv richiesto     | PV  | Danno | Colpire | Difesa     | Abilità                                                                                                                                                            | Note                 |
+| --------------------- | :---------------- | --- | ----- | ------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- |
+| Scheletro             | 0 (anche critter) | 3   | 1d4 T | 1       | 0          | Se è distrutto, all'inizio del suo prossimo turno si riforma. Quel turno non ha Azioni. È resistente ai danni taglienti e perforanti, debole a quelli contundenti. |                      |
+| Zombie                | 0 (anche critter) | 4   | 1d4 C | 2       | Armatura 1 | È resistente ai danni contundenti e perforanti, debole a quelli taglienti.                                                                                         |                      |
+| Zombie infuocato      | 1                 | 3   | /     | /       | Armatura 1 | All'inizio del turno infligge 1d4 +1 per livello danni da fuoco intorno a lui. È resistente ai danni contundenti e perforanti, debole a quelli taglienti.          |                      |
+| Zombie ristoratore    | 1                 | 8   | /     | /       | Armatura 1 | Con un'Azione può toccare un essere e cedergli PV pari alla tua Volontà. È resistente ai danni contundenti e perforanti, debole a quelli taglienti.                | Perde i PV che cede. |
+| Zombie incanalatore   | 2                 | 3   | /     | LIV +2  | Armatura 1 | Puoi usarlo come tramite per i tuoi incantesimi. È resistente ai danni contundenti e perforanti, debole a quelli taglienti.                                        |                      |
+| Scheletro guerriero   | 3                 | 10  | 2d4 T | 3       | 0          | Se è distrutto, all'inizio del suo prossimo turno si riforma. Quel turno non ha Azioni. È resistente ai danni taglienti e perforanti, debole a quelli contundenti. |                      |
+| Zombie guerriero      | 3                 | 16  | 2d4 C | 4       | Armatura 3 | È resistente ai danni contundenti e perforanti, debole a quelli taglienti.                                                                                         |                      |
+| Scheletro incantatore | 3                 | 6   | /     | 4       | 0          | Come Azione può lanciare gli incantesimi: Dardo Elementale (fa danno magico).                                                                                      |                      |
+| altri [da fare]       |                   |     |       |         |            | da valutare se usare direttamente le schede dei mob                                                                                                                |                      |
 
 ## CONSUMARE UN NON-MORTO
 Con un Azione puoi togliere l’energia vitale ad uno dei tuoi non-morti per uno dei seguenti effetti:

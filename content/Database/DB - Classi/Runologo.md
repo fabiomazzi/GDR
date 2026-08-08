@@ -50,4 +50,4 @@ Con un Azione puoi consumare un cerchio che abbia almeno quattro rune rimanenti 
 - rivela per un momento la posizione dei nemici invisibili o nascosti
 - per un turno crea una zona di buio totale all’interno del cerchio
 - per un turno crea una zona di silenzio
-- per un turno impedisci ai nemici di uscire dal cerchio, possono uscire con FF se ci provano muovendosi fisicamente, con Volontà se ci provano con metodi magici come il teletrasporto, devono superare un tuo tiro su Conoscenze
+- per un turno impedisci ai nemici di uscire dal cerchio, possono uscire con FF se ci provano muovendosi fisicamente, con Risolutezza se ci provano con metodi magici come il teletrasporto, devono superare un tuo tiro su Conoscenze

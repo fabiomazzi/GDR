@@ -43,7 +43,7 @@ La gittata del tuo Condotto Spirituale diventa 20m.
 
 Aggiungi alle azioni disponibili quando manifesti uno spirito:
 
-- Lo spirito segue il bersaglio aiutandolo o infastidendolo, l’effetto rimane attivo per un ora o puoi congedarlo prima, puoi avere un solo spirito attivo per bersaglio, si può resistere con Volontà, scegli fra:
+- Lo spirito segue il bersaglio aiutandolo o infastidendolo, l’effetto rimane attivo per un ora o puoi congedarlo prima, puoi avere un solo spirito attivo per bersaglio, si può resistere con Risolutezza, scegli fra:
     - +1 oppure -1 a Colpire
     - +1 oppure -1 alle Difese
     - +1 oppure -1 ad un Abilità a tua scelta

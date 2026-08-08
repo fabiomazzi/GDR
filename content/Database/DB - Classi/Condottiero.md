@@ -50,7 +50,7 @@ Scegli fra:
     *se sei a 8 PV su 24 e ricevi 2 PV bonus andrai a 10/26, se scendi a 5/26 e perdi questo bonus andrai a 3/24, se scendi a 0 o meno a causa di questa perdita, svieni*
 ### Ispirare
 Come [[02 Incontri e riposare#Il tuo turno|azione]] puoi spendere 1 Punto Ispirazione per un effetto immediato, i bersagli devono essere sotto l’effetto di un tuo stendardo:
-- un alleato ritira la difesa contro una [[11 Condizioni e lesioni#Condizioni mentali|condizione mentale]] da cui è afflitto, può usare il tuo [[Carisma]] invece che la sua [[Volontà]]
+- un alleato ritira la difesa contro una [[11 Condizioni e lesioni#Condizioni mentali|condizione mentale]] da cui è afflitto, può usare il tuo [[Carisma]] invece che la sua [[06 Scheda personaggio#🛡️ Difese|risolutezza]]
 - un alleato si muove fino a 6m
 - un alleato esegue un [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]]
 - un alleato ripristina una sua [[04 Azioni e reazioni#Reazioni|reazione]]

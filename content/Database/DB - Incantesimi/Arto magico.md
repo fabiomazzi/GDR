@@ -1,6 +1,6 @@
 ---
 Costo: 8
-Difesa: Volontà
+Difesa: Risolutezza
 Durata: 1 giorno per livello
 Gittata: Contatto
 Rapido: false

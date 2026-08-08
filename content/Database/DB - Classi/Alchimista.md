@@ -19,7 +19,7 @@ Descrizione della classe, che farò con calma.
 	- quando crei un composto puoi invece crearne tanti quanti ne tiene il tuo distillatore facendoli riposare solo 2 ore invece che 8, ma devono essere composti che non hai già creato durante questo riposo.
 - Puoi usare [[Conoscenze]] invece che l’abilità richiesta per creare [[16 Composti e veleni#Composti|composti]] e [[16 Composti e veleni#Veleni|veleni]].
 ### Livello 2
-- **Azione**: un numero di volte per riposo pari al tuo livello, crea un [[16 Composti e veleni#Composti|composto]] o un [[16 Composti e veleni#Veleni|veleno]], usalo immediatamente come parte di quest’[[02 Incontri e riposare#Il tuo turno|azione]] o diventa inerte.
+- **Azione**: un numero di volte per riposo pari al tuo livello, crea un [[16 Composti e veleni#Composti|composto]] o un [[16 Composti e veleni#Veleni|veleno]], deve essere usato entro il tuo prossimo turno o diventa inerte.
 ### Livello 3
 - Quando usi il tuo distillatore potenziato hai accesso ai [[16 Composti e veleni#Composti da alchimista|composti da alchimista]].
 ### Livello 4

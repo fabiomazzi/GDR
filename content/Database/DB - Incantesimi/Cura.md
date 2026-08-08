@@ -1,6 +1,6 @@
 ---
 Costo: 1
-Difesa: Volontà
+Difesa: Risolutezza
 Durata: Istantaneo
 Gittata: 10m
 Rapido: false

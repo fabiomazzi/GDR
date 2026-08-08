@@ -50,7 +50,7 @@ Con un'[[02 Incontri e riposare#Il tuo turno|azione]] puoi far eseguire un attac
 - Con un'[[02 Incontri e riposare#Il tuo turno|azione]] puoi far eseguire al tuo Compagno Animale una sua capacità.
 ### Livello 3
 - Il tuo Compagno Animale può fare da tramite per i tuoi incantesimi, vedi [[12 Magia#Tramite|tramite]].
-- Con un'[[02 Incontri e riposare#Il tuo turno|azione]] puoi far eseguire al tuo Compagno Animale un attacco.
+- Con un'[[02 Incontri e riposare#Il tuo turno|azione]] puoi far eseguire al tuo Compagno Animale un attacco o un movimento.
 - I [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] del tuo Compagno Animale diventano 8 per livello.
 ### Livello 4
 - Puoi avere un Compagno Animale di taglia grande o far aumentare il tuo attuale di una taglia.

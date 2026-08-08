@@ -48,9 +48,10 @@
 - **Lontano**: dai 10 ai 50 metri.
 - **Distante**: oltre i 50 metri.
 # tipi di danno
-- T = Tagliente
-- P = Perforante
+- A = Affilato
 - C = Contundente
+- P = Perforante
+- T = Tagliente
 - M = Magico, ignora l’[[06 Scheda personaggio#🦺 Armatura|armatura]]
 - N = Necrotico, ignora l’[[06 Scheda personaggio#🦺 Armatura|armatura]] e la [[06 Scheda personaggio#🧱 Barriera|barriera]]
 - Elementale: freddo, ghiaccio, fuoco, terra, sonico, elettrico, etc.
