@@ -1,8 +1,8 @@
 ---
-Costo: 8
+Costo: 6
 Difesa:
 Durata: 1 giorno per livello
-Gittata:
+Gittata: 10m
 Rapido: false
 Servitore: true
 Armatura inc: false

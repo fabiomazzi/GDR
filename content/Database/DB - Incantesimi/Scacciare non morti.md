@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Spaventa un numero di non morti entro 50m pari al tuo livello per 1 turno per livello. Se sono dei critter invece muoiono.
+Spaventa un numero di non morti entro 20m pari al tuo livello per 1 turno per livello. Se sono dei critter invece muoiono.
