@@ -10,20 +10,22 @@ Descrizione della classe, che farò con calma.
 **Abilità:** [[Magia]], [[Volontà]]
 
 ---
+## 
 ### Livello 1
-- **Reazione**: *<uno dei tuoi non morti minaccia l’attaccante>* quel non-morto lo attacca o usa su di lui una capacità.
-- Servitore non morto è permanente.
-- Esercito di non-morti e Consumare un non-morto.
+- **Reazione**: *<uno dei tuoi non morti minaccia l’attaccante>* quel non-morto usa una capacità o un attacco su di lui.
+- [[Evoca servitore]] diventa permanente se evochi un servitore non-morto.
+- [[#Esercito di non-morti]].
 ### Livello 2
-- I bersagli afflitti dal tuo Scacciare non morti diventano invece sotto il tuo controllo per 1 turno per livello da Necromante, non contano per il limite dell’esercito di morti.
-- Puoi consumare uno dei tuoi non-morti.
+- I bersagli afflitti dal tuo [[Scacciare non morti]] diventano invece sotto il tuo controllo per 1 turno per livello da Necromante, non sono considerati parte del tuo esercito di non-morti.
+- Puoi [[#CONSUMARE UN NON-MORTO|consumare]] uno dei tuoi non-morti.
 ### Livello 3
-- Puoi avere fino a due servitori non morti, il limite per gli altri rimane (se evochi un servitore elementale tutti gli altri servitori spariscono).
+- I tuoi servitori non-morti hanno dei bonus (da fare).
 ### Livello 4
+- Puoi avere fino a due servitori non-morti, il limite per gli altri rimane (se evochi un servitore elementale tutti gli altri servitori spariscono).
 
 ---
-## ESERCITO DI NON MORTI
-Quando una creatura senziente muore entro 10 metri, usando una Reazione puoi reindirizzare la sua forza vitale per creare un non-morto dalla tabella qui sotto, scegli tu il livello, al massimo pari al tuo. La creatura che muore deve essere di un livello almeno pari a quello richiesto dal non-morto.  
+## Esercito di non-morti
+Quando un [[98 FAQ#Essere senziente|essere senziente]] muore entro 10 metri, usando una reazione puoi reindirizzare la sua forza vitale per creare un non-morto dalla tabella qui sotto. L'essere che muore deve essere di un livello almeno pari a quello richiesto dal non-morto.  
 A discrezione del master puoi usare un cadavere nei dintorni che non ha più legami col suo mondo di origine (= non serve al master), oppure crearne uno.
 
 Rimane sotto il tuo controllo fino a quando viene distrutto, lo consumi, superi il limite di creature o decidi di liberarlo. In tutti i casi i resti collassano sul posto diventano polvere.
@@ -44,9 +46,37 @@ I tuoi non-morti agiscono subito prima o subito dopo il tuo turno seguendo i tuo
 | Zombie guerriero      | 3                 | 16  | 2d4 C | 4       | Armatura 3 | È resistente ai danni contundenti e perforanti, debole a quelli taglienti.                                                                                         |                      |
 | Scheletro incantatore | 3                 | 6   | /     | 4       | 0          | Come Azione può lanciare gli incantesimi: Dardo Elementale (fa danno magico).                                                                                      |                      |
 | altri [da fare]       |                   |     |       |         |            | da valutare se usare direttamente le schede dei mob                                                                                                                |                      |
+```base
+properties:
+  file.name:
+    displayName: Nome
+views:
+  - type: table
+    name: Non-morti
+    filters:
+      and:
+        - Tipo == "non-morto esercito"
+    order:
+      - file.name
+      - Liv richiesto
+      - PV
+      - Danno
+      - Colpire
+      - Difesa
+      - Abilità
+      - Note
+    sort:
+      - property: Liv richiesto
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.Abilità: 699
 
-## CONSUMARE UN NON-MORTO
-Con un Azione puoi togliere l’energia vitale ad uno dei tuoi non-morti per uno dei seguenti effetti:
+```
+
+### Consumare un non-morto
+Con un Azione puoi togliere l’energia vitale di unnon-morti nel tuo esercito per uno dei seguenti effetti:
 - cura un bersaglio entro 10m del non-morto di PV pari a quelli rimanenti al non-morto
 - fai esplodere il non-morto, fa danni pari ai suoi PV rimanenti suddivisi come vuoi ai bersagli adiacenti a lui
 - riciclare la sua energia vitale per creare un non-morto che richiede un livello inferiore del suo (puoi consumare uno scheletro incantatore per creare un non-morto che richiede livello 2 o inferiore)
