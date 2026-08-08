@@ -1,6 +1,6 @@
 ---
 Costo: 3
-Difesa: Schivare
+Difesa: Bloccare, Schivare
 Durata: Istantaneo
 Gittata: 0m
 Rapido: false

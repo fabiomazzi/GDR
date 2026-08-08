@@ -54,6 +54,6 @@
 - T = Tagliente
 - M = Magico, ignora l’[[06 Scheda personaggio#🦺 Armatura|armatura]]
 - N = Necrotico, ignora l’[[06 Scheda personaggio#🦺 Armatura|armatura]] e la [[06 Scheda personaggio#🧱 Barriera|barriera]]
-- Elementale: freddo, ghiaccio, fuoco, terra, sonico, elettrico, etc.
+- Elementale: acido, elettrico, freddo, ghiaccio, fuoco, terra, sonico
 
 La resistenza ad un tipo di danno dimezza i danni di quel tipo.

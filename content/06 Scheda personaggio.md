@@ -62,3 +62,13 @@ Puoi momentaneamente tenere due oggetti con una mano, se per esempio stai combat
 È la distanza di cui ti puoi muovere quando usi un [[04 Azioni e reazioni#🏃‍♂️ Movimento|movimento]].
 La velocità base di un personaggio è di 10m.
 Per i dettagli vedi [[02 Incontri e riposare#Movimento|movimento]].
+### Linguaggi
+Le lingue che sai parlare, leggere e scrivere.
+
+**Animale**: sai capire e trasmettere intenzioni e stato d'animo agli animali, non puoi però avere una conversazione con loro
+**Comune**: compreso da chiunque
+**Draconico**: draghi e loro servi
+**Elfico**: elfi
+**Nanico**: nani
+**Selvaggio**: orchi, goblin, troll e altre creature selvagge
+**Silvano**: fate, folletti, ninfe e altre creature del mondo naturale

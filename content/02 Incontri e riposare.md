@@ -53,7 +53,7 @@ I movimenti complessi sono:
 
 Un movimento può essere spezzato come vuoi all’interno del turno: puoi muoverti di 2m, attaccare, poi fare altri di 6m.
 Puoi attraversare liberamente uno spazio occupato da un tuo alleato.
-Per attraversare uno spazio occupato da un nemico devi superare una prova contrapposta di [[Destrezza]], se fallisci ti fermi e perdi il movimento rimanente.
+Per attraversare uno spazio occupato da un nemico devi superare una prova contrapposta di [[Destrezza]], se fallisci ti fermi prima e perdi il movimento rimanente.
 Se un nemico è [[11 Condizioni e lesioni#🧎 ATTERRATO|Atterrato]] o ha condizioni che non gli permettono di agire ([[11 Condizioni e lesioni#🗿 PIETRIFICATO|pietrificato]], [[11 Condizioni e lesioni#🪢 IMMOBILIZZATO|immobilizzato]] e simili), puoi superarlo liberamente.
 Non puoi fermarti in uno spazio occupato da un nemico.
 Più alleati (a discrezione del master) possono occupare uno spazio, ma non possono agire se lo fanno.

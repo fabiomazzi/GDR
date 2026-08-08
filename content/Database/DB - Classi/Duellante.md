@@ -23,7 +23,7 @@ Descrizione della classe, che farò con calma.
 - **[[#Punti Maestria|Maestria]]**: all’inizio di un incontro, dopo aver visto le iniziative, puoi muoverti di 4m e ripristinare una [[04 Azioni e reazioni#Reazioni|reazione]].
 - **[[#Punti Maestria|Maestria]]**: un tuo attacco andato a segno applica [[11 Condizioni e lesioni#🩸 SANGUINANTE|sanguinamento]].
 ### Livello 3
-- **[[#Punti Maestria|Maestria]]**: se [[03 Combattimento#Risolvere un'azione|pari]] un attacco che fa dimezzare il danno parando, non subisci danno in caso di successo e subisci metà danno in caso di fallimento.
+- **[[#Punti Maestria|Maestria]]**: se [[03 Combattimento#Risolvere un'azione|pari]] un attacco che fa dimezzare il danno parando, non subisci danno in caso di successo e subisci metà danno in caso di fallimento. *al momento inutile*
 - **[[#Punti Maestria|Maestria]]**: aggiungi [[06 Scheda personaggio#🎯 Colpire|colpire]] ai danni di un [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]].
 - **[[#Punti Maestria|Maestria]]**: puoi [[06 Scheda personaggio#🛡️ Difese|parare]] un attacco dalla distanza.
 ### Livello 4

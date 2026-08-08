@@ -1,6 +1,6 @@
 ---
 Tipo: Abilità
-Classi: Duellante, Lottatore, Maestro d'armi, Monaco, Ombra, Sicario, Tuttofare, Tiratore
+Classi: Acrobata, Assassino, Duellante, Lottatore, Maestro d'armi, Monaco, Tuttofare, Tiratore
 Provenienze: Zona costiera
 Razze: Elfo, Felari, Insettoide
 ---
@@ -13,6 +13,6 @@ Razze: Elfo, Felari, Insettoide
 - Eseguire un routine per intrattenere un pubblico → [[05 Abilità#Fare una prova di abilità|DIF]] 12
 - Camminare in equilibrio su una fune sottile appesa fra due palazzi → [[05 Abilità#Fare una prova di abilità|DIF]] 15
 
-**Classi:** [[Sicario]], [[Duellante]], [[Lottatore]], [Maestro d'armi], [[Monaco]], [[Ombra]], [[Tuttofare]], [[Tiratore]]
+**Classi:** [[Assassino]], [[Duellante]], [[Lottatore]], [Maestro d'armi], [[Monaco]], [[Acrobata]], [[Tuttofare]], [[Tiratore]]
 **Provenienze:** [[Zona costiera]]  
 **Razze:** [[Elfo]], [[Felari (gatti)|Felari]], [[Insettoide]]

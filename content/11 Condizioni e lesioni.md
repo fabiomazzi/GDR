@@ -1,6 +1,6 @@
 # Condizioni fisiche
 ### 🙈 Accecato
-Se vuoi capire la posizione esatta di un bersaglio non a contatto devi superare una prova di [[Percezione]] con [[05 Abilità#Fare una prova di abilità|DIF]] pari a 3 ogni 2m di distanza.  
+Se vuoi capire la posizione esatta di un bersaglio devi superare una prova di [[Percezione]] con [[05 Abilità#Fare una prova di abilità|DIF]] pari a 3 ogni 2m di distanza.  
 -5 a [[06 Scheda personaggio|colpire]], a [[02 Incontri e riposare|iniziativa]] e ai tiri per difenderti.  
 Non puoi usare [[04 Azioni e reazioni#Reazioni|reazioni]].  
 Fallisci automaticamente le prove basate sulla vista.
