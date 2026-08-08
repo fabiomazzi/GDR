@@ -3,83 +3,96 @@ Tipo: classe
 PV: "8"
 Abilità: Forma Fisica, Volontà
 ---
-Descrizione della classe.
+Descrizione della classe, che farò con calma.
+> Descrizione meta temporanea: gli elementi gli scorrono dentro, non li usa tramite la magia. Usa Forma Fisica e Volontà perché deve essere abbastanza forte mentalmente per dire "ora mi faccio del male liberando gli elementi che mi scorrono dentro" e abbastanza resistente fisicamente per sopportare quel dolore.
 
 **PV:** 8  
 **Abilità:** [[Forma Fisica]], [[Volontà]]
 
 ---
+## Forse bisogna dargli un modo per recuperare cariche elementali e bloccargli il mana a 0, oppure trasformare il mana in cariche, oppure aggiungere magia alle cariche e non dare mana
 ### Livello 1
-- **Reazione**: *<sei entro 10m dall’attaccante>* lancia l’incantesimo Dardo Elementale su di lui.
-- **Reazione**: *\<sei un difensore>* lancia un incantesimo “armatura”.
+- Scegli una reazione fra:
+	- **Reazione**: *<sei entro 10m dall’attaccante>* lancia l’incantesimo Dardo Elementale su di lui.
+	- **Reazione**: *\<sei un difensore>* lancia un incantesimo “armatura”.
 - [[#Padroneggiare gli elementi]].
 ### Livello 2
 - Padroneggia un secondo elemento.
 ### Livello 3
 - Padroneggia un terzo elemento.
 ### Livello 4
-- Quando attivi un potenziamento elementale o usi una scarica elementale puoi attivare due elementi contemporaneamente.
+- Quando usi un Movimento Elementale, Potenziamento Elementale o Scarica Elementale puoi attivare due elementi contemporaneamente.
 
 ---
 ## Padroneggiare gli elementi
-Scegli un elemento da padroneggiare.
-
-Guadagni il talento [[Soffio]], devi scegliere il tuo elemento.
-
-Gli incantesimi Dardo Elementale e Shock Elementale costano 0 mana se lanciati scegliendo il tuo elemento.
-
-Hai Cariche Elementali pari alla somma della tua Volontà e FF, le recuperi riposando. Puoi usarle per:
-- attivare un potenziamento elementale all’inizio del tuo turno, non consuma un azione
-- usare una scarica elementale, tranne dove indicato consuma un Azione
-
-Se le tue abilità richiedono dei tiri per colpire o una difesa, usa Volontà o FF.
-
-Tranne dove specificato sei immune agli effetti negativi delle tue abilità da Elementalista.
+- Scegli un elemento da padroneggiare.
+- Guadagni il talento [[Soffio]], devi scegliere il tuo elemento.
+- Gli incantesimi Dardo Elementale e Shock Elementale costano 0 mana se lanciati scegliendo il tuo elemento, usa la più bassa fra [[Forma Fisica]] e [[Volontà]] invece che [[Magia]] per i tiri.
+- Hai Cariche Elementali pari alla somma della tua [[Forma Fisica]] e [[Volontà]], le recuperi riposando. Se un'abilità richiede un tiro per difendersi usa la più bassa fra [[Forma Fisica]] e [[Volontà]].
+- Puoi usare queste cariche per:
+	- potenziare un movimento con Movimento Elementale, non è un'azione
+	- attivare un Potenziamento Elementale all'inizio del tuo turno, non è un'azione
+	- usare una Scarica Elementale, tranne dove indicato è un'azione
 ### ☢️ Acido
-- Resistenza elementale: hai resistenza ai danni da acido; non puoi essere Corroso
-- Movimento elementale: un numero di volte per riposo pari al tuo livello da Elementalista, quando compi un movimento mentre sei a contatto col terreno, puoi rendere nocivo il terreno nei quadretti che lasci, chiunque entra in contatto con quel terreno subisce 1d4 danni da Acido per ogni passo e viene Corroso, può evitare questo effetto con un tiro di Destrezza
-- Quando Corrodi applica una lesione lieve e crea una pozza di acido sotto al bersaglio che Corrode chi ci entra a contatto
-- Potenziamento elementale: per un turno i tuoi danni da Acido Corrodono i bersagli, quando vieni colpito da un attacco fisico puoi fare 1d4 per livello da Elementalista danni da acido ai nemici adiacenti, ci si difende Schivando
-- Scarica elementale: fai ribollire l’acido entro 10m, chi è adiacente ad una zona di acido creata da te o è stato Corroso da te, subisce 1d4 danni per livello, ci si difende con Schivare
+Guadagni le seguenti capacità:
+- **Resistenza Elementale**: hai [[03 Combattimento#tipi di danno|resistenza]] ai danni da acido e non puoi essere [[11 Condizioni e lesioni#☢️ Corroso|corroso]]
+- **Sinergia Elementale**: crea una pozza di acido sotto ai bersagli che [[11 Condizioni e lesioni#☢️ Corroso|corrodi]], chi entra in quello spazio viene [[11 Condizioni e lesioni#☢️ Corroso|corroso]] se fallisce un tiro di [[06 Scheda personaggio#🛡️ Difese|schivare]]
 
+Con una Carica Elementale puoi usare:
+- **Movimento Elementale**: se sei a contatto con il terreno puoi rendere nocivi gli spazi che lasci, chiunque ci entra a contatto subisce 1d4 danni da Acido ogni volta che entra in un esagono/quadrato, in più viene [[11 Condizioni e lesioni#☢️ Corroso|corroso]] se fallisce un tiro di [[06 Scheda personaggio#🛡️ Difese|schivare]]
+- **Potenziamento Elementale**: per un turno i tuoi danni da Acido [[11 Condizioni e lesioni#☢️ Corroso|corrodono]] i bersagli, quando subisci danno [[03 Combattimento#tipi di danno|tagliente]] o [[03 Combattimento#tipi di danno|perforante]] puoi fare 1d4 danni da acido per livello da Elementalista ai nemici adiacenti, ci si difende [[06 Scheda personaggio#🛡️ Difese|schivando]] o [[06 Scheda personaggio#🛡️ Difese|bloccando]]
+- **Scarica Elementale**: fai ribollire l’acido entro 10m, chi occupa o è adiacente a una zona di acido creata da te, subisce 1d4 danni per livello se fallisce un tiro di [[06 Scheda personaggio#🛡️ Difese|schivare]] o [[06 Scheda personaggio#Difese|bloccare]]
 ### 🌊 Acqua
-- Resistenza elementale: le tue cure danno Rigenerazione pari al tuo livello da Elementalista per due turni
-- Movimento elementale: nuotare non è considerato un movimento complesso e puoi respirare sott’acqua
-- I bersagli delle tue cure possono ritirare le difese contro una condizione da cui sono afflitti o per abbassare di un grado una lesione come se avessero riposato
-- Potenziamento elementale: per un turno chi inizia e chi finisce il proprio turno adiacente a te viene curato di PV pari al tuo livello da Elementalista
-- Scarica elementale: cura 1d4 PV per livello da Elementalista un bersaglio entro 10m, poi cura un numero di bersagli aggiuntivi pari al tuo livello da Elementalista, i bersagli aggiuntivi devono essere entro 10m da un bersaglio curato e vengono curati di metà
+Guadagni le seguenti capacità:
+- **Resistenza Elementale**: le tue cure danno [[06 Scheda personaggio#🩷 Punti Vita (PV)|rigenerazione]] pari al tuo livello da Elementalista per due turni
+- **Sinergia Elementale**: i bersagli delle tue cure possono ritirare le [[06 Scheda personaggio#🛡️ Difese|difese]] contro una [[11 Condizioni e lesioni|condizione]] da cui sono afflitti o per abbassare di un grado una [[11 Condizioni e lesioni#Lesioni|lesione]] come se avessero [[02 Incontri e riposare#Riposare|riposare]]
 
+Con una Carica Elementale puoi usare:
+- **Movimento Elementale**: per un'ora nuotare non è considerato un [[02 Incontri e riposare#Movimento|movimento complesso]] e puoi respirare sott’acqua
+- **Potenziamento Elementale**: per un turno chi inizia e chi finisce il proprio turno adiacente a te viene curato di [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] pari al tuo livello da Elementalista
+- **Scarica Elementale**: cura 1d4 [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] per livello da Elementalista un bersaglio entro 10m, poi cura della metà un numero di bersagli aggiuntivi pari al tuo livello da Elementalista, devono essere entro 6m da un altro bersaglio che hai curato
 ### 💨 Aria
-- Resistenza elementale: hai +2 contro gli attacchi fisici dalla distanza (anche trappole e simili); non puoi essere assordato
-- Movimento elementale: un numero di movimenti per riposo pari al tuo livello da Elementalista, puoi muoverti in qualunque direzione senza toccare il terreno, questo ti permette anche di non subire danni da una caduta (devi essere cosciente e vedere il terreno su cui stai atterrando)
-- Dopo che hai lanciato un incantesimo con l’elemento Aria o fai danni sonici, puoi spostarti di 4m in qualunque direzione
-- Potenziamento elementale: quando qualcuno ti arriva a contatto per la prima volta, respingilo di 4m a meno che non superi un tiro su FF
-- Scarica elementale: crea un’esplosione entro 10m, tutti i bersagli entro 4m di raggio dall’esplosione subiscono 1d4 danni sonici, vengono respinti di 6m nella direzione opposta e sono assordati, ci si difende con FF
+Guadagni le seguenti capacità:
+- **Resistenza Elementale**: hai +2 per [[06 Scheda personaggio#🛡️ Difese|schivare]] gli attacchi dalla distanza e non puoi essere [[11 Condizioni e lesioni#🙉 Assordato|assordato]]
+- **Sinergia Elementale**: dopo che hai lanciato un [[13 Incantesimi|incantesimo]] di aria o che fa danni sonici, puoi spostarti di 4m in qualunque direzione
 
+Con una Carica Elementale puoi usare:
+- **Movimento Elementale**: puoi muoverti in qualunque direzione senza toccare il terreno, devi essere a contatto con il terreno per poterlo attivare
+- **Potenziamento Elementale**: quando qualcuno ti arriva a contatto per la prima volta, respingilo di 4m e [[11 Condizioni e lesioni#🧎 Atterrato|atterralo]] a meno che non superi un tiro su [[Forma Fisica]]
+- **Scarica Elementale**: crea un’esplosione entro 10m, tutti i bersagli entro 4m dall’esplosione subiscono 1d4 danni sonici, vengono respinti di 6m nella direzione opposta e sono [[11 Condizioni e lesioni#🙉 Assordato|assordati]] per un turno, ci si difende con [[Forma Fisica]]
 ### 🌩️ Fulmine
-- Resistenza elementale: hai resistenza ai danni elettrici; non puoi essere Silenziato (zone di silenzio ed effetti simili funzionano)
-- Movimento elementale: un numero di movimenti per riposo pari al tuo livello da Elementalista, un tuo movimento è così veloce che non da il tempo ai nemici di reagire, puoi attraversare uno spazio occupato e fare 1d4 danni a chi lo occupa, non causa Reazioni e non tocchi il terreno mentre ti muovi
-- Quando fai danno Elettrico puoi subire danni necrotici pari al tuo livello da Elementalista per aggiungerne il doppio al tuo danno, scegli se farlo per ogni singolo bersaglio
-- Potenziamento elementale: per un turno i tuoi danni Elettrici Negano una Reazione
-- Scarica elementale: evoca un fulmine entro 10m che fa 1d6 danni elettrici per livello da Elementalista, il fulmine poi colpisce un numero di bersagli aggiuntivi pari al tuo livello da Elementalista, i bersagli aggiuntivi devono essere entro 10m da un altro bersaglio colpito e subiscono metà del danno, i fulmini si possono Schivare
+Guadagni le seguenti capacità:
+- **Resistenza Elementale**: hai [[03 Combattimento#tipi di danno|resistenza]] ai danni elettrici e non puoi essere [[11 Condizioni e lesioni#🙊 Silenziato|silenziato]] (zone di silenzio ed effetti simili funzionano)
+- **Sinergia Elementale**: quando fai danno Elettrico puoi subire danni [[03 Combattimento#tipi di danno|necrotici]] pari al tuo livello da Elementalista per aggiungerne il doppio al tuo danno, scegli se farlo per ogni singolo bersaglio
 
+Con una Carica Elementale puoi usare:
+- **Movimento Elementale**: il tuo movimento è così veloce da non lasciare tempo ai nemici di reagire, puoi attraversare gli spazi occupati facendo 1d4 danni per livello da Elementalista a chi li occupa, non tocchi il terreno mentre ti muovi
+- **Potenziamento Elementale**: per un turno i tuoi danni Elettrici rendono [[11 Condizioni e lesioni#😵‍💫 Frastornato|frastornato]] per un turno e fanno 1d4 danni extra
+- **Scarica Elementale**: lancia una scarica elettrica che fa 1d6 danni elettrici per livello da Elementalista a un bersaglio entro 10m, poi colpisce per metà danno un numero di bersagli aggiuntivi pari al tuo livello da Elementalista, devono essere entro 10m da un altro bersaglio colpito, ci si difende con [[06 Scheda personaggio#🛡️ Difese|schivare]]
 ### 🔥 Fuoco
-- Resistenza elementale: hai resistenza ai danni da fuoco; non puoi essere Ustionato
-- Movimento elementale: un numero di volte per riposo pari al tuo livello da Elementalista, con un Azione puoi saltare a 10m di distanza e creare due esplosioni che fanno 1d4 danni da fuoco per livello da Elementalista ai nemici adiacenti, una dove salti e una dove atterri, si possono Schivare
-- Quando Ustioni applica una lesione lieve
-- Potenziamento elementale: per un turno i tuoi danni da Fuoco Ustionano i bersagli e chi inizia e chi finisce il proprio turno adiacente a te subisce 1d4 danni da fuoco per livello da Elementalista
-- Scarica elementale: lancia l’incantesimo Palla di Fuoco
+Guadagni le seguenti capacità:
+- **Resistenza Elementale**: hai [[03 Combattimento#tipi di danno|resistenza]] ai danni da fuoco e non puoi essere [[11 Condizioni e lesioni#🔥 Ustionato|ustionato]]
+- **Sinergia Elementale**: quando [[11 Condizioni e lesioni#🔥 Ustionato|ustioni]] applica una lesione lieve
 
+Con una Carica Elementale puoi usare:
+- **Movimento Elementale**: puoi saltare a 10m di distanza e creare due esplosioni che fanno 1d4 danni da fuoco per livello da Elementalista ai nemici adiacenti, una dove salti e una dove atterri, si possono [[06 Scheda personaggio#🛡️ Difese|schivare]] o [[06 Scheda personaggio#Difese|bloccare]]
+- **Potenziamento Elementale**: per un turno i tuoi danni da fuoco [[11 Condizioni e lesioni#🔥 Ustionato|ustionano]] i bersagli e chi inizia e chi finisce il proprio turno adiacente a te subisce 1d4 danni da fuoco per livello da Elementalista
+- **Scarica Elementale**: lancia l’incantesimo [[Palla di Fuoco]]
 ### ❄️ Ghiaccio
-- Resistenza elementale: hai resistenza ai danni da freddo; non puoi essere Congelato
-- Movimento elementale: se sei a contatto con del ghiaccio, i movimenti complessi sono considerati normali e un numero di movimenti per riposo pari al tuo livello da Elementalista puoi camminare creando una lastra di ghiaccio sotto i tuoi piedi senza essere influenzato dal terreno
-- Quando lanci un incantesimo con l’elemento Ghiaccio o fai danni da freddo, hai +2 a Schivare per un turno
-- Potenziamento elementale: per un turno i tuoi danni da freddo Congelano i bersagli, se sono già Congelati fai 1d4 danni da freddo bonus per livello da Elementalista
-- Scarica elementale: crea un muro di ghiaccio alto 3m e lungo 4m per livello da Elementalista, puoi modellare il lato lungo come preferisci, per creare un apertura bisogna infliggergli danni pari a 8 per tuo livello da Elementalista (la metà se sono di fuoco), dopo 1 ora si scoglie, non ci si vede attraverso
+Guadagni le seguenti capacità:
+- **Resistenza Elementale**: hai [[03 Combattimento#tipi di danno|resistenza]] ai danni da freddo e non puoi essere [[11 Condizioni e lesioni#❄️ Congelato|congelato]]
+- **Sinergia Elementale**: quando lanci un [[13 Incantesimi|incantesimo]] con l’elemento Ghiaccio o che fa danni da freddo, hai +2 a [[06 Scheda personaggio#🛡️ Difese|schivare]] per un turno
 
-### 🪨 Terra
-- Resistenza elementale: hai un bonus di Armatura pari al tuo livello da Elementalista; non puoi essere Atterrato
-- Movimento elementale: se sei a contatto con del terreno naturale, i movimenti complessi sono considerati normali e hai +4 ad arrampicarti
-- Quando sei a contatto con un terreno naturale puoi sollevare rocce e detriti dal terreno per Bloccare, hai un bonus di +1 a Bloccare
-- Potenziamento elementale: intrappola tutti i bersagli entro 10m che falliscono un tiro su FF, ogni turno possono provare a liberarsi, se falliscono subiscono 1 danno per tuo livello da Elementalista
-- Scarica elementale: quando cammini puoi far tremare il terreno intorno a te, quando entri in un quadretto e sei a contatto col terreno tutti i nemici adiacenti devono difendersi con Destrezza o subire 1d4 danni da Terra per livello da Elementalista, ogni nemico viene influenzato una sola volta
+Con una Carica Elementale puoi usare:
+- **Movimento Elementale**: per 1 ora puoi camminare creando delle lastre di ghiaccio sotto i tuoi passi senza essere influenzato dal terreno e i movimenti che sarebbero [[02 Incontri e riposare#Movimento|complessi]] a causa di superfici ghiacciate, sono invece movimenti normali
+- **Potenziamento Elementale**: per un turno i tuoi danni da freddo [[11 Condizioni e lesioni#❄️ Congelato|congelano]] i bersagli
+- **Scarica Elementale**: crea un muro di ghiaccio lungo 4m per livello da Elementalista, è alto 3m e spesso 2m, puoi modellare il lato lungo come preferisci, per creare un apertura bisogna infliggergli danni pari a 12 per tuo livello da Elementalista (la metà se sono di fuoco), dopo 1 ora si scoglie, non ci si vede attraverso
+### 🪨 Terra 
+Guadagni le seguenti capacità:
+- **Resistenza Elementale**: hai un bonus di [[06 Scheda personaggio#🦺 Armatura|armatura]] pari al tuo livello da Elementalista e non puoi essere [[11 Condizioni e lesioni#🧎 Atterrato|atterrato]]
+- **Sinergia Elementale**: hai rocce e detriti che ti gravitano attorno, hai un bonus di [[06 Scheda personaggio#Difese|bloccare]] pari al tuo livello da Elementalista, non devi usare una reazione per [[06 Scheda personaggio#Difese|bloccare]]
+
+Con una Carica Elementale puoi usare:
+- **Movimento Elementale**: quando entri in un esagono/quadrato e sei a contatto col terreno, tutti i nemici adiacenti devono superare un tiro di [[Destrezza]] o essere [[11 Condizioni e lesioni#🧎 Atterrato|atterrati]]
+- **Potenziamento Elementale**: intrappola tutti i bersagli entro 10m che falliscono un tiro su [[Forma Fisica]], se sono atterrati falliscono in automatico, ogni turno possono provare a liberarsi
+- **Scarica Elementale**: fai 1d6 danni per livello da Elementalista a tutti i nemici entro 10m intrappolati da te

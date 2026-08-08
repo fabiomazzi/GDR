@@ -2,10 +2,10 @@
 Costo: 3
 Difesa: Volontà
 Durata: 1 turno per livello
-Gittata: 50m
+Gittata: 0m
 Rapido: false
 Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Spaventa un numero di non morti pari al tuo livello per 1 turno per livello. Se sono dei critter invece muoiono.
+Spaventa un numero di non morti entro 50m pari al tuo livello per 1 turno per livello. Se sono dei critter invece muoiono.

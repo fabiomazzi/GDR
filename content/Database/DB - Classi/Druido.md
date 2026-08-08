@@ -3,13 +3,14 @@ Tipo: classe
 PV: "6"
 Abilità: Sopravvivenza, Volontà
 ---
-Descrizione della classe.
+Descrizione della classe, che farò con calma.
+> Descrizione meta temporanea: scegli se avere un compagno animale o trasformarsi, nelle zone naturali ha parecchi bonus, abbastanza classico.
 
 **PV:** 6  
 **Abilità:** [[Sopravvivenza]], [[Volontà]]
 
 ---
-## SICURAMENTE è DA SISTEMARE UNA VOLTA CHE HO FATTO GLI ANIMALI
+## Prima di giocarlo per bene è da finire il bestiario
 ### Livello 1
 - **Reazione, se hai scelto Compagno Animale**: *<sei entro 10m dal tuo compagno animale>* il tuo Compagno Animale esegue gratuitamente la sua Reazione, le condizioni devono essere rispettate.
 (Se non ha una reazione può fare un attacco rapido ad un attaccante che minaccia)
@@ -76,7 +77,7 @@ Sei limitato a ciò che può fisicamente fare quell’animale (non puoi impugnar
 
 Non puoi indossare equipaggiamento, il tuo attuale si fonde nella nuova forma e non ha effetto.
 
-Non puoi lanciare [[13 Incantesimi]] mentre sei in Forma Naturale.
+Non puoi lanciare [[13 Incantesimi|incantesimi]] mentre sei in Forma Naturale.
 
 Quando ti trasformi non perdi i danni che hai accumulato.
 *es: hai 22 PV su 28 totali, se ti trasformi in un animale che ha 40 PV totali, ti rimarranno addosso 6 danni e avrai 34 PV.

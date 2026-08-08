@@ -3,7 +3,8 @@ Tipo: classe
 PV: "6"
 Abilità: Destrezza, Percezione
 ---
-Descrizione della classe.
+Descrizione della classe, che farò con calma.
+> Descrizione meta temporanea: attacca e fa parecchio danno con armi dalla distanza e da lancio. Sa usare le loro capacità speciali e le armi da lancio che ha comode fanno attacchi secondari.
 
 **PV:** 6  
 **Abilità:** [[Destrezza]], [[Percezione]]
@@ -16,7 +17,7 @@ Descrizione della classe.
 - Hai uno slot [[06 Scheda personaggio#🧰 Armi e Oggetti|arma comoda]] aggiuntivo (massimo 4), usalo solo per armi da lancio.
 ### Livello 2
 - Se attacchi con un’[[14 Armi#(D) dalla distanza|arma dalla distanza]] un nemico adiacente non hai malus e puoi aggiungere normalmente [[06 Scheda personaggio#🎯 Colpire|colpire]] al danno.
-- Abbassa di 2 il risultato necessario col dado per [[03 Combattimento#Risolvere un'azione|applicare una lesione]], quando applicheresti una lesione in questo modo, scegli la zona.
+- Quando usi un'arma dalla distanza abbassa di 2 il risultato necessario col dado per [[03 Combattimento#Risolvere un'azione|applicare una lesione]], quando applicheresti una lesione in questo modo, scegli la zona.
 ### Livello 3
 - Considera le tue armi comode da lancio come armi secondarie.
 - Hai uno slot [[06 Scheda personaggio#🧰 Armi e Oggetti|arma comoda]] aggiuntivo (massimo 4), usalo solo per armi da lancio.

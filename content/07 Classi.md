@@ -13,5 +13,7 @@ views:
       - PV
       - Abilità
     sort: []
-    columnSize: {}
+    columnSize:
+      file.name: 135
+
 ```

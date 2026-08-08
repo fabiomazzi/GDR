@@ -3,7 +3,8 @@ Tipo: classe
 PV: "6"
 Abilità: Destrezza, Volontà
 ---
-Descrizione della classe.
+Descrizione della classe, che farò con calma.
+> Descrizione meta temporanea: ha tanti attacchi, Volontà potenzia il danno, le difese e fa applicare condizioni. Sopravvive principalmente schivando e grazie ad un paio di abilità difensive che danno armatura e resistenza ai danni.
 
 **PV:** 6  
 **Abilità:** [[Destrezza]], [[Volontà]]

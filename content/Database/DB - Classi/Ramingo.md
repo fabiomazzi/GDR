@@ -3,7 +3,8 @@ Tipo: classe
 PV: "8"
 Abilità: Conoscenze, Sopravvivenza
 ---
-Descrizione della classe.
+Descrizione della classe, che farò con calma.
+> Descrizione meta temporanea: basato sull'adattamento e il viaggiare. Parla tante lingue, è considerato avere più provenienze, può cambiare lo stile di combattimento in base alla zona. In più da alcuni di questi bonus al party guidandolo.
 
 **PV:** 8  
 **Abilità:** [[Conoscenze]], [[Sopravvivenza]]

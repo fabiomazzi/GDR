@@ -4,7 +4,8 @@ PV: "10"
 Abilità: Forma Fisica, Percezione
 Descrizione: Descrizione della classe.
 ---
-Descrizione della classe.
+Descrizione della classe, che farò con calma.
+> Descrizione meta temporanea: 100% difensiva basato sul bloccare, blocca gli attacchi diretti agli alleati, migliora armature e scudi.
 
 **PV:** 10  
 **Abilità:** [[Forma Fisica]], [[Percezione]]

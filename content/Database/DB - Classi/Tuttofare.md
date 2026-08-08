@@ -3,7 +3,8 @@ Tipo: classe
 PV: "6"
 Abilità: Destrezza, Perspicacia
 ---
-Descrizione della classe.
+Descrizione della classe, che farò con calma.
+> Descrizione meta temporanea: skill monkey. Sa fare tutto e discretamente copiando le altre classi. In combat punta ad usare delle trappole portatili.
 
 **PV:** 6  
 **Abilità:** [[Destrezza]], [[Perspicacia]]

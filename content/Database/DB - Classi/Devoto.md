@@ -3,7 +3,8 @@ Tipo: classe
 PV: "4"
 Abilità: Magia, Volontà
 ---
-Descrizione della classe.
+Descrizione della classe, che farò con calma.
+> Descrizione meta temporanea: basato su incanalare, gli permette di curare e supportare o di fare danno e applicare debuff. Può recuperare il mana una volta al giorno quindi buon caster. In casi estremi picchia grazie all'arma sacra, ma i 4 pv e il fare fatica ad indossare armature non aiutano.
 
 **PV:** 4  
 **Abilità:** [[Magia]], [[Volontà]]

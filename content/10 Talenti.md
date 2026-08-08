@@ -12,3 +12,4 @@ views:
       - property: file.name
         direction: ASC
 ```
+Non puoi guadagnare più volte lo stesso talento, tranne dove indicato.

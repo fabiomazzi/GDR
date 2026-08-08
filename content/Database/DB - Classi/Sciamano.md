@@ -3,7 +3,8 @@ Tipo: classe
 PV: "6"
 Abilità: Carisma, Volontà
 ---
-Descrizione della classe.
+Descrizione della classe, che farò con calma.
+> Descrizione meta temporanea: può far comparire degli spiriti che danneggiano, curano, buffano, debuffano amici e nemici. Gli fanno recuperare mana quando fanno qualcosa.
 
 **PV:** 6  
 **Abilità:** [[Carisma]], [[Volontà]]

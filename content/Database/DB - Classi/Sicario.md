@@ -3,7 +3,8 @@ Tipo: classe
 PV: "6"
 Abilità: Destrezza, Furtività
 ---
-Descrizione della classe.
+Descrizione della classe, che farò con calma.
+> Descrizione meta temporanea: basato sullo sfruttare il talento Colpo Furtivo e i veleni, quindi deve attaccare da nascosto riposizionandosi e nascondendosi di continuo.
 
 **PV:** 6  
 **Abilità:** [[Destrezza]], [[Furtività]]

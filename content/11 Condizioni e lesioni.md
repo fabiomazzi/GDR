@@ -18,6 +18,7 @@ Devi vedere chi ti sta parlando ed entrambi dovete essere concentrati per dialog
 ### 🧎 Atterrato
 Quando diventi atterrato causi [[04 Azioni e reazioni#Reazioni|reazioni]].  
 Hai -2 ai tiri per difenderti e a [[06 Scheda personaggio|colpire]].  
+Rialzarti da terra costa 4m di movimento.
 Se vieni atterrato durante un tuo movimento, quel movimento si interrompe e viene perso.
 ### ☠️ Avvelenato
 Sei afflitto da un [[16 Composti e veleni#Veleni|veleno]]. Vedi [[16 Composti e veleni#Veleni|veleni]]
@@ -27,7 +28,7 @@ Hai -2 a colpire.
 Non puoi usare [[04 Azioni e reazioni#Reazioni|reazioni]].  
 Perdi la condizione se subisci almeno 5 danni da fuoco o vieni esposto ad una fonte di calore per 5 minuti.
 ### ☢️ Corroso
-All'inizio del tuo turno subisci 1d4 danni da acido e chi ti è adiacente si deve [[03 Combattimento#Risolvere un'azione|difendere]] schivando per non diventare corroso (la DIF è pari all'effetto che ti ha corroso).
+All'inizio del tuo turno subisci 1d4 danni da acido e chi ti è adiacente si deve [[03 Combattimento#Risolvere un'azione|difendere]] [[06 Scheda personaggio#🛡️ Difese|schivando]] per non diventare corroso (la [[05 Abilità#Fare una prova di abilità|DIF]] è pari all'effetto che ti ha corroso).
 ### 🪢 Immobilizzato
 Non puoi compiere azioni che richiedono libertà di movimento come attaccare, usare un oggetto, lanciare un incantesimo, etc.  
 I tuoi [[06 Scheda personaggio#🛡️ Difese|schivare]], [[06 Scheda personaggio#🛡️ Difese|parare]] e [[06 Scheda personaggio#🛡️ Difese|bloccare]] sono considerati 0.  
@@ -47,8 +48,8 @@ Più sanguinamenti vengono considerati condizioni separate.
 Non puoi parlare o emettere suoni.  
 Non puoi lanciare incantesimi e non puoi eseguire azioni che richiedono la voce.
 ### 🔥 Ustionato
-Hai -2 alle prove di [[Destrezza]], [[06 Scheda personaggio|colpire]], [[06 Scheda personaggio#🛡️ Difese|schivare]] e [[06 Scheda personaggio#🛡️ Difese|parare]].
-Ogni volta oltre alla prima che diventeresti Ustionato, aumenta questo malus di 1.
+Hai -1 alle prove di [[Destrezza]], [[06 Scheda personaggio|colpire]], [[06 Scheda personaggio#🛡️ Difese|schivare]] e [[06 Scheda personaggio#🛡️ Difese|parare]].
+Ogni volta oltre alla prima che diventeresti ustionato, aumenta questo malus di 1.
 # Condizioni mentali
 ### 😴 Addormentato
 Cadi a terra addormentato.  

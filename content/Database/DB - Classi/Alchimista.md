@@ -3,7 +3,8 @@ Tipo: classe
 PV: "6"
 Abilità: Conoscenze, Magia
 ---
-Descrizione della classe.
+Descrizione della classe, che farò con calma.
+> Descrizione meta temporanea: basato sul creare composti (e veleni anche se meno) e usarli in combattimento.
 
 **PV:** 6  
 **Abilità:** [[Conoscenze]], [[Magia]]

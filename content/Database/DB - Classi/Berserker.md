@@ -3,7 +3,8 @@ Tipo: classe
 PV: "12"
 Abilità: Forma Fisica, Sopravvivenza
 ---
-Descrizione della classe.
+Descrizione della classe, che farò con calma.
+> Descrizione meta temporanea: cerca di scendere di punti vita per andare in ira. Subisce apposta attacchi per contrattaccare.
 
 **PV:** 12  
 **Abilità:** [[Forma Fisica]], [[Sopravvivenza]]

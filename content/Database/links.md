@@ -11,11 +11,13 @@
 [[02 Incontri e riposare#Il tuo turno|azione]]    il tuo turno
 [[06 Scheda personaggio#🧱 Barriera|barriera]]
 [[06 Scheda personaggio#Difese|bloccare]]
-[[06 Scheda personaggio#🛡️ Difese|bloccare]]
+[[06 Scheda personaggio#🛡️ Difese|bloccare
+[[14 Armi#Capacità speciali|capacità speciali]]
 [[06 Scheda personaggio#🎯 Colpire|colpire]]
 [[06 Scheda personaggio#Armi e Oggetti|comodi]]
 [[11 Condizioni e lesioni#Condizioni mentali|condizione mentale]]
 [[07 Classi|classe]]
+[[11 Condizioni e lesioni#☢️ Corroso|corroso]]
 [[05 Abilità#Fare una prova di abilità|DIF]]
 [[06 Scheda personaggio#🛡️ Difese|difese]]
 [[13 Incantesimi|incantesimo]]
@@ -33,6 +35,8 @@
 [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]]
 [[08 Razze|razza]]
 [[04 Azioni e reazioni#Reazioni|reazione]]
+[[03 Combattimento#tipi di danno|resistenza]]
+[[06 Scheda personaggio#🩷 Punti Vita (PV)|rigenerazione]]
 [[02 Incontri e riposare#Riposare|riposare]]
 [[06 Scheda personaggio#🛡️ Difese|risolutezza]]
 [[11 Condizioni e lesioni#🩸 SANGUINANTE|sanguinamento]]

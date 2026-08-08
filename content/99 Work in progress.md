@@ -17,4 +17,5 @@
 - fare gli oggetti
 - decidere se dare dei talenti quando si livella
 - fare una classe che lancia armi e cose
-- fare la classe studioso e finire quelle con dei buchi
+- fare la classe studioso, decidere che fare del tecnomante e finire quelle con dei buchi
+- decidere se avere un'abilità separata per destrezza manuale
