@@ -1,11 +1,6 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import * as ExternalPlugin from "./.quartz/plugins"
 
-// Nasconde "nascosto" dall'Explorer (deve stare prima di loadQuartzConfig)
-ExternalPlugin.Explorer({
-  filterFn: (node) => node.slug !== "nascosto",
-})
-
 const config = await loadQuartzConfig()
 
 // --- FolderPage custom (disattivato, tenuto per riferimento) ---
