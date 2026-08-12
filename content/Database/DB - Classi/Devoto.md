@@ -14,7 +14,7 @@ Descrizione della classe, che farò con calma.
 - **Reazione**: *<sei entro 10m da un difensore>* lancia un [[13 Incantesimi|incantesimo rapido]] o un **[[#Incanalare]]** su di lui, puoi farlo anche dopo aver visto il tiro dei danni.
 - **[[#Incanalare]]**: puoi curare un bersaglio entro 10m di 1d4 per livello + la tua [[Volontà]], i [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] in eccesso diventano [[06 Scheda personaggio#🧱 Barriera|barriera]].
 - **[[#Incanalare]]**: puoi infliggere ad un bersaglio entro 10m 1d4 [[03 Combattimento#tipi di danno|danni necrotici]] per livello. Non devi vederlo, basta che sei consapevole della sua presenza. Si può difendere con [[Forma Fisica]] contro la tua [[Volontà]].
-- Una volta per riposo, come [[02 Incontri e riposare#Il tuo turno|azione]] puoi perdere un numero qualsiasi di [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] per recuperare lo stesso valore di [[06 Scheda personaggio#🔮 Mana|mana]] e un terzo come utilizzi di [[#Incanalare]].
+- Una volta per riposo, come [[02 Incontri e riposare#Il tuo turno|azione]] puoi pagare un numero qualsiasi di [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] per recuperare lo stesso valore di [[06 Scheda personaggio#🔮 Mana|mana]] e un terzo come utilizzi di [[#Incanalare]].
 - **[[#Arma Sacra]]**.
 ### Livello 2
 - **[[#Incanalare]]**: tocca un’arma non sacra per benedirla, per un numero di turni pari alla tua [[Volontà]] fa danni extra pari alla tua [[Volontà]].

@@ -20,7 +20,7 @@ Descrizione della classe, che farò con calma.
 - Una volta per riposo i tuoi alleati possono rilassarsi grazie ai tuoi racconti, musiche o balli, recuperate:
 	- un quarto dei [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] totali
 	- metà del vostro [[06 Scheda personaggio#🔮 Mana|mana]]
-	- metà degli usi “X volte per riposo” (non quelli “una volta per riposo”)
+	- metà degli usi “X volte per riposo” *(non quelli “una volta per riposo”)*
 	- metà degli usi e cariche delle abilità di classe come Incanalare, Condotto Spirituale, Cariche Elementali, etc.
 - Puoi trattare le [[11 Condizioni e lesioni#Condizioni mentali|condizioni mentali]], usa [[Carisma]] invece che [[Medicina]].
 - Con un’[[02 Incontri e riposare#Il tuo turno|azione]] puoi far finta di lanciare un [[13 Incantesimi|incantesimo]] verso un bersaglio, deve superare una prova di [[Carisma]] o [[Magia]] contro il tuo [[Carisma]], se fallisce applica una fra queste condizioni per un turno: [[11 Condizioni e lesioni#😴 Addormentato|addormentato]], [[11 Condizioni e lesioni#😍 Ammaliato|ammaliato]], [[11 Condizioni e lesioni#🌀 Confuso|confuso]], [[11 Condizioni e lesioni#😱 Spaventato|spaventato]].

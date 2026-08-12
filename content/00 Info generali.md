@@ -1,3 +1,6 @@
+---
+title: Dove sono?
+---
 Questo è il regolamento di \[INSERÒ IL NOME APPENA LO DECIDO].
 
 Un gioco di ruolo gratuito con un combattimento dinamico che ruota intorno a Schivate, Parate, Blocchi e Reazioni. Dove agisci anche fuori dal tuo turno e "come faccio a fare più danno possibile?" non è l'unica domanda che ti devi fare: senza collaborare si finisce male.

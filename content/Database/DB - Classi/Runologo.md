@@ -13,20 +13,22 @@ Descrizione della classe, che farò con calma.
 ### Livello 1
 - **Reazione**: *<>* .
 - [[#Cerchio Runico]].
-### Livello 2
 - Mentre sei dentro al tuo [[#Cerchio Runico]] hai un bonus ad [[06 Scheda personaggio#🦺 Armatura|armatura]] e [[06 Scheda personaggio#🎯 Colpire|colpire]] pari al tuo livello da Runologo.
+### Livello 2
 - All’inizio del tuo turno puoi consumare una runa per ricentrare il cerchio su di te.
+- Mentre sei dentro al tuo [[#Cerchio Runico]] hai +2 alla tua difesa più bassa.
 ### Livello 3
 - Il tuo [[#Cerchio Runico]] ha effetti aggiuntivi.
-- Mentre sei dentro al tuo [[#Cerchio Runico]] hai +2 alla tua difesa più bassa.
 ### Livello 4
 - Una volta per riposo, se un tuo alleato scende a 0 o meno [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] mentre è dentro un [[#Cerchio Runico]] con almeno 4 rune rimanenti, puoi consumare il cerchio per farlo rimanere a 1 [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]].
 - Se all’inizio del tuo turno non hai un [[#Cerchio Runico]] attivo, puoi crearne uno gratuitamente.
 
 ---
 ## Cerchio runico
-Un numero di volte per riposo pari alle tue [[Conoscenze]], con un’[[02 Incontri e riposare#Il tuo turno|azione]] puoi creare un cerchio di 8 rune sul terreno, ha un raggio di 4m intorno a te. Se ne crei uno nuovo, il primo sparisce.  
+Un numero di volte per riposo pari alle tue [[Conoscenze]], con un’[[02 Incontri e riposare#Il tuo turno|azione]] puoi creare un cerchio di rune, ha un raggio di 4m intorno a te. Se ne crei uno nuovo, il primo sparisce.  
+
 In qualsiasi momento una volta per turno, gli alleati all’interno di questo cerchio possono consumare gratuitamente una runa per attivare il suo effetto, dopo di che quella runa sparisce. Se un effetto si riferisce al livello, usa quello del Runologo.
+
 
 Gli effetti sono:
 - aggiungi 1d4 +1 per livello danni da un elemento a tua scelta ad un attacco andato a segno
@@ -49,3 +51,4 @@ Con un [[02 Incontri e riposare#Il tuo turno|azione]] puoi consumare un cerchio 
 - per un turno crea una zona di buio totale all’interno del cerchio
 - per un turno crea una zona di silenzio
 - per un turno impedisci ai nemici di uscire dal cerchio, possono uscire con [[Forma Fisica]] se vogliono muoversi fisicamente o con [[06 Scheda personaggio#🛡️ Difese|risolutezza]] se ci provano con metodi magici come il teletrasporto, devono superare un tuo tiro su [[Conoscenze]]
+- ripristina un uso o una carica di una capacità di classe come Incanalare, Condotto Spirituale, Arsenale Vivente, etc. Puoi usare effetto solo una volta per riposo.

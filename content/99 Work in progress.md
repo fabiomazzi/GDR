@@ -5,7 +5,7 @@
 - armi e altro equip dovrebbero dare cose non legate alla loro funzione, tipo un martello che da percezione, una staffa che da FF, etc
 - semplificare il sistema per creare di composti e veleni, così non ha neanche senso perché non si possono comprare o trovare
 - fare armi e armature specifiche per le classi?
-- fare gear che i druidi possono usare da trasformati
+- fare gear che i druidi possono usare da trasformati?
 - fare armi, nemici e incontri con attacchi che non possono essere schivati, ma solo bloccati o parati (armi magiche, giganti, proiettili a ricerca)
 - dare immunità o abbassare il grado delle lesioni al gear. es: elmo occhi, guanti d’arme mani, etc
 - fare le proprietà speciali delle armi
@@ -18,10 +18,11 @@
 - decidere se dare dei talenti quando si livella
 - fare una classe che lancia armi e cose
 - fare la classe studioso, decidere che fare del tecnomante e finire quelle con dei buchi
-- decidere se avere un'abilità separata per destrezza manuale
+- decidere se avere un'abilità separata tipo destrezza manuale per trappole, scassinare, oggetti vari
 - le classi dovrebbero essere:
-	- livello 1: dare l'identità alla classe, il cosa fa e su cosa si basa
+	- livello 1: dare l'identità alla classe, il cosa fa e come lo fa con una sua meccanica identificativa
 	- livello 2: bonus secondari e non troppo importanti
 	- livello 3: abilità forte legata alla sua identità
 	- livello 4: capacità molto forti e che sbilanciano un po' ma che non cambiano fondamentalmente il come si gioca la classe
+	- molte vanno bene, altre sono da rivedere
 - fare le taglie
