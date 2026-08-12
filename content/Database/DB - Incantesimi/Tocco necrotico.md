@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Fai 1d6 danni necrotici per livello.
+Fai 1d6 [[03 Combattimento#tipi di danno|danni necrotici]] per livello.

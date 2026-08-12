@@ -8,7 +8,6 @@ Servitore: false
 Armatura inc: true
 Tipo: incantesimo
 ---
-Hai +4 per schivare gli attacchi dalla distanza.
-Non puoi essere atterrato o respinto.
-Se paghi questo incantesimo 4 mana la sua durata diventa 1 giorno.
-Puoi avere un solo incantesimo di armatura attivo.
+Hai +4 per [[06 Scheda personaggio#🛡️ Difese|schivare]] gli attacchi [[14 Armi#(D) Dalla distanza|dalla distanza]].
+Non puoi essere [[11 Condizioni e lesioni#🧎 Atterrato|atterrato]] o spinto.
+Se paghi questo incantesimo 4 [[06 Scheda personaggio#🔮 Mana|mana]] la sua durata diventa 1 giorno.

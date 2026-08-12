@@ -5,5 +5,5 @@ Danno: 1d4 C
 Colpire: "2"
 Difesa: Armatura 1
 Abilità:
-Liv richiesto: 0 (critter)
+Liv richiesto: "1"
 ---

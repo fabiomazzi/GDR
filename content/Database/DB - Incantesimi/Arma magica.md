@@ -8,4 +8,5 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Puoi creare un arma magica e fare un attacco con essa. Scegli un’arma dalla tabella Armi, per i suoi requisiti e il colpire usa Magia. Il suo danno è magico.
+Puoi creare e fare un attacco con un arma magica.
+Scegli un’arma dalla tabella [[14 Armi|armi]], per i suoi requisiti e il colpire usa [[Magia]]. Il suo danno è magico.

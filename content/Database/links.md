@@ -1,17 +1,18 @@
 [[03 Combattimento#Distanze|a contatto]]
 [[05 Abilità|abilità]]
+[[11 Condizioni e lesioni#🙈 Accecato|accecato]]
 [[04 Azioni e reazioni#🤼‍♂️ Lottare|Afferrare]]
 [[11 Condizioni e lesioni#😍 Ammaliato|ammaliato]]
 [[04 Azioni e reazioni#⚔️ Attaccare|Attaccare]]
 [[06 Scheda personaggio#🦺 Armatura|armatura]]
-[[03 Combattimento#Risolvere un'azione|attacco]]
+[[03 Combattimento#Risolvere un'azione|attacco]] gestire azione
+[[04 Azioni e reazioni#⚔️ Attaccare|attacco]] azione
 [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]]
 [[04 Azioni e reazioni#✨ Attivare un effetto magico|Attivare un effetto magico]]
 [[04 Azioni e reazioni#Azioni|azione]]   lista azioni
 [[02 Incontri e riposare#Il tuo turno|azione]]    il tuo turno
 [[06 Scheda personaggio#🧱 Barriera|barriera]]
-[[06 Scheda personaggio#Difese|bloccare]]
-[[06 Scheda personaggio#🛡️ Difese|bloccare
+[[06 Scheda personaggio#🛡️ Difese|bloccare]]
 [[14 Armi#Capacità speciali|capacità speciali]]
 [[06 Scheda personaggio#🎯 Colpire|colpire]]
 [[06 Scheda personaggio#Armi e Oggetti|comodi]]
@@ -19,8 +20,10 @@
 [[07 Classi|classe]]
 [[16 Composti e veleni#Composti|composto]]
 [[11 Condizioni e lesioni#☢️ Corroso|corroso]]
+[[14 Armi#(D) Dalla distanza|dalla distanza]]
 [[05 Abilità#Fare una prova di abilità|DIF]]
 [[06 Scheda personaggio#🛡️ Difese|difese]]
+[[11 Condizioni e lesioni#😵‍💫 Frastornato|frastornato]]
 [[13 Incantesimi|incantesimo]]
 [[04 Azioni e reazioni#😠 Intimidire|Intimidire]]
 [[02 Incontri e riposare#Incontro, turno e round|iniziativa]]

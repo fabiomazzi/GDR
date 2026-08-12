@@ -24,3 +24,4 @@
 	- livello 2: bonus secondari e non troppo importanti
 	- livello 3: abilità forte legata alla sua identità
 	- livello 4: capacità molto forti e che sbilanciano un po' ma che non cambiano fondamentalmente il come si gioca la classe
+- fare le taglie

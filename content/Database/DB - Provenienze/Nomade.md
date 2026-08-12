@@ -4,7 +4,7 @@ Abilità: Carisma
 ---
 Descrizione.
 
-**Abilità:** Carisma
+**Abilità:** [[Carisma]]
 
 ---
 ## Capacità

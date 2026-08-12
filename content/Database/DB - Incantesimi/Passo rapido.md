@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-I movimenti del bersaglio non causano opportunità.
+Il bersaglio ha un bonus di 2m al [[02 Incontri e riposare#Movimento|movimento]] e i suoi movimenti non causano [[04 Azioni e reazioni#Reazioni|reazioni]].

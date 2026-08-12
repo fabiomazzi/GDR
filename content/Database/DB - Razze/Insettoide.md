@@ -3,49 +3,47 @@ Tipo: razza
 Abilità: Destrezza, Percezione
 Linguaggi: Animale, Comune
 ---
-Durante un test di un teletrasporto di uno gnomo famoso finisce tipo la mosca con vari animali, visto che era cretino ha dato la possibilità a chi voleva di fare lo stesso. Nel tempo le persone sviluppano tratti degli insetti.
-
+Descrizione della razza, che farò con calma.
+> Descrizione meta temporanea: durante un test di un teletrasporto di uno gnomo famoso finisce tipo la mosca con vari animali, visto che era cretino ha dato la possibilità a chi voleva di fare lo stesso. Nel tempo le persone sviluppano tratti degli insetti.
 Poco alla volta lo gnomo è impazzito e ha creato esseri sempre più simili agli insetti che hanno l’istinto di uccidere, motivo per cui gli insettoidi sono visti male e tenuti d’occhio.
 
-**Abilità**: Destrezza, Percezione  
+**Abilità**: [[Destrezza]], [[Percezione]]  
 **Linguaggi**: Animale, Comune
 
 ---
 Scegli un insetto, guadagni le sue capacità.
 ## MOSCA
 ### Livello 1️
-- Hai +1 ad Iniziativa e alle prove di Percezione
+- Hai +1 ad [[02 Incontri e riposare#Incontro, turno e round|iniziativa]] e a [[Percezione.
 ### Livello 3️
-- Non puoi essere colto alla sprovvista, all’inizio di un incontro ripristina una Reazione
+- Non puoi essere colto alla sprovvista, all’inizio di un incontro ripristina una [[04 Azioni e reazioni#Reazioni|reazione]].
 ## SCORPIONE
 ### Livello 1️
-- Ti cresce una coda appuntita che viene considerata un’arma naturale, fa 1d3 danni perforanti, Colpisci con Destrezza
-- Una volta per riposo, quando colpisci con la tua coda, puoi applicare l’effetto di un Veleno, si resiste con FF contro il tuo livello
+- Ti cresce una coda appuntita che viene considerata un’[[14 Armi#Naturale|arma naturale]] secondaria, fa 1d3 danni perforanti, usa [[Destrezza]] come [[06 Scheda personaggio#🎯 Colpire|colpire]].
 ### Livello 3️
-- Reazione: [minacci un’attaccante con la tua coda] fai un’attacco rapido con la tua coda su di lui
+- Una volta per [[02 Incontri e riposare#Riposare|riposo]], quando colpisci con la tua coda, puoi applicare l’effetto di un [[16 Composti e veleni|veleno]], si resiste con [[Forma Fisica]] contro il tuo [[06 Scheda personaggio#💯 Livello|livello.]]
 ## FASMIDE
 ### Livello 1️
-- Puoi usare un Movimento per avere un bonus cumulativo di +1 a Furtività fino al tuo prossimo movimento volontario o involontario, il bonus massimo di quest’abilità è pari al tuo livello, non si somma con abilità simili
+- Puoi usare un [[02 Incontri e riposare#Movimento|movimento]] per avere un +1 cumulativo a [[Furtività]] fino al tuo prossimo movimento (volontario o non); il bonus massimo è pari al tuo livello.
 ### Livello 3️
-- Le tue lesioni si abbassano automaticamente di un grado quando riposi, anche quelle critiche
+- Le tue [[11 Condizioni e lesioni#Lesioni|lesioni]] si abbassano automaticamente di un grado quando riposi, anche quelle critiche.
 ## FORMICA
 ### Livello 1️
-- Hai un bonus di +1 a FF
+- Il tuo morso viene considerato un’[[14 Armi#Naturale|arma naturale]] secondaria, fa 1d3 danni perforanti, usa [[Forma Fisica]] come [[06 Scheda personaggio#🎯 Colpire|colpire]].
 ### Livello 3️
-- Il tuo morso viene considerato un’arma naturale che fa 1d3 danni perforanti, Colpisci con FF
-- Reazione: [minacci col tuo morso un’attaccante] fai un’attacco rapido con il tuo morso su di lui
+- Hai +1 a [[Forma Fisica]].
 ## RAGNO
 ### Livello 1️
-- Come Azione, un numero di volte per riposo pari al tuo livello, puoi lanciare una ragnatela (sì, da dove vuoi) per Intrappolare un bersaglio entro 10m, appena viene intrappolato e all’inizio di ogni suo turno fa una prova di FF contrapposta al tuo livello (tira 1d12 e aggiungi il tuo livello)
+- Come [[02 Incontri e riposare#Il tuo turno|azione]], un numero di volte per riposo pari al tuo [[06 Scheda personaggio#💯 Livello|livello]], puoi lanciare una ragnatela *(sì, da dove vuoi)* per [[11 Condizioni e lesioni#🦶 Intrappolato|intrappolare]] un bersaglio entro 10m, appena viene intrappolato e all’inizio di ogni suo turno può fare una prova di [[Forma Fisica]] contrapposta al tuo [[06 Scheda personaggio#💯 Livello|livello]] per liberarsi (tira 1d12 e aggiungi il tuo livello).
 ### Livello 3️
-- Hai un bonus ad arrampicarti pari al tuo livello e se non sei sotto pressione puoi arrampicarti senza dover fare delle prove
+- Hai un bonus ad arrampicarti pari al tuo [[06 Scheda personaggio#💯 Livello|livello]] e ignori tutti i malus della condizione [[11 Condizioni e lesioni#🧎 Atterrato|atterrato]].
 ## FALENA
 ### Livello 1️
-- Un numero di turni per riposo pari al tuo livello puoi muoverti nel buio totale, entro 10m puoi muoverti come se ci vedessi normalmente (non vedi i colori o altre cose per cui è necessaria la vista).
+- Un numero di turni per riposo pari al tuo [[06 Scheda personaggio#💯 Livello|livello]] puoi muoverti nel buio totale, entro 10m puoi muoverti come se ci vedessi normalmente (non vedi i colori o altre cose per cui è necessaria la vista).
 ### Livello 3️
-- [da finire]
+- 
 ## SCARABEO
 ### Livello 1️
-- Hai un bonus all’Armatura pari a metà del tuo livello
+- Hai il talento [[Carica]].
 ### Livello 3️
-- Hai il talento Carica
+- Hai un bonus all'[[06 Scheda personaggio#🦺 Armatura|armatura]] pari a metà del tuo [[06 Scheda personaggio#💯 Livello|livello]].

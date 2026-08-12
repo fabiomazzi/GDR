@@ -16,14 +16,15 @@ Descrizione della classe, che farò con calma.
 - Guadagni il talento [[Furtivo]].
 - Ignora tutti i malus della condizione [[11 Condizioni e lesioni#🧎 Atterrato|atterrato]].
 - Muoverti su un terreno instabile, detriti e simili non è un movimento complesso.
-- Quando fai un [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]] applica un sanguinamento.
+- Quando colpisci con un [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]] applica un sanguinamento.
 ### Livello 2
 - Per ogni 6m che ti muovi in un turno hai +1 a [[06 Scheda personaggio#🛡️ Difese|schivare]] e a [[06 Scheda personaggio#🎯 Colpire|colpire]] fino al tuo prossimo turno.
 - Quando attraversi uno spazio occupato da un nemico, fai un [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]] su quel nemico.
 - Puoi [[06 Scheda personaggio#🛡️ Difese|schivare]] gli attacchi che potrebbero essere [[06 Scheda personaggio#Difese|bloccati]] o [[06 Scheda personaggio#🛡️ Difese|parati]].
 ### Livello 3
 - Un numero di volte per riposo pari al tuo livello da Acrobata, puoi compiere un [[04 Azioni e reazioni#Azioni|azione]] senza causare [[04 Azioni e reazioni#Reazioni|reazioni]].
-- Un numero di volte per riposo pari al tuo livello da Acrobata, come movimento puoi sparire in un ombra e ricomparire in un’altra ombra che vedi entro 10m.
+- Hai un bonus alla velocità di 2m
+- All’inizio di un incontro, dopo aver visto le iniziative, puoi muoverti di 6m e ripristinare una reazione.
 - Se [[06 Scheda personaggio#🛡️ Difese|schivi]] un attacco che fa dimezzare il danno schivando, non subisci danno in caso di successo e subisci metà danno in caso di fallimento. *al momento inutile*
 ### Livello 4
 - 

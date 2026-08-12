@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Il bersaglio ignora una lesione non critica.
+Il bersaglio ignora una [[11 Condizioni e lesioni#Lesioni|lesione]] non critica.

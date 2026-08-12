@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Cura una lesione di qualunque gravità (anche critica).
+Cura una [[11 Condizioni e lesioni#Lesioni|lesione]] di qualunque gravità (anche critica).

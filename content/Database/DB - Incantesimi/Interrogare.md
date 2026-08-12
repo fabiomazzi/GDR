@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Ogni volta che il bersaglio prova a mentire deve difendersi con Risolutezza, se fallisce deve dire la verità.
+Ogni volta che il bersaglio prova a mentire deve difendersi con [[06 Scheda personaggio#🛡️ Difese|risolutezza]], se fallisce deve dire la verità.

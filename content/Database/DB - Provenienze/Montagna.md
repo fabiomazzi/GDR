@@ -4,7 +4,7 @@ Abilità: Forma Fisica
 ---
 Descrizione.
 
-**Abilità:** Forma Fisica
+**Abilità:** [[Forma Fisica]]
 
 ---
 ## Capacità

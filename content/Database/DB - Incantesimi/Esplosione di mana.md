@@ -1,5 +1,5 @@
 ---
-Costo: 3
+Costo: 2
 Difesa: Bloccare, Risolutezza
 Durata: Istantaneo
 Gittata: 0m
@@ -8,4 +8,3 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Consuma tutta la tua Barriera per fare altrettanto danno ai nemici in un raggio di 4m intorno a te.

@@ -4,8 +4,8 @@ Abilità: Volontà
 ---
 Descrizione.
 
-**Abilità:** Volontà
+**Abilità:** [[Volontà]]
 
 ---
 ## Capacità
-- Hai +2 contro veleni e malattie.
+- Hai +2 contro [[16 Composti e veleni#Veleni|veleni]] e malattie.

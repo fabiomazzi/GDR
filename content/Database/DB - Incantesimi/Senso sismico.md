@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Guadagni il talento senso sismico artificiale e naturale.
+Guadagni il talento [[Senso sismico artificiale]] o [[Senso sismico naturale]].

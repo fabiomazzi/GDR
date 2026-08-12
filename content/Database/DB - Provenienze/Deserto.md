@@ -4,7 +4,7 @@ Abilità: Medicina
 ---
 Descrizione.
 
-**Abilità:** Medicina
+**Abilità:** [[Medicina]]
 
 ---
 ## Capacità

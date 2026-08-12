@@ -5,7 +5,7 @@ Linguaggi: Comune, Silvano
 ---
 Descrizione della razza.
 
-**Abilità:** Magia, Perspicacia  
+**Abilità:** [[Magia]], [[Perspicacia]]  
 **Linguaggi:** Comune, Silvano
 
 ---

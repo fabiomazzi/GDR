@@ -3,11 +3,11 @@ Tipo: razza
 Abilità: Carisma, Magia
 Linguaggi: Comune, Draconico
 ---
-Descrizione della razza.
+Figli di un drago e un'altra razza.
 
-**Abilità:** Carisma, Magia
+**Abilità:** [[Carisma]], [[Magia]]
 **Linguaggi:** Comune, Draconico
 
 ---
 ## Capacità
-- Guadagni il talento Soffio.
+- Guadagni il talento [[Soffio]].

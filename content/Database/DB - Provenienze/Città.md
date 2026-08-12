@@ -4,8 +4,8 @@ Abilità: Perspicacia
 ---
 Descrizione.
 
-**Abilità:** Perspicacia
+**Abilità:** [[Perspicacia]]
 
 ---
 ## Capacità
-- Guadagni il talento Cittadino.
+- Guadagni il talento [[Cittadino]].

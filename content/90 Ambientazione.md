@@ -55,7 +55,7 @@ Minori - non garantiscono l’equilibrio sulla terra ma hanno scopi più egoisti
 - caccia e sopravvivenza, a contatto con la natura e la terra è il momento in cui un essere è più vivo e sta seguendo il suo scopo originale
 - bestie sanguinarie, bisogna seguire i nostri istinti primordiali
 - fortuna e destino, non abbiamo controllo sul nostro fato, tanto vale assecondare quello che ci succede divertendoci il più possibile
-- non morti e resurrezione, se qualcuno riuscisse a controllare il ciclo della vita avrebbe il controllo su tutto
+- non-morti e resurrezione, se qualcuno riuscisse a controllare il ciclo della vita avrebbe il controllo su tutto
 - ricchezza e commercio, chi ha i soldi può fare tutto
 - atei, che senso ha vivere secondo le regole imposte da altri, custodi compresi?  
     _Non hanno vere regole imposte dal custode, si disinteressano di tutto ma odiano chi impone regole e venera un custode_

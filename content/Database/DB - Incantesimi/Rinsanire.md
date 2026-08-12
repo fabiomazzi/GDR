@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Fai un tiro di Magia contro la DIF di una condizione mentale attiva, se lo superi cura quella condizione.
+Fai un tiro di [[Magia]] contro la [[05 Abilità#Fare una prova di abilità|DIF]] di una [[11 Condizioni e lesioni#Condizioni mentali|condizione mentale]] attiva, se lo superi cura quella condizione.

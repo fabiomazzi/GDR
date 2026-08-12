@@ -4,8 +4,8 @@ Abilità: Magia
 ---
 Descrizione.
 
-**Abilità:** Magia
+**Abilità:** [[Magia]]
 
 ---
 ## Capacità
-- Hai +2 alle prove di Identificare e per lanciare Controincantesimo.
+- Hai +2 alle prove di [[12 Magia#Identificare|identificare]] e per l'incantesimo [[Contromagia]].

@@ -4,7 +4,7 @@ Abilità: Destrezza
 ---
 Descrizione.
 
-**Abilità:** Destrezza
+**Abilità:** [[Destrezza]]
 
 ---
 ## Capacità

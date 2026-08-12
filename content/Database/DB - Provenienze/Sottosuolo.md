@@ -4,8 +4,8 @@ Abilità: Furtività
 ---
 Descrizione.
 
-**Abilità:** Furtività
+**Abilità:** [[Furtività]]
 
 ---
 ## Capacità
-- Guadagni il talento Speleologo.
+- Guadagni il talento [[Speleologo]].

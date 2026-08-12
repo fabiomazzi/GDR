@@ -1,12 +1,12 @@
 ---
 Costo: 1
 Difesa: Risolutezza
-Durata: 1 turno
+Durata: 1 turno per livello
 Gittata: Te stesso
 Rapido: false
 Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Dai +1 a Risolutezza.
-Se invece paghi 2 mana la gittata diventa “10m”.
+Dai +1 a [[06 Scheda personaggio#🛡️ Difese|risolutezza]].
+Se invece paghi 2 [[06 Scheda personaggio#🔮 Mana|mana]] la gittata diventa “10m”.

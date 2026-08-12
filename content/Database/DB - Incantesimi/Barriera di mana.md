@@ -8,5 +8,5 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Puoi pagare questo incantesimo quante volte vuoi, dai 4 di Barriera per ogni mana speso.
-Se il bersaglio sei tu, questa barriera dura fino alla fine del tuo prossimo turno.
+Puoi pagare questo incantesimo quante volte vuoi, dai 6 di [[06 Scheda personaggio#🧱 Barriera|barriera]] per ogni volte che lo fai.
+Se il bersaglio sei tu, questa [[06 Scheda personaggio#🧱 Barriera|barriera]] dura fino alla fine del tuo prossimo turno.

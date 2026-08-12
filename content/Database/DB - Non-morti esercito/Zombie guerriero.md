@@ -5,5 +5,5 @@ Danno: 2d4 C
 Colpire: "4"
 Difesa: Armatura 3
 Abilità:
-Liv richiesto: "3"
+Liv richiesto: "4"
 ---

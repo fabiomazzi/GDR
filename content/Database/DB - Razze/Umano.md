@@ -10,4 +10,4 @@ Descrizione della razza.
 
 ---
 ### Capacità
-- Quando crei il personaggio e ad ogni livello pari hai 1 Abilità aggiuntiva da scegliere.
+- Quando crei il personaggio e ad ogni livello pari puoi scegliere un'[[05 Abilità|abilità]] aggiuntiva.

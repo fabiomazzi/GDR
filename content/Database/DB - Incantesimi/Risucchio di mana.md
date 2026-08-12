@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Consuma fino a 4 mana al bersaglio, se lo fai ripristina altrettanto mana e fagli altrettanto danno.
+Consuma fino a 4 [[06 Scheda personaggio#🔮 Mana|mana]] al bersaglio, se lo fai ripristina altrettanto [[06 Scheda personaggio#🔮 Mana|mana]] e fagli altrettanto danno.

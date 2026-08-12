@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Puoi pagare questo incantesimo quante volte vuoi, dai 2 di Barriera per ogni mana speso
+Puoi pagare questo incantesimo quante volte vuoi, dai 2 di [[06 Scheda personaggio#🧱 Barriera|barriera]] per ogni volte che lo fai.

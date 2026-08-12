@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Ripristina una Reazione al bersaglio
+Ripristina una [[04 Azioni e reazioni#Reazioni|reazione]] al bersaglio.

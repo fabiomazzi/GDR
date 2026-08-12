@@ -9,3 +9,4 @@ Armatura inc: false
 Tipo: incantesimo
 ---
 Evoca un servitore dalla tabella.
+> da fare

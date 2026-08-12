@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Applica una lesione al bersaglio.
+Applica una [[11 Condizioni e lesioni#Lesioni|lesione]] al bersaglio.

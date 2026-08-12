@@ -1,4 +1,4 @@
 ---
 Tipo: talento
 ---
-- Aggiungi il tuo Colpire al danno degli attacchi rapidi.
+- Aggiungi il tuo [[06 Scheda personaggio#🎯 Colpire|colpire]] al danno degli attacchi rapidi.

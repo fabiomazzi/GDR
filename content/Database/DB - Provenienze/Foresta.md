@@ -4,8 +4,8 @@ Abilità: Sopravvivenza
 ---
 Descrizione.
 
-**Abilità:** Sopravvivenza
+**Abilità:** [[Sopravvivenza]]
 
 ---
 ## Capacità
-- Guadagni il talento Ranger.
+- Guadagni il talento [[Ranger]].

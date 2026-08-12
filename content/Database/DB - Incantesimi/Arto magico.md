@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Rimpiazza un arto perso con una sua copia magica. Funziona in tutto e per tutto come l’arto originale ma viene identificato come una fonte di magia e può essere dissolto.
+Cura una [[11 Condizioni e lesioni#Lesioni|lesione]] (anche critica) rimpiazzando o curando una parte del corpo con una sua copia magica. Funziona in tutto e per tutto come l’arto originale ma viene identificato come una fonte di magia e può essere dissolto.
