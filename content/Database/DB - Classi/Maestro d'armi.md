@@ -4,6 +4,7 @@ PV: "8"
 Abilità: "[[Precisione]], [[Vigore]]"
 Descrizione: "[temporanea] si basa sul cambiare di continuo arma e avere a portata di mano quella migliore per ogni situazione: tipo di danno, una per le reazioni, una per parare, etc... sa usare le capacità speciali di tutte le armi e guadagna cariche quando ne usa diverse"
 ---
+---
 ## Avrà più senso quando saranno finite le capacità speciali delle armi, comprese armi con bonus a difendersi.
 ### Livello 1
 - **Reazione**: *<minacci l’attaccante con un’arma comoda>* fai un attacco rapido con quell'arma, puoi tenerla impugnata dopo aver attaccato.

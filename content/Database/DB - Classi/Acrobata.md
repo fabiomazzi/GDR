@@ -4,6 +4,7 @@ PV: "6"
 Abilità: "[[Destrezza]], [[Furtività]]"
 Descrizione: "[temporanea] si muove come vuole sul campo di battaglia e sopravvive schivando. Il danno viene fatto principalmente con gli attacchi rapidi che applicano sanguinamenti."
 ---
+---
 ### Livello 1
 - **Reazione**: *\<hai schivato un attacco>* fai un attacco rapido contro l'attaccante.
 - Un numero di volte per riposo pari al tuo livello da Acrobata, quando fallisci una prova di [[Destrezza]] o [[Furtività]] non legata alle trappole, non ci sono conseguenze e se vuoi puoi immediatamente ritentare la prova con un bonus di +1.

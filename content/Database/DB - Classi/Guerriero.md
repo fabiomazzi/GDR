@@ -4,6 +4,7 @@ PV: "10"
 Abilità: "[[Precisione]], [[Vigore]]"
 Descrizione: "[temporanea] basato sul combattere in mischia e buttarsi in mezzo. Più nemici vicini ci sono, meglio funzionano le abilità."
 ---
+---
 ### Livello 1
 - **Reazione**: *\<minacci un attaccante a contatto>* attaccalo.
 - La prima volta che durante il tuo turno porti un nemico a 0 o meno [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] con un attacco, puoi immediatamente fare un’[[03 Combattimento#Risolvere un'azione|attacco]].

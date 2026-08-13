@@ -4,6 +4,7 @@ PV: "6"
 Abilità: "[[Destrezza]], [[Precisione]]"
 Descrizione: "[temporanea] combattente mobile e agile basato sul gestire i punti maestria e il parare. 6 PV e limiti sulle armature costringono a giocarlo mordi e fuggi."
 ---
+---
 ### Livello 1
 - **Reazione**: *<sei entro 6m dall’attaccante>* puoi muoverti di 4m nella sua direzione e fare un [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]].
 - **[[#Maestria]]**.

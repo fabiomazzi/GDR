@@ -4,6 +4,7 @@ PV: "4"
 Abilità: "[[Magia]], [[Volontà]]"
 Descrizione: "[temporanea] lancia magie e le potenzia, si specializza in 2-3 incantesimi che lancia gratis e potenziati. Recupera tutto il mana una volta al giorno."
 ---
+---
 ### Livello 1
 - **Reazione**: *<sei entro 10m dell’attaccante>* lancia un incantesimo rapido su di lui.
 - Padroneggia un [[13 Incantesimi|incantesimo]]: scegli un incantesimo che costa 1 o meno [[06 Scheda personaggio#🔮 Mana|mana]], diventa rapido e costa 0 mana.

@@ -4,6 +4,7 @@ PV: "6"
 Abilità: "[[Carisma]], [[Volontà]]"
 Descrizione: "[temporanea] può far comparire degli spiriti che danneggiano, curano, buffano, debuffano amici e nemici. Gli fanno recuperare mana quando fanno qualcosa."
 ---
+---
 ### Livello 1
 - **Reazione**: *\<un difensore o un attaccante sono un bersaglio valido per il tuo Condotto Spirituale>* usa [[#Condotto Spirituale]] su di lui.
 - **[[#Condotto Spirituale]]**.

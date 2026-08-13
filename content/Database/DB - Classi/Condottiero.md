@@ -4,6 +4,7 @@ PV: "8"
 Abilità: "[[Carisma]], [[Sopravvivenza]]"
 Descrizione: "[temporanea] full support, equipaggia degli stendardi che danno bonus e contrassegna un nemico su cui fare focus per poter recuperare abilità e curare."
 ---
+---
 ### Livello 1
 - **Reazione**: *<sei entro 10m da un alleato che ti vede o sente>* può immediatamente usare una sua [[04 Azioni e reazioni#Reazioni|reazione]], anche se non ne ha a disposizione (i requisiti devono comunque essere soddisfatti).
 - [[#Punti Ispirazione]] e [[#Nemico Designato]].

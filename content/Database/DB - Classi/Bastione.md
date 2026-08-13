@@ -4,6 +4,7 @@ PV: "10"
 Abilità: "[[Percezione]], [[Vigore]]"
 Descrizione: "[temporanea] classe difensiva e di supporto basato sul bloccare e usare armature, blocca gli attacchi diretti agli alleati, migliora armature e scudi."
 ---
+---
 ### Livello 1
 - **Reazione**: *\<sei adiacente a un difensore o sei sulla traiettoria di un proiettile a lui diretto>* puoi subire l’attacco al suo posto.
 - Hai i talenti [[Corazzato]] e [[Oplita]].

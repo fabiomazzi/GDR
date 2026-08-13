@@ -4,6 +4,7 @@ PV: "4"
 Abilità: "[[Carisma]], [[Volontà]]"
 Descrizione: "[temporanea] basato su incanalare, gli permette di curare e supportare o di fare danno e applicare debuff. Recupera mana quindi buon caster."
 ---
+---
 ### Livello 1
 - **Reazione**: *<sei entro 10m da un difensore>* lancia un [[13 Incantesimi|incantesimo rapido]] o un **[[#Incanalare]]** su di lui, puoi farlo anche dopo aver visto il tiro dei danni.
 - **[[#Incanalare]]**: puoi curare un bersaglio entro 10m di 1d4 per livello + la tua [[Volontà]], i [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] in eccesso diventano [[06 Scheda personaggio#🧱 Barriera|barriera]].

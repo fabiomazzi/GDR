@@ -4,6 +4,7 @@ PV: "12"
 Abilità: "[[Sopravvivenza]], [[Vigore]]"
 Descrizione: "[temporanea] cerca di scendere di punti vita per andare in ira. Subisce apposta attacchi per contrattaccare."
 ---
+---
 ### Livello 1
 - **Reazione**: *\<sei un difensore>* puoi fallire automaticamente le [[03 Combattimento#Risolvere un'azione#|difese]] legate all'attacco (sia per il danno che per eventuali veleni, effetti mentali, lesioni, etc.) per [[04 Azioni e reazioni#⚔️ Attaccare|attaccare]] gratuitamente l’attaccante.
 - Quando sei a metà [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] o meno puoi andare in [[#IRA|ira]].

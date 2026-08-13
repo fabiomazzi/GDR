@@ -4,6 +4,7 @@ PV: "6"
 Abilità: "[[Furtività]], [[Precisione]]"
 Descrizione: "[temporanea] basato sullo sfruttare il talento Colpo Furtivo e i veleni, quindi deve attaccare da nascosto riposizionandosi e nascondendosi di continuo."
 ---
+---
 ### Livello 1
 - **Reazione**: *<minacci l’attaccante con un'arma agile>* fai un [[03 Combattimento#Risolvere un'azione|attacco rapido]].
 - Guadagni il talento [[Colpo furtivo]], dopo aver compiuto un colpo furtivo puoi muoverti di 4m e [[04 Azioni e reazioni#🥷 Nascondersi|nasconderti]].

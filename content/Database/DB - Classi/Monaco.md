@@ -4,6 +4,7 @@ PV: "6"
 Abilità: "[[Destrezza]], [[Volontà]]"
 Descrizione: "[temporanea] ha tanti attacchi, Volontà potenzia il danno, le difese e fa applicare condizioni. Sopravvive principalmente schivando e grazie ad un paio di abilità difensive che danno armatura e resistenza ai danni."
 ---
+---
 ### Livello 1
 - **Reazione**: *<minacci l’attaccante con un’arma comoda>* puoi fare un [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]] con quell’arma.
 - Ogni estremità del tuo corpo è considerata un’arma [[14 Armi#Naturale|naturale]] [[14 Armi#Tipo di danno|affilata]], [[14 Armi#Tipo di danno|contundente]] e [[14 Armi#Tipo di danno|perforante]] che fa 1d4 danni, sei sempre considerato avere un’arma [[14 Armi#Naturale|naturale]] [[04 Azioni e reazioni#⚔️ Attaccare|secondaria]] impugnata e puoi [[06 Scheda personaggio#🛡️ Difese|parare]] con le tue armi naturali.

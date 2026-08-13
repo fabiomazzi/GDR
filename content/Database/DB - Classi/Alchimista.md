@@ -4,6 +4,7 @@ PV: "6"
 Abilità: "[[Conoscenze]], [[Magia]]"
 Descrizione: "[temporanea] basato sul creare composti (e veleni anche se meno) e usarli in combattimento."
 ---
+---
 ### Livello 1
 - **Reazione**: *<sei entro 10m dall’attaccante>* usa un composto comodo su di lui.
 - Sai usare un distillatore potenziato magicamente:

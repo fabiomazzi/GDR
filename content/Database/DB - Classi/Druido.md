@@ -4,6 +4,7 @@ PV: "6"
 Abilità: "[[Sopravvivenza]], [[Volontà]]"
 Descrizione: "[temporanea] scegli se avere un compagno animale o trasformarsi, nelle zone naturali ha parecchi bonus, abbastanza classico."
 ---
+---
 ## Prima di giocarlo per bene è da finire il bestiario
 ### Livello 1
 - **Reazione, se hai scelto Compagno Animale**: *<sei entro 10m dal tuo compagno animale>* il tuo Compagno Animale esegue gratuitamente la sua Reazione, le condizioni devono essere rispettate.

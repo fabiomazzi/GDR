@@ -4,6 +4,7 @@ PV: "8"
 Abilità: "[[Conoscenze]], [[Sopravvivenza]]"
 Descrizione: "[temporanea] basato sul combattere dentro un cerchio di rune che anche il party può attivare. Molto versatile perché i bonus sono di ogni tipo. Ha sopravvivenza e conoscenze perché queste rune le trova e studia in giro per il mondo, sono ovviamente magiche ma non sa bene il come funzionano, solo dove trovarle e come usarle."
 ---
+---
 ### Livello 1
 - **Reazione**: *<>* .
 - [[#Cerchio Runico]].

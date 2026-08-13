@@ -4,6 +4,7 @@ PV: "6"
 Abilità: "[[Destrezza]], [[Precisione]]"
 Descrizione: "[temporanea] attacca e fa parecchio danno con armi dalla distanza e da lancio. Sa usare le loro capacità speciali e le armi da lancio che ha comode fanno attacchi secondari."
 ---
+---
 ### Livello 1
 - **Reazione**: *<minacci un’attaccante entro 20m con un’arma dalla distanza impugnata oppure un'arma da lancio comoda>* fai un attacco rapido su di lui con quell’[[14 Armi|arma]].
 - Guadagni il talento [[Cecchino]].

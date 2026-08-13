@@ -4,6 +4,7 @@ PV: "10"
 Abilità: "[[Precisione]], [[Vigore]]"
 Descrizione: "[temporanea] si basa sul combattere a mani nude, lottare, afferrare e simili."
 ---
+---
 ### Livello 1
 - **Reazione**: *<minacci l’attaccante con una tua arma naturale>* lotta con lui, se lo [[04 Azioni e reazioni#🤼‍♂️ Lottare|afferri]] o [[04 Azioni e reazioni#🤼‍♂️ Lottare|spingi]] l’attacco fa metà danno.
 - Hai il talento [[Grappler]].

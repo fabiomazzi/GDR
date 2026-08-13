@@ -4,6 +4,7 @@ PV: "4"
 Abilità: "[[Magia]], [[Volontà]]"
 Descrizione: "[temporanea] ha un servitore non-morto permanente più un piccolo esercito di non-morti al seguito. Può consumare la loro energia vitale per bonus immediati, curare, esplosioni, etc"
 ---
+---
 ## Work in progress: da valutare se usare direttamente le schede degli npc per i non-morti, bisogna in ogni caso farne un po'. Ci sono varie meccaniche che rischiano di diventare "infinite" dato che il creare non-morti al momento non ha limite, tipo il recuperare mana all'infinito, bisogna tenerle d'occhio.
 ### Livello 1
 - **Reazione**: *<uno dei tuoi non-morti minaccia l’attaccante>* quel non-morto usa una capacità o un attacco su di lui.
