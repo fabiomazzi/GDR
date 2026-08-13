@@ -11,7 +11,7 @@ MED: Medicina
 PERC: Percezione
 PERS: Perspicacia
 SOP: Sopravvivenza
-VIG - Vigore
+VIG: Vigore
 VOL: Volontà
 ### Attivare un effetto magico
 Comprende il lanciare incantesimi, usare capacità magiche e usare un oggetto magico.
@@ -36,17 +36,12 @@ Ogni azione come attaccare, lanciare un incantesimo, usare un oggetto, intimidir
 ### Rigenerazione
 A fine turno recuperi punti vita pari alla tua rigenerazione.
 # Meccaniche e regolamento
-### Colpire, bonus al tiro per colpire e bonus al danno, sono la stessa cosa?
-No:
-- un bonus a colpire si mette sia al danno che al tiro per colpire
-- un bonus al tiro per colpire modifica solo il tiro per colpire
-- un bonus al danno modifica solo il danno
 ### Dimezzare e dividere
 Se un numero va dimezzato o diviso si arrotonda per eccesso.
 ### Pagare punti vita
 Indica la perdita di punti vita volontaria. Non può essere prevenuto in nessun modo. Armatura, resistenze, barriera, etc. non servono.
 ### “+2 a Destrezza” e “+2 alle prove di Destrezza” è la stessa cosa?
-No, "+2 a Destrezza" aumenta l’abilità Destrezza, quindi il colpire, parare e tutto quello basato sulla Destrezza, come i requisiti delle armi.
+No, "+2 a Destrezza" aumenta l’abilità Destrezza, quindi i danni con le armi agili, schivare e tutto quello basato sulla Destrezza, come i requisiti delle armi.
 "+2 alle prove di Destrezza" aggiunge solamente 2 al risultato totale delle tue prove di Destrezza.
 ### “X volte per riposo” è come “una volta per riposo”?
 No, a meno che non sia chiaramente specificato qualcosa che fa ripristinare gli usi di “X volte per riposo” NON ripristina gli usi di “UNA volta per riposo”.

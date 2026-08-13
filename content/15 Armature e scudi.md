@@ -120,8 +120,9 @@ Riduci il danno subito di questo valore. Non ha effetto contro danni magici o ne
 Bonus al tuo [[06 Scheda personaggio#🛡️ Difese|bloccare/parare]].
 ### DES/MAG/VIG/VOL
 [[05 Abilità|Abilità]] richiesta per usare l'equipaggiamento. I requisiti si sommano.
+
 Se per esempio voglio indossare un’armatura media (VIG 2), uno scudo grande (VIG 2) e una spada corta (VIG 1 o DES 1) devo avere uno fra:
 - VIG 5
-- VIG 4 e Destrezza 1 (in questo caso la spada corta userà DES come Colpire)
+- VIG 4 e DES 1 (in questo caso la spada corta aggiungerò DES invece che VIG al danno)
 ### Malus DES
 Malus alla tua [[Destrezza]].

@@ -24,7 +24,7 @@ I danni necrotici ignorano la barriera.
 ### 🛡️ Difese
 Aggiungi questi valori ai tiri per difenderti se usi una [[04 Azioni e reazioni#Reazioni|reazione]].
 - **Bloccare** → pari a [[Vigore]], richiede uno scudo o un oggetto con la proprietà “Bloccare”.
-- **Parare** → pari a [[Destrezza]], richiede un’arma qualunque o un oggetto con la proprietà “Parare”.
+- **Parare** → pari a [[Precisione]], richiede un’arma qualunque o un oggetto con la proprietà “Parare”.
 - **Schivare** → pari a [[Destrezza]].
 - **Risolutezza** → pari a [[Volontà]].
 
@@ -48,20 +48,8 @@ Le lingue che sai parlare, leggere e scrivere.
 - È pari al doppio della tua [[Magia]].
 ### 🎯 Precisione
 Pari a [[Precisione]].
-Quando attacchi, aggiungi questo valore al tiro per colpire e al danno che fai.
+Quando attacchi o lanci qualcosa, aggiungi questo valore al tiro per colpire.
 Vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]].
-
-**Se Colpire e Difesa non sono specificati, usa questa tabella:**
-
-| Tipo di attacco                   | Colpire      | Difesa                       |
-| --------------------------------- | ------------ | ---------------------------- |
-| Fisico a contatto                 | Vigore | Schivare / Parare / Bloccare |
-| Fisico a distanza                 | Destrezza    | Schivare / Bloccare          |
-| Magico con tiro per colpire       | Destrezza    | Schivare                     |
-| Magico a distanza (senza attacco) | Magia        | Volontà                      |
-| Magico ad area (danno)            | Magia        | Schivare                     |
-| Magico ad area (mentale)          | Magia        | Volontà                      |
-| Non magico ad area                | Destrezza    | Schivare / Bloccare          |
 ### 🩷 Punti Vita (PV)
 Rappresentano lo stato psicofisico del personaggio, un misto di salute fisica, determinazione ed energia. Quando subisci danno sottrailo dai tuoi punti vita.
 A 0 o meno punti vita, [[11 Condizioni e lesioni#😑 Svenuto|svieni]]. Se torni a 1 o più punti vita, rinvieni.

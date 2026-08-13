@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "6"
-Abilità: Destrezza, Furtività
+Abilità: "[[Destrezza]], [[Furtività]]"
 Descrizione: Da fare
 ---
 Descrizione della classe, che farò con calma.

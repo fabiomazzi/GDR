@@ -1,7 +1,7 @@
 # Condizioni fisiche
 ### 🙈 Accecato
 Se vuoi capire la posizione esatta di un bersaglio devi superare una prova di [[Percezione]] con [[05 Abilità#Fare una prova di abilità|DIF]] pari a 3 ogni 2m di distanza.  
--5 a [[06 Scheda personaggio|colpire]], a [[02 Incontri e riposare|iniziativa]] e ai tiri per difenderti.  
+-5 a [[06 Scheda personaggio#🎯 Precisione|precisione]], a [[02 Incontri e riposare|iniziativa]] e ai tiri per difenderti.  
 Non puoi usare [[04 Azioni e reazioni#Reazioni|reazioni]].  
 Fallisci automaticamente le prove basate sulla vista.
 ### 🤼‍♂️ Afferrato
@@ -17,14 +17,14 @@ Fallisci in automatico tutte le prove basate sull’udito.
 Devi vedere chi ti sta parlando ed entrambi dovete essere concentrati per dialogare.
 ### 🧎 Atterrato
 Quando diventi atterrato causi [[04 Azioni e reazioni#Reazioni|reazioni]].  
-Hai -2 ai tiri per difenderti e a [[06 Scheda personaggio|colpire]].  
+Hai -2 ai tiri per difenderti e a [[06 Scheda personaggio#🎯 Precisione|precisione]].  
 Rialzarti da terra costa 4m di movimento.
 Se vieni atterrato durante un tuo movimento, quel movimento si interrompe e viene perso.
 ### ☠️ Avvelenato
 Sei afflitto da un [[16 Composti e veleni#Veleni|veleno]]. Vedi [[16 Composti e veleni#Veleni|veleni]]
 ### ❄️ Congelato
 La tua velocità è dimezzata.  
-Hai -2 a colpire.
+Hai -2 a [[06 Scheda personaggio#🎯 Precisione|precisione]].
 Non puoi usare [[04 Azioni e reazioni#Reazioni|reazioni]].  
 Perdi la condizione se subisci almeno 5 danni da fuoco o vieni esposto ad una fonte di calore per 5 minuti.
 ### ☢️ Corroso
@@ -42,13 +42,13 @@ Sei trasformato in una statua di pietra magica.
 Non ti accorgi di quello che ti succede intorno e non puoi agire.  
 Hai 30 di [[06 Scheda personaggio#🦺 Armatura|armatura]].
 ### 🩸 Sanguinante
-All'inizio del tuo turno subisci X danni. Se non specificato, X è il [[06 Scheda personaggio|colpire]] di chi ha causato il sanguinamento.  
+All'inizio del tuo turno subisci X danni. Se non specificato, X è il [[06 Scheda personaggio#🎯 Precisione|precisione]] di chi ha causato il sanguinamento.  
 Più sanguinamenti vengono considerati condizioni separate.
 ### 🙊 Silenziato
 Non puoi parlare o emettere suoni.  
 Non puoi lanciare incantesimi e non puoi eseguire azioni che richiedono la voce.
 ### 🔥 Ustionato
-Hai -1 alle prove di [[Destrezza]], [[06 Scheda personaggio|colpire]], [[06 Scheda personaggio#🛡️ Difese|schivare]] e [[06 Scheda personaggio#🛡️ Difese|parare]].
+Hai -1 alle prove di [[Destrezza]], [[06 Scheda personaggio#🎯 Precisione|precisione]], [[06 Scheda personaggio#🛡️ Difese|schivare]] e [[06 Scheda personaggio#🛡️ Difese|parare]].
 Ogni volta oltre alla prima che diventeresti ustionato, aumenta questo malus di 1.
 # Condizioni mentali
 ### 😴 Addormentato
@@ -110,8 +110,8 @@ _Ai fini della narrazione una Lesione Critica rende l’arto inutilizzabile, per
 - Grave: -4 alle prove basate sull’udito e -2 alle prove di [[Destrezza]]
 - Critica: sei [[#🙉 Assordato|assordato]]
 ### 👁️ Occhio
-- Lieve: -1 a [[06 Scheda personaggio|colpire]], [[06 Scheda personaggio#🛡️ Difese|difese]], [[02 Incontri e riposare#Incontro, turno e round|iniziativa]] e alle prove di [[Percezione]] basate sulla vista
-- Grave: -2 a [[06 Scheda personaggio|colpire]], [[06 Scheda personaggio#🛡️ Difese|difese]], [[02 Incontri e riposare#Incontro, turno e round|iniziativa]] e alle prove di [[Percezione]] basate sulla vista
+- Lieve: -1 a [[06 Scheda personaggio#🎯 Precisione|precisione]], [[06 Scheda personaggio#🛡️ Difese|difese]], [[02 Incontri e riposare#Incontro, turno e round|iniziativa]] e alle prove di [[Percezione]] basate sulla vista
+- Grave: -2 a [[06 Scheda personaggio#🎯 Precisione|precisione]], [[06 Scheda personaggio#🛡️ Difese|difese]], [[02 Incontri e riposare#Incontro, turno e round|iniziativa]] e alle prove di [[Percezione]] basate sulla vista
 - Critica: sei [[#🙈 Accecato|accecato]]
 ### 👄 Bocca
 - Lieve: i bersagli hanno +1 per resistere ai tuoi [[13 Incantesimi|incantesimi]] e hai -2 alle prove di [[Carisma]] che includono il parlare
@@ -122,15 +122,15 @@ _Ai fini della narrazione una Lesione Critica rende l’arto inutilizzabile, per
 - Grave: ogni volta che usi un'[[04 Azioni e reazioni#Azioni|azione]] subisci 2d4 danni e diventi [[#😵‍💫 Frastornato|frastornato]] fino all'inizio del tuo prossimo turno
 - Critica: subisci 4d4 danni ogni volta che usi un’[[04 Azioni e reazioni#Azioni|azione]], in più sei [[#😵‍💫 Frastornato|frastornato]]
 ### ✋ Mano destra
-- Lieve: hai -1 a [[06 Scheda personaggio#🎯 Colpire|colpire]], [[06 Scheda personaggio#🛡️ Difese|bloccare]], [[06 Scheda personaggio#🛡️ Difese|parare]] e alle prove di [[05 Abilità|abilità]] che richiedono l’uso delle mani
-- Grave: hai -3 a [[06 Scheda personaggio#🎯 Colpire|colpire]], [[06 Scheda personaggio#🛡️ Difese|bloccare]], [[06 Scheda personaggio#🛡️ Difese|parare]] e alle prove di [[05 Abilità|abilità]] che richiedono l’uso delle mani
+- Lieve: hai -1 a [[06 Scheda personaggio#🎯 Precisione|precisione]], [[06 Scheda personaggio#🛡️ Difese|bloccare]], [[06 Scheda personaggio#🛡️ Difese|parare]] e alle prove di [[05 Abilità|abilità]] che richiedono l’uso delle mani
+- Grave: hai -3 a [[06 Scheda personaggio#🎯 Precisione|precisione]], [[06 Scheda personaggio#🛡️ Difese|bloccare]], [[06 Scheda personaggio#🛡️ Difese|parare]] e alle prove di [[05 Abilità|abilità]] che richiedono l’uso delle mani
 - Critica: perdi l’utilizzo della mano, non puoi compiere azioni che richiedono due mani come usare arma e scudo o un’arma a due mani.
 Azioni complicate da fare con una sola mano, come arrampicarsi, nuotare e scassinare, hanno [[05 Abilità#Fare una prova di abilità|DIF]] raddoppiata.
 
 *⚠️ se perdi l’utilizzo di entrambe le mani non puoi compiere azioni che richiedono l’uso delle mani*
 ### 🤚 Mano sinistra
-- Lieve: hai -1 a [[06 Scheda personaggio#🎯 Colpire|colpire]], [[06 Scheda personaggio#🛡️ Difese|bloccare]], [[06 Scheda personaggio#🛡️ Difese|parare]] e alle prove di [[05 Abilità|abilità]] che richiedono l’uso delle mani
-- Grave: hai -3 a [[06 Scheda personaggio#🎯 Colpire|colpire]], [[06 Scheda personaggio#🛡️ Difese|bloccare]], [[06 Scheda personaggio#🛡️ Difese|parare]] e alle prove di [[05 Abilità|abilità]] che richiedono l’uso delle mani
+- Lieve: hai -1 a [[06 Scheda personaggio#🎯 Precisione|precisione]], [[06 Scheda personaggio#🛡️ Difese|bloccare]], [[06 Scheda personaggio#🛡️ Difese|parare]] e alle prove di [[05 Abilità|abilità]] che richiedono l’uso delle mani
+- Grave: hai -3 a [[06 Scheda personaggio#🎯 Precisione|precisione]], [[06 Scheda personaggio#🛡️ Difese|bloccare]], [[06 Scheda personaggio#🛡️ Difese|parare]] e alle prove di [[05 Abilità|abilità]] che richiedono l’uso delle mani
 - Critica: perdi l’utilizzo della mano, non puoi compiere azioni che richiedono due mani come usare arma e scudo o un’arma a due mani.
 	Azioni complicate da fare con una sola mano, come arrampicarsi, nuotare e scassinare, hanno [[05 Abilità#Fare una prova di abilità|DIF]] raddoppiata.
 

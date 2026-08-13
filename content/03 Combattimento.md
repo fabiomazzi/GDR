@@ -8,43 +8,42 @@
 ### 🗡️ Gli altri partecipanti:
 - In ordine di [[02 Incontri e riposare|iniziativa]], possono eseguire una [[04 Azioni e reazioni#Reazioni|reazione]].
 ### 🎲 Risoluzione:
-- L’attaccante tira 1d12 + il [[06 Scheda personaggio#🎯 Colpire|colpire]] specificato dall'attacco.
-- I difensori tirano 1d12.
-	- se usano una [[04 Azioni e reazioni#Reazioni|reazione]] aggiungono la [[06 Scheda personaggio#🛡️ Difese|difesa]] specificata dall’attacco e bloccano/parano/schivano/resistono l'attacco.
-*se un effetto si attiva quando "blocchi/pari/schivi/resisti ad un attacco devi usare una reazione per farlo, se superi il tiro semplicemente con il d12 non si attiva*
+- L’attaccante tira 1d12 e aggiunge la sua [[Precisione]]. Questo è il tiro per colpire.
+- I difensori tirano 1d12. Questo è il tiro per difendersi.
+	- usando una [[04 Azioni e reazioni#Reazioni|reazione]] si può aggiungere una [[06 Scheda personaggio#🛡️ Difese|difesa]] al tiro per difendersi, in questo caso si dice che provi a bloccare/parare/schivare/resistere l'attacco.
 
 - **Attacco > difesa**
-    - Si calcola il danno o gli effetti:
-        - si tirano i dadi del danno
-        - si aggiunge il [[06 Scheda personaggio#🎯 Colpire|colpire]] usato per l’attacco
+    - Si calcolano il danno o gli effetti:
+        - si tirano i dadi dell'arma, incantesimo o altri effetti che fanno danno 
+        - si aggiunge [[Destrezza]], [[Magia]] o [[Vigore]] in base all'attacco
         - si aggiungono eventuali modifiche da capacità, oggetti, etc.
         - si riduce il totale per il valore di [[06 Scheda personaggio#🦺 Armatura|armatura]]
         - si dimezza il totale rimasto per eventuali resistenze
-        - Se si ha fatto 12 col dado per colpire, o se altri effetti lo specificano, si applica una [[11 Condizioni e lesioni#Lesioni|lesioni]] casuale in aggiunta al danno
-        - Le [[04 Azioni e reazioni#Reazioni|reazioni]] che hanno “che sta subendo danno” come requisito possono essere usate ora  
+        - se si ha fatto 12 col dado per colpire, o se altri effetti lo specificano, si applica una [[11 Condizioni e lesioni#Lesioni|lesioni]] casuale in aggiunta al danno
+        - le [[04 Azioni e reazioni#Reazioni|reazioni]] che hanno “che sta subendo danno” come requisito possono essere usate ora
 - **Attacco <= difesa**
     - Nessun danno o effetto.
 
 ⚔️ Quando risolvi l’azione attacco, fai un [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]] con le tue [[06 Scheda personaggio#🧰 Armi e Oggetti|armi secondarie]].
-*Gli attacchi rapidi non aggiungono il colpire al danno e non causano Reazioni.*
+*Gli attacchi rapidi non aggiungono Vigore al danno e non causano reazioni.*
 
-🏹 Se attacchi con un’arma dalla distanza un nemico [[#Distanze|adiacente]], non mettere [[06 Scheda personaggio#🎯 Colpire|colpire]] al danno.
+🏹 Se attacchi con un’arma dalla distanza un nemico [[#Distanze|adiacente]], non aggiungere la [[Destrezza]] al danno.
 
-🎯 Se con un'arma dalla distanza devi colpire uno spazio, ogni metro aumenta di 1 il risultato necessario.
+🎯 Se con un'arma dalla distanza devi colpire uno spazio, ogni metro di distanza aumenta di 1 il risultato necessario.
 *es: lancio un oggetto in uno spazio a 4m -> devo fare 4 o più col tiro per colpire*
 *lancio un oggetto a 14m -> devo fare 14 o più col tiro per colpire*
 
-**Se Colpire e Difesa non sono specificati, usa questa tabella:**
+**Per sapere che difesa usare e che abilità aggiungere al danno usa questa tabella:**
 
-| Tipo di attacco                   | Colpire      | Difesa                       |
-| --------------------------------- | ------------ | ---------------------------- |
-| Fisico a contatto                 | Vigore | Schivare / Parare / Bloccare |
-| Fisico a distanza                 | Destrezza    | Schivare / Bloccare          |
-| Magico con tiro per colpire       | Destrezza    | Schivare                     |
-| Magico a distanza (senza attacco) | Magia        | Volontà                      |
-| Magico ad area (danno)            | Magia        | Schivare                     |
-| Magico ad area (mentale)          | Magia        | Volontà                      |
-| Non magico ad area                | Destrezza    | Schivare / Bloccare          |
+| Tipo di attacco                   | Danno     | Difesa                       |
+| --------------------------------- | --------- | ---------------------------- |
+| Fisico a contatto                 | Vigore    | Schivare / Parare / Bloccare |
+| Fisico a distanza                 | Destrezza | Schivare / Bloccare          |
+| Magico con tiro per colpire       | Destrezza | Schivare                     |
+| Magico a distanza (senza attacco) | Magia     | Volontà                      |
+| Magico ad area (danno)            | Magia     | Schivare                     |
+| Magico ad area (mentale)          | Magia     | Volontà                      |
+| Non magico ad area                | Destrezza | Schivare / Bloccare          |
 # Distanze
 - **Adiacente:** nei quadretti/esagoni intorno al tuo.
 - **A contatto**: puoi raggiungere il bersaglio con un’arma da mischia o naturale.

@@ -4,7 +4,7 @@ In base alla tipologia possono essere:
 - fatti ingerire
 - cosparsi sul bersaglio
 - lanciati, trattali come un'arma [[14 Armi#(D) Dalla distanza|dalla distanza]] e [[14 Armi#(L) Da lancio|da lancio]] con gittata 6m
-  *per colpire uno spazio invece che un bersaglio vedi [[03 Combattimento|combattimento]]*
+  *per colpire uno spazio invece che un bersaglio vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]]*
 
 Per [[12 Magia#Identificare|identificare]] un composto bisogna superare la sua [[05 Abilità#Fare una prova di abilità|DIF]] con una delle [[05 Abilità|abilità]] con cui si crea.  
 *es: per capire che in un cibo o una fiala c’è una Pozione di guarigione, bisogna tirare Medicina o Sopravvivenza superando la sua DIF*
@@ -77,7 +77,7 @@ Per un’ora hai +2 alle prove di [[Furtività]] e muoversi furtivamente non è 
 **Uso**: ingerimento
 **Difesa**: [[Vigore]]
 ### 🥊 Pozione del combattente
-Per 1 ora hai +1 a [[06 Scheda personaggio|colpire]].
+Per 1 ora hai +2 a [[06 Scheda personaggio#🎯 Precisione|precisione]] e i tuoi attacchi fisici fanno 2 danni extra.
 
 **Requisiti**: 5 punti in [[Magia]]
 **Uso**: ingerimento
