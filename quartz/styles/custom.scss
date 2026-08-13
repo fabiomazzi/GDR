@@ -52,6 +52,8 @@ a.internal {
       td:first-child, th:first-child {
         display: inline;
         font-weight: 700;
+        font-size: 1rem;
+
         color: var(--dark);
 
         &::after {
