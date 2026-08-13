@@ -1,9 +1,9 @@
 ---
 Tipo: non-morto esercito
-PV: 4 x Liv
+PV: "4"
 Danno: 1d4 C
-Colpire: "2"
+Precisione: "2"
 Difesa: Armatura 1
 Abilità:
-Liv richiesto: "1"
+Liv: "1"
 ---

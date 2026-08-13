@@ -2,7 +2,7 @@
 Tipo: nemico
 PV:
 Danno:
-Colpire:
+Precisione:
 Difesa:
 Abilità:
 Livello:

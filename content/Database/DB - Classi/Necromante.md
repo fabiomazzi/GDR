@@ -42,13 +42,15 @@ views:
         - Tipo == "non-morto esercito"
     order:
       - file.name
-      - Liv richiesto
+      - Liv
       - PV
+      - Precisione
       - Danno
-      - Colpire
       - Difesa
       - Abilità
     sort:
+      - property: Liv
+        direction: ASC
       - property: Liv richiesto
         direction: ASC
     columnSize:

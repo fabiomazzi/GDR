@@ -19,7 +19,7 @@
         - si aggiungono eventuali modifiche da capacità, oggetti, etc.
         - si riduce il totale per il valore di [[06 Scheda personaggio#🦺 Armatura|armatura]]
         - si dimezza il totale rimasto per eventuali resistenze
-        - se si ha fatto 12 col dado per colpire, o se altri effetti lo specificano, si applica una [[11 Condizioni e lesioni#Lesioni|lesioni]] casuale in aggiunta al danno
+        - se il dado per colpire ha fatto 12, o se altri effetti lo specificano, si applica una [[11 Condizioni e lesioni#Lesioni|lesioni]] casuale in aggiunta al danno
         - le [[04 Azioni e reazioni#Reazioni|reazioni]] che hanno “che sta subendo danno” come requisito possono essere usate ora
 - **Attacco <= difesa**
     - Nessun danno o effetto.
