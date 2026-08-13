@@ -228,6 +228,10 @@ plugins:
         - Descrizione
         - PV
         - Abilità
+        - Classi
+        - Provenienze
+        - Razze
+        - Linguaggi
       excludedProperties: []
       hidePropertiesView: false
       delimiters: "---"
