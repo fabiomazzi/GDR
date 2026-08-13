@@ -30,7 +30,7 @@ Un tiro di [[Magia]] o [[Sopravvivenza]] con [[05 Abilità#Fare una prova di abi
 Quando crei un Compagno Animale o sali di livello, le sue caratteristiche vengono modificate:
 - il suo livello diventa pari al tuo livello da Druido
 - i suoi [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] diventano 6 per livello
-- [[06 Scheda personaggio#🦺 Armatura|armatura]], [[06 Scheda personaggio#🛡️ Difese|difese]] e [[06 Scheda personaggio#🎯 Colpire|colpire]] sono pari alle sue originali oppure il tuo livello da Druido, a tua scelta
+- [[06 Scheda personaggio#🦺 Armatura|armatura]], [[06 Scheda personaggio#🛡️ Difese|difese]] e [[06 Scheda personaggio#🎯 Precisione|precisione]] sono pari alle sue originali oppure il tuo livello da Druido, a tua scelta
 *A discrezione del Master possono migliorare anche le sue abilità e può guadagnare nuove capacità, utile se per fini ruolistici si vuole mantenere lo stesso animale fino a livelli alti. Come riferimento si possono usare abilità e capacità di animali del nuovo livello.*
 
 Potete comunicare telepaticamente e segue ciecamente i tuoi comandi agendo subito prima o subito dopo di te.  

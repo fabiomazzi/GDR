@@ -12,7 +12,7 @@ Descrizione: "[temporanea] si muove come vuole sul campo di battaglia e sopravvi
 - Muoverti su un terreno instabile, detriti e simili non è un movimento complesso.
 - Quando colpisci con un [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]] applica un sanguinamento.
 ### Livello 2
-- Per ogni 6m che ti muovi in un turno hai +1 a [[06 Scheda personaggio#🛡️ Difese|schivare]] e a [[06 Scheda personaggio#🎯 Colpire|colpire]] fino al tuo prossimo turno.
+- Per ogni 6m che ti muovi in un turno hai +1 a [[06 Scheda personaggio#🛡️ Difese|schivare]] e a [[06 Scheda personaggio#🎯 Precisione|precisione]] fino al tuo prossimo turno.
 - Quando attraversi uno spazio occupato da un nemico, fai un [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]] su quel nemico.
 - Puoi [[06 Scheda personaggio#🛡️ Difese|schivare]] gli attacchi che potrebbero essere [[06 Scheda personaggio#Difese|bloccati]] o [[06 Scheda personaggio#🛡️ Difese|parati]].
 ### Livello 3

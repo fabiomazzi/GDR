@@ -1,15 +1,14 @@
 ---
 Tipo: classe
 PV: "4"
-Abilità: "[[Magia]], [[Volontà]]"
-Descrizione: "[temporanea] basato su incanalare, gli permette di curare e supportare o di fare danno e applicare debuff. Recupera mana quindi buon caster. In casi estremi picchia grazie all'arma sacra, ma i 4 pv e il fare fatica ad indossare armature non aiutano."
+Abilità: "[[Carisma]], [[Volontà]]"
+Descrizione: "[temporanea] basato su incanalare, gli permette di curare e supportare o di fare danno e applicare debuff. Recupera mana quindi buon caster."
 ---
 ### Livello 1
 - **Reazione**: *<sei entro 10m da un difensore>* lancia un [[13 Incantesimi|incantesimo rapido]] o un **[[#Incanalare]]** su di lui, puoi farlo anche dopo aver visto il tiro dei danni.
 - **[[#Incanalare]]**: puoi curare un bersaglio entro 10m di 1d4 per livello + la tua [[Volontà]], i [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] in eccesso diventano [[06 Scheda personaggio#🧱 Barriera|barriera]].
 - **[[#Incanalare]]**: puoi infliggere ad un bersaglio entro 10m 1d4 [[03 Combattimento#tipi di danno|danni necrotici]] per livello. Non devi vederlo, basta che sei consapevole della sua presenza. Si può difendere con [[Vigore]] contro la tua [[Volontà]].
 - Una volta per riposo, come [[02 Incontri e riposare#Il tuo turno|azione]] puoi pagare un numero qualsiasi di [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] per recuperare lo stesso valore di [[06 Scheda personaggio#🔮 Mana|mana]] e un terzo come utilizzi di [[#Incanalare]].
-- **[[#Arma Sacra]]**.
 ### Livello 2
 - **[[#Incanalare]]**: tocca un’arma non sacra per benedirla, per un numero di turni pari alla tua [[Volontà]] fa danni extra pari alla tua [[Volontà]].
 - **[[#Incanalare]]**: tocca un’armatura per benedirla, per un numero di turni pari alla tua [[Volontà]] guadagna un bonus di [[06 Scheda personaggio#🦺 Armatura|armatura]] pari alla tua [[Volontà]].
@@ -24,10 +23,6 @@ Descrizione: "[temporanea] basato su incanalare, gli permette di curare e suppor
 - **Reazione**: consuma 5 utilizzi di [[#Incanalare]] per annullare un'[[04 Azioni e reazioni#Azioni|azione]].
 
 ---
-## Arma Sacra
-Fai un rituale di 12 ore ininterrotte alla fine del quale un'arma che impugni diventa benedetta da un custode. Per creare una nuova arma sacra devi rifare lo stesso rituale. Quando consacri un'arma, le altre perdono la loro benedizione.
-
-Quando attacchi con quell'arma puoi usare metà della tua [[Volontà]] come [[06 Scheda personaggio#🎯 Colpire|colpire]], i suoi requisiti rimangono gli stessi.
 ## Incanalare
 Fai da tramite per permettere ad un custode di interagire col mondo materiale, hai un numero di utilizzi di Incanalare pari alla tua [[Volontà]], tranne dove indicato è un'azione e consuma un utilizzo.
 Recuperi tutti gli utilizzi di Incanalare riposando.

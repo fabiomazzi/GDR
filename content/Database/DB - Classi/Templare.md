@@ -20,12 +20,12 @@ Descrizione: "[temporanea] mena con l'aiuto dei custodi e la sua arma sacra che 
 - **[[#Fervore]]**: puoi [[06 Scheda personaggio#Difese|bloccare]] con la tua arma.
 - **[[#Fervore]]**: applica la tua [[06 Scheda personaggio#🦺 Armatura|armatura]] ai [[03 Combattimento#tipi di danno|danni magici]] che stai subendo.
 ### Livello 4
-- **[[#Fervore]]**: quando calcoli il danno di un attacco raddoppia il colpire e il dado dell'arma. Consuma 2 utilizzi.
+- **[[#Fervore]]**: quando calcoli il danno di un attacco raddoppia il danno. Consuma 2 utilizzi.
 ---
 ## Arma Sacra
 Fai un rituale di 12 ore ininterrotte alla fine del quale un'arma che impugni diventa benedetta da un custode. Per creare una nuova arma sacra devi rifare lo stesso rituale. Quando consacri un'arma, le altre perdono la loro benedizione.
 
-Quando attacchi con quell'arma puoi sempre usare [[Volontà]] come [[06 Scheda personaggio#🎯 Colpire|colpire]], i suoi requisiti rimangono gli stessi.
+Quando attacchi con quell'arma puoi aggiungere metà della tua [[Volontà]] a [[schedacome [[06 Scheda personaggio#🎯 Colpire|colpire]], i suoi requisiti rimangono gli stessi.
 ## Fervore
 Fai da tramite per permettere ad un custode di interagire col mondo materiale, hai un numero di utilizzi di Fervore pari alla tua [[Volontà]], tranne dove indicato è un'[[02 Incontri e riposare#Il tuo turno|azione]] e consuma un utilizzo.
 Recuperi tutti gli utilizzi di Fervore riposando.

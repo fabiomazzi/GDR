@@ -13,7 +13,7 @@ Descrizione: "[temporanea] ha tanti attacchi, Volontà potenzia il danno, le dif
 ### Livello 2
 - I tuoi attacchi fanno danno bonus pari a metà della tua [[Volontà]].
 - Guadagni il talento [[Atleta]].
-- Un numero di volte per riposo pari alla tua [[Volontà]], puoi aggiungere una [[11 Condizioni e lesioni|condizione]] ad un’attacco, dura un turno, per resistere si deve tirare [[Vigore]] contro il risultato del tiro per colpire: accecato, assordato, atterrato, confuso, sanguinante, silenziato.
+- Un numero di volte per riposo pari alla tua [[Volontà]], puoi aggiungere una [[11 Condizioni e lesioni|condizione]] ad un’attacco, dura un turno, per resistere si deve tirare [[Vigore]] contro il risultato del tiro per colpire, scegli fra: [[11 Condizioni e lesioni#🙈 Accecato|accecato]], [[11 Condizioni e lesioni#🙉 Assordato|assordato]], [[11 Condizioni e lesioni#🧎 Atterrato|atterrato]], [[11 Condizioni e lesioni#🌀 Confuso|confuso]], [[11 Condizioni e lesioni#🩸 Sanguinante|sanguinante]], [[11 Condizioni e lesioni#🙊 Silenziato|silenziato]].
 ### Livello 3
 - Sei sempre considerato avere due armi [[14 Armi#Naturale|naturali]] [[04 Azioni e reazioni#⚔️ Attaccare|secondarie]] impugnate.
 - Quando colpisci un nemico fai danni bonus pari al numero di volte che hai già colpito quel nemico durante questo incontro, fino ad un massimo pari al tuo livello da Monaco.

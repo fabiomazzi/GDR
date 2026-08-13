@@ -7,7 +7,7 @@ Descrizione: "[temporanea] basato sul combattere dentro un cerchio di rune che a
 ### Livello 1
 - **Reazione**: *<>* .
 - [[#Cerchio Runico]].
-- Mentre sei dentro al tuo [[#Cerchio Runico]] hai un bonus ad [[06 Scheda personaggio#🦺 Armatura|armatura]] e [[06 Scheda personaggio#🎯 Colpire|colpire]] pari al tuo livello da Runologo.
+- Mentre sei dentro al tuo [[#Cerchio Runico]] hai un bonus ad [[06 Scheda personaggio#🦺 Armatura|armatura]], [[06 Scheda personaggio#🎯 Precisione|precisione]] e ai danni pari al tuo livello da Runologo.
 ### Livello 2
 - All’inizio del tuo turno puoi consumare una runa per ricentrare il cerchio su di te.
 - Mentre sei dentro al tuo [[#Cerchio Runico]] hai +2 alla tua difesa più bassa.

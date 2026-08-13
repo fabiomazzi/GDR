@@ -23,20 +23,20 @@ Quando uno spirito che hai manifestato esegue un’azione con successo (colpisce
 La gittata del tuo Condotto Spirituale è 10m.
 ### Livello 1️
 Quando manifesti uno spirito può eseguire una di queste azioni:
-- Attaccare: può solo essere [[06 Scheda personaggio#🛡️ Difese|schivato]], fa [[03 Combattimento#tipi di danno|danni necrotici]], usa la tua [[Volontà]] come [[06 Scheda personaggio#🎯 Colpire|colpire]]
+- Attaccare: può solo essere [[06 Scheda personaggio#🛡️ Difese|schivato]], fa [[03 Combattimento#tipi di danno|danni necrotici]], usa la tua [[Volontà]] come [[06 Scheda personaggio#🎯 Precisione|precisione]].
 - Applicare una [[11 Condizioni e lesioni#Lesioni|lesione]]: si resiste con [[Vigore]] contro la tua [[Volontà]]
 - Curare: cura 1d4 per livello + [[Volontà]], i [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] in eccesso diventano Barriera
 - Rinsanire: si può ritirare la difesa contro una [[11 Condizioni e lesioni#Condizioni mentali|condizione mentale]] da cui è afflitto, ha +1 a quel tiro
 ### Livello 2
 Aggiungi alle azioni disponibili quando manifesti uno spirito:
-- Usalo come tramite: fa immediatamente un attacco che usa la tua [[Volontà]] per [[06 Scheda personaggio#🎯 Colpire|colpire]] (non fa danno, l’unico effetto dell’attacco è l’[[13 Incantesimi|incantesimo]])
+- Usalo come tramite: lo spirito fa immediatamente un attacco che usa la tua [[Volontà]] come [[06 Scheda personaggio#🎯 Precisione|precisione]] (non fa danno, l’unico effetto dell’attacco è l’[[13 Incantesimi|incantesimo]])
 - Intimidire: [[04 Azioni e reazioni#😠 Intimidire|intimidisci]] usando la somma della tua [[Volontà]] e [[Carisma]]
 ### Livello 3
 Una volta per riposo, se ad inizio turno sei sotto l’effetto di una condizione mentale puoi lasciare il controllo del tuo corpo ad uno spirito e ignorare tale condizione durante il tuo prossimo turno.
 
 Aggiungi alle azioni disponibili quando manifesti uno spirito:
 - Lo spirito segue un bersaglio: dura un'ora o puoi congedarlo prima, puoi avere un solo spirito attivo per bersaglio, si resiste con [[06 Scheda personaggio#🛡️ Difese|risolutezza]], scegli fra questi effetti:
-    - +1 oppure -1 a [[06 Scheda personaggio#🎯 Colpire|colpire]]
+    - +1 oppure -1 a [[06 Scheda personaggio#🎯 Precisione|precisione]]
     - +1 oppure -1 alle [[06 Scheda personaggio#🛡️ Difese|difese]]
     - +1 oppure -1 ad un [[05 Abilità|abilità]] a tua scelta
     - +1 ad [[02 Incontri e riposare#Incontro, turno e round|iniziativa]], non puoi essere colto alla sprovvista, all’inizio del combattimento ripristina una [[04 Azioni e reazioni#Reazioni|reazione]]

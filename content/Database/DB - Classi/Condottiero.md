@@ -54,7 +54,8 @@ Come [[02 Incontri e riposare#Il tuo turno|azione]] puoi spendere 1 Punto Ispira
 - inverti la posizione di due alleati adiacenti fra di loro, è un normale movimento (se sono [[11 Condizioni e lesioni#🦶 Intrappolato|intrappolati]], [[11 Condizioni e lesioni#🗿 Pietrificato|pietrificati]], [[11 Condizioni e lesioni#🪢 Immobilizzato|immobilizzati]], etc. non possono farlo)
 - cura un qualunque numero di bersagli per un totale di 1d4 per livello, suddivisi come preferisci
 ## Nemico designato
-All’inizio del tuo turno puoi designare un nemico, chi è sotto l’effetto di un tuo stendardo ha +1\* a [[06 Scheda personaggio#🎯 Colpire|colpire]] contro di lui e quando viene sconfitto recuperi un Punto Ispirazione.
+All’inizio del tuo turno puoi designare un nemico, chi è sotto l’effetto di un tuo stendardo e lo attacca ha +1\* a [[06 Scheda personaggio#🎯 Precisione|precisione]] e fa danni extra pari al tuo livello da Condottiero
+Quando un Nemico Designato viene sconfitto recuperi un Punto Ispirazione.
 Puoi avere un Nemico Designato alla volta, considera solo l'ultimo scelto.
 
 Non puoi scegliere critter o nemici di livello troppo basso, a discrezione del master *(quando i nemici avranno un livello/grado sfida scriverò con più chiarezza questa regola)*.

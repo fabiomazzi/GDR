@@ -8,7 +8,7 @@ Descrizione: "[temporanea] cura, debuff, ottimo per trattare o causare lesioni e
 - **Reazione**: *<minacci l’attaccante a contatto>* attacca usando [[Medicina]], se colpisci dimezza il danno dell’attacco, il tuo attacco non ha altri effetti.
 - [[04 Azioni e reazioni#🩹 Trattare|Trattare]] non causa [[04 Azioni e reazioni#Reazioni|reazioni]].
 - Un numero di volte per [[02 Incontri e riposare#Riposare|riposo]] pari alla tua [[Medicina]], quando [[04 Azioni e reazioni#🩹 Trattare|tratti]] puoi in aggiunta curare il bersaglio di [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] pari a 1d4 per livello da Medico.
-- Puoi [[04 Azioni e reazioni#⚔️ Attaccare|attaccare]] usando [[Medicina]] per [[06 Scheda personaggio#🎯 Colpire|colpire]], applica una [[11 Condizioni e lesioni#Lesioni|lesione]] come unico effetto di questo attacco.
+- Puoi [[04 Azioni e reazioni#⚔️ Attaccare|attaccare]] usando [[Medicina]] invece che [[06 Scheda personaggio#🎯 Precisione|precisione]], applica una [[11 Condizioni e lesioni#Lesioni|lesione]] come unico effetto di questo attacco.
 - Con 8 ore di lavoro ininterrotte puoi creare una protesi che porta una [[11 Condizioni e lesioni#Lesioni|lesione]] da critica a grave (non può essere curata ulteriormente), se la stessa zona riceve una nuova lesione, la protesi viene distrutta.
 - Quando crei un [[16 Composti e veleni|composto]] creane due aggiuntivi, devono avere [[Medicina]] come requisito.
 - Hai due slot [[06 Scheda personaggio#🧰 Armi e Oggetti|oggetti comodi]] aggiuntivi.
