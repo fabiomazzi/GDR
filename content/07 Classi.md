@@ -12,7 +12,6 @@ views:
       - file.name
       - PV
       - Abilità
-      - Descrizione
     sort: []
     columnSize:
       file.name: 135

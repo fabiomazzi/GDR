@@ -12,7 +12,6 @@ views:
       - file.name
       - Abilità
       - Linguaggi
-      - Descrizione
     columnSize: {}
 
 ```
