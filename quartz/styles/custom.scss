@@ -35,7 +35,7 @@ a.internal {
     border: none;
     border-collapse: collapse;
     background: none;
-    font-size: 1.6rem; // regola a piacere se ti sembra ancora piccolo/grande
+    font-size: 1.2rem; // regola a piacere se ti sembra ancora piccolo/grande
 
     tbody, tr, td, th {
       display: block;
@@ -53,7 +53,7 @@ a.internal {
         display: inline;
         font-weight: 700;
         color: var(--dark);
-        font-size: 1.6rem; // regola a piacere se ti sembra ancora piccolo/grande
+        font-size: 1.2rem; // regola a piacere se ti sembra ancora piccolo/grande
         &::after {
           content: ": ";
         }
