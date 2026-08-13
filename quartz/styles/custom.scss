@@ -51,7 +51,7 @@ a.internal {
       // prima cella = nome proprietà (es. "PV", "Abilità")
       td:first-child, th:first-child {
         display: inline;
-        font-weight: 900;
+        font-weight: 700;
         color: var(--dark);
 
         &::after {
