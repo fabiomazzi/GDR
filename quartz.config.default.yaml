@@ -224,10 +224,13 @@ plugins:
     enabled: true
     options:
       includeAll: false
-      includedProperties: []
+      includedProperties:
+        - Descrizione
+        - PV
+        - Abilità
       excludedProperties: []
-      hidePropertiesView: true
-      delimiters: ---
+      hidePropertiesView: false
+      delimiters: "---"
       language: yaml
     order: 5
     layout:
