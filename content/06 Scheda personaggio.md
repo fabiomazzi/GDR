@@ -48,7 +48,7 @@ Le lingue che sai parlare, leggere e scrivere.
 - È pari al doppio della tua [[Magia]].
 ### 🎯 Precisione
 Pari a [[Precisione]].
-Quando attacchi o lanci qualcosa, aggiungi questo valore al tiro per colpire.
+Quando attacchi o lanci qualcosa aggiungi questo valore al tiro per colpire.
 Vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]].
 ### 🩷 Punti Vita (PV)
 Rappresentano lo stato psicofisico del personaggio, un misto di salute fisica, determinazione ed energia. Quando subisci danno sottrailo dai tuoi punti vita.

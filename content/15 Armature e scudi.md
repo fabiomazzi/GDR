@@ -97,7 +97,7 @@ views:
       - VIG req
       - DES req
       - Capacità Speciali
-     VIG Note
+      - Note
     sort:
       - property: file.name
         direction: ASC

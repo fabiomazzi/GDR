@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Hai +3 al prossimo [[03 Combattimento#Risolvere un'azione|tiro per colpire]], fai un [[04 Azioni e reazioni#⚔️ Attaccare|attacco]].
+Fai un [[04 Azioni e reazioni#⚔️ Attaccare|attacco]], hai +3 al [[03 Combattimento#Risolvere un'azione|tiro per colpire]].

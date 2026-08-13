@@ -11,7 +11,7 @@ T: false
 P: true
 C: false
 Capacità Speciali: Puoi usarla non da lancio.
-Note: Usa sempre VIG come colpire.
+Note: Aggiungi VIG al danno invece che DES
 Gittata: 10m
 L: true
 ---

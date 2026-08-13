@@ -14,14 +14,14 @@ Poco alla volta lo gnomo è impazzito e ha creato esseri sempre più simili agli
 Scegli un insetto, guadagni le sue capacità.
 ## MOSCA
 ### Livello 1️
-- Hai +1 ad [[02 Incontri e riposare#Incontro, turno e round|iniziativa]] e a [[Percezione.
+- Hai +1 ad [[02 Incontri e riposare#Incontro, turno e round|iniziativa]] e a [[Percezione]].
 ### Livello 3️
 - Non puoi essere colto alla sprovvista, all’inizio di un incontro ripristina una [[04 Azioni e reazioni#Reazioni|reazione]].
 ## SCORPIONE
 ### Livello 1️
-- Ti cresce una coda appuntita che viene considerata un’[[14 Armi#Naturale|arma naturale]] secondaria, fa 1d3 danni perforanti, usa [[Destrezza]] come [[06 Scheda personaggio#🎯 Colpire|colpire]].
+- Ti cresce una coda appuntita che viene considerata un’[[14 Armi#Naturale|arma naturale]] secondaria, fa 1d3 danni perforanti, aggiungi [[Destrezza]] ai danni invece che [[Vigore]].
 ### Livello 3️
-- Una volta per [[02 Incontri e riposare#Riposare|riposo]], quando colpisci con la tua coda, puoi applicare l’effetto di un [[16 Composti e veleni|veleno]], si resiste con [[Vigore]] contro il tuo [[06 Scheda personaggio#💯 Livello|livello.]]
+- Una volta per [[02 Incontri e riposare#Riposare|riposo]], quando colpisci con la tua coda, puoi applicare l’effetto di un [[16 Composti e veleni|veleno]], si resiste con una prova di [[Vigore]] contrapposta al tuo [[06 Scheda personaggio#💯 Livello|livello]].
 ## FASMIDE
 ### Livello 1️
 - Puoi usare un [[02 Incontri e riposare#Movimento|movimento]] per avere un +1 cumulativo a [[Furtività]] fino al tuo prossimo movimento (volontario o non); il bonus massimo è pari al tuo livello.
@@ -29,12 +29,12 @@ Scegli un insetto, guadagni le sue capacità.
 - Le tue [[11 Condizioni e lesioni#Lesioni|lesioni]] si abbassano automaticamente di un grado quando riposi, anche quelle critiche.
 ## FORMICA
 ### Livello 1️
-- Il tuo morso viene considerato un’[[14 Armi#Naturale|arma naturale]] secondaria, fa 1d3 danni perforanti, usa [[Vigore]] come [[06 Scheda personaggio#🎯 Colpire|colpire]].
+- Il tuo morso viene considerato un’[[14 Armi#Naturale|arma naturale]] secondaria, fa 1d3 danni perforanti, aggiungi [[Destrezza]] ai danni invece che [[Vigore]].
 ### Livello 3️
-- Hai +1 a [[Vigore]].
+- Hai +2 alle prove di [[Vigore]].
 ## RAGNO
 ### Livello 1️
-- Come [[02 Incontri e riposare#Il tuo turno|azione]], un numero di volte per riposo pari al tuo [[06 Scheda personaggio#💯 Livello|livello]], puoi lanciare una ragnatela *(sì, da dove vuoi)* per [[11 Condizioni e lesioni#🦶 Intrappolato|intrappolare]] un bersaglio entro 10m, appena viene intrappolato e all’inizio di ogni suo turno può fare una prova di [[Vigore]] contrapposta al tuo [[06 Scheda personaggio#💯 Livello|livello]] per liberarsi (tira 1d12 e aggiungi il tuo livello).
+- Come [[02 Incontri e riposare#Il tuo turno|azione]], un numero di volte per riposo pari al tuo [[06 Scheda personaggio#💯 Livello|livello]], puoi lanciare una ragnatela *(sì, da dove vuoi)* per [[11 Condizioni e lesioni#🦶 Intrappolato|intrappolare]] un bersaglio entro 10m, appena viene intrappolato e all’inizio di ogni suo turno può fare una prova di [[Vigore]] contrapposta al tuo [[06 Scheda personaggio#💯 Livello|livello]] per liberarsi.
 ### Livello 3️
 - Hai un bonus ad arrampicarti pari al tuo [[06 Scheda personaggio#💯 Livello|livello]] e ignori tutti i malus della condizione [[11 Condizioni e lesioni#🧎 Atterrato|atterrato]].
 ## FALENA
