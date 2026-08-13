@@ -2,9 +2,9 @@
 - Riduci i danni ricevuti da ogni effetto diretto (non si applica a sanguinamenti e simili) di una quantità pari alla tua armatura.
 - Danni magici e necrotici ignorano l’armatura.
 ### 🧰 Armi e Oggetti
-Armi, scudi e oggetti comodi sono quelli che hai impugnato o che hai in uno degli slot comodi su di te:
-- 2 slot armi (un'arma a due mani occupa due slot)
-- 1 slot scudo
+Armi, scudi e oggetti comodi sono quelli che hai impugnato o che hai in uno degli slot comodi.
+Gli slot comodi sono:
+- 2 slot armi o scudi (le armi a due mani e gli scudi grandi e a torre occupano due slot)
 - 3 slot oggetti
 
 Ad inizio turno puoi impugnare o riporre armi, scudi e oggetti comodi come preferisci.

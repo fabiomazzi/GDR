@@ -11,8 +11,8 @@ views:
     order:
       - file.name
       - Classi
-      - Razze
       - Provenienze
+      - Razze
     columnSize:
       note.Classi: 646
       note.Razze: 227
