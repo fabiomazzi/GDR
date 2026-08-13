@@ -14,7 +14,6 @@ views:
       - file.name
       - Armatura
       - VIG req
-      - DES req
       - Malus DES
       - Capacità Speciali
       - Note

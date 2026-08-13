@@ -1,7 +1,7 @@
 # Azioni
 ### ⚔️ Attaccare
 Esegui un [[03 Combattimento#Risolvere un'azione|attacco]] con ogni arma che hai impugnato, gli attacchi con le armi secondarie sono attacchi rapidi.
-Un attacco rapido segue le stesse regole di un attacco normale ma senza aggiungere colpire al danno e senza causare reazioni.
+Un attacco rapido segue le stesse regole di un attacco normale ma senza aggiungere abilità al danno e senza causare reazioni.
 
 Vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]].
 ### ✨ Attivare un effetto magico
@@ -20,13 +20,13 @@ Tira [[Carisma|carisma]] contro [[Perspicacia|perspicacia]] di un [[98 FAQ#Esser
 
 In caso di successo puoi:
 - convincerlo ad arrendersi o a scappare
-- dare +2 al prossimo attacco verso di lui
-- dare -2 al suo prossimo attacco
+- dare +2 al prossimo tiro per colpire contro di lui
+- dare -2 al suo prossimo tiro per colpire
 - dare -2 al prossimo tiro per difendersi
 - costringerlo a non attaccare per un turno
 - dimezza il danno del suo prossimo attacco
 - costringerlo ad attaccare con la sua prossima azione
-- renderlo [[11 Condizioni e lesioni#FRASTORNATO|frastornato]] fino alla fine del suo prossimo turno
+- renderlo [[11 Condizioni e lesioni#FRASTORNATO|frastornato]] per un turno
 - influenzarlo in altro modo a discrezione del Master
 
 Si può provare ad influenzare lo stesso bersaglio quante volte si vuole quando si è in combattimento, fuori dal combattimento a discrezione del Master.
@@ -34,8 +34,8 @@ Si può provare ad influenzare lo stesso bersaglio quante volte si vuole quando 
 _Il Master dovrebbe applicare bonus o malus in base alla situazione.  
 Esempio: se uno scagnozzo rimane da solo contro cinque persone, il giocatore può ricevere anche un +10 per cercare di farlo arrendere. Se si prova a fare lo stesso contro il capo di una setta in superiorità numerica non ci sono possibilità di successo._
 ### 🤼‍♂️ Lottare
-Fai una prova di [[Vigore]] contro [[Vigore]] o [[Destrezza]] di un bersaglio [[03 Combattimento#Distanze|a contatto]], hai -4 alla prova per ogni taglia di differenza. Se vinci, puoi scegliere di
-- spingerlo fino a 2m in una direzione opposta alla tua e atterrarlo
+Fai una prova di [[Vigore]] contro [[Destrezza]] o [[Vigore]] di un bersaglio [[03 Combattimento#Distanze|a contatto]], hai -4 alla prova per ogni taglia di differenza. Se vinci, puoi scegliere di
+- spingerlo di 2m in una direzione opposta alla tua e atterrarlo
 - [[11 Condizioni e lesioni#🤼‍♂️ AFFERRATO|afferrarlo]]
 ### 🪛 Maneggiare oggetti
 Puoi scegliere uno fra:

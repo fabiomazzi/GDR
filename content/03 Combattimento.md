@@ -33,7 +33,7 @@
 *es: lancio un oggetto in uno spazio a 4m -> devo fare 4 o più col tiro per colpire*
 *lancio un oggetto a 14m -> devo fare 14 o più col tiro per colpire*
 
-**Se difesa e danno non sono specificati, usa questa tabella:**
+**Se danno e difesa non sono specificati, usa questa tabella:**
 
 | Tipo di attacco               | Danno     | Difesa                       |
 | ----------------------------- | --------- | ---------------------------- |
