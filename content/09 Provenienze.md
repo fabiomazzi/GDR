@@ -11,5 +11,7 @@ views:
     order:
       - file.name
       - Abilità
+      - Descrizione
     sort: []
+
 ```

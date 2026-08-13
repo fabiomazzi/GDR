@@ -1,11 +1,7 @@
 ---
 Tipo: provenienza
-Abilità: Furtività
----
-Descrizione.
-
-**Abilità:** [[Furtività]]
-
+Descrizione: "Da fare."
+Abilità: "[[Furtività]]"
 ---
 ## Capacità
 - Guadagni il talento [[Speleologo]].

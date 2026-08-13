@@ -1,13 +1,8 @@
 ---
 Tipo: razza
-Abilità: Destrezza, Furtività
+Descrizione: "Da fare."
+Abilità: "[[Destrezza]], [[Furtività]]"
 Linguaggi: Animale, Comune
----
-Descrizione della razza.
-
-**Abilità:** [[Destrezza]], [[Furtività]]
-**Linguaggi:** Animale, Comune
-
 ---
 ## Capacità
 - Considera condizioni di luce scarsa come fossero normali.

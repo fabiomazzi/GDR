@@ -1,13 +1,8 @@
 ---
 Tipo: razza
-Abilità: Sopravvivenza, Vigore
+Descrizione: "Da fare, temporanea: erano gli schiavi dei draghi."
+Abilità: "[[Sopravvivenza]], [[Vigore]]"
 Linguaggi: Comune, Draconico
----
-Erano gli schiavi dei draghi.
-
-**Abilità:** [[Sopravvivenza]], [[Vigore]]
-**Linguaggi:** Comune, Draconico
-
 ---
 ## Capacità
 - Hai un bonus di +2m ai movimenti.

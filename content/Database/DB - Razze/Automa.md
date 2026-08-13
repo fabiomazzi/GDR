@@ -1,15 +1,8 @@
 ---
 Tipo: razza
-Abilità: Conoscenze, Perspicacia
+Descrizione: "Da fare, temporanea: creati dal primo Tecnomante come schiavi, facendoli sempre più avanzati è riuscito ad infondergli una coscienza. Il Tecnomante non si sa che fine abbia fatto, nessun altro sa come farli. Devono riposare altrimenti il sistema di auto-ricarica non funziona."
+Abilità: "[[Conoscenze]], [[Perspicacia]]"
 Linguaggi: Comune e uno a scelta
----
-Creati dal primo Tecnomante come schiavi, facendoli sempre più avanzati è riuscito ad infondergli una coscienza.
-Il Tecnomante non si sa che fine abbia fatto, nessun altro sa come farli.
-Devono riposare altrimenti il sistema di auto-ricarica non funziona.
-
-**Abilità:** [[Conoscenze]], [[Perspicacia]]  
-**Linguaggi:** Comune e uno a scelta
-
 ---
 ## Capacità
 - Sei immune a [[16 Composti e veleni|veleni]] e malattie ma sei debole ai danni elettrici

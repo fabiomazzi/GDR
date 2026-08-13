@@ -1,10 +1,6 @@
 ---
 Tipo: provenienza
-Abilità: Carisma
----
-Descrizione.
-
-**Abilità:** [[Carisma]]
-
+Descrizione: "Da fare."
+Abilità: "[[Carisma]]"
 ---
 ## Capacità

@@ -1,11 +1,7 @@
 ---
 Tipo: provenienza
-Abilità: Precisione
----
-Descrizione.
-
-**Abilità:** [[Precisione]]
-
+Descrizione: "Da fare."
+Abilità: "[[Precisione]]"
 ---
 ## Capacità
 - 

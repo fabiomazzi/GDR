@@ -1,11 +1,7 @@
 ---
 Tipo: provenienza
-Abilità: Percezione
----
-Descrizione.
-
-**Abilità:** [[Percezione]]
-
+Descrizione: "Da fare."
+Abilità: "[[Percezione]]"
 ---
 ## Capacità
 - 

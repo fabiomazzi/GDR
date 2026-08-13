@@ -1,12 +1,7 @@
 ---
 Tipo: razza
-Abilità: Magia, Perspicacia
+Descrizione: "Da fare."
+Abilità: "[[Magia]], [[Perspicacia]]"
 Linguaggi: Comune, Silvano
----
-Descrizione della razza.
-
-**Abilità:** [[Magia]], [[Perspicacia]]  
-**Linguaggi:** Comune, Silvano
-
 ---
 ## Capacità

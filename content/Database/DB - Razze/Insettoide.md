@@ -1,17 +1,10 @@
 ---
 Tipo: razza
-Abilità: Destrezza, Percezione
+Descrizione: "Da fare, temporanea: durante un test di un teletrasporto di uno gnomo famoso finisce tipo la mosca con vari animali, visto che era cretino ha dato la possibilità a chi voleva di fare lo stesso. Nel tempo le persone sviluppano tratti degli insetti. Poco alla volta lo gnomo è impazzito e ha creato esseri sempre più simili agli insetti che hanno l’istinto di uccidere, motivo per cui gli insettoidi sono visti male e tenuti d’occhio."
+Abilità: "[[Destrezza]], [[Percezione]]"
 Linguaggi: Animale, Comune
 ---
-Descrizione della razza, che farò con calma.
-> Descrizione meta temporanea: durante un test di un teletrasporto di uno gnomo famoso finisce tipo la mosca con vari animali, visto che era cretino ha dato la possibilità a chi voleva di fare lo stesso. Nel tempo le persone sviluppano tratti degli insetti.
-Poco alla volta lo gnomo è impazzito e ha creato esseri sempre più simili agli insetti che hanno l’istinto di uccidere, motivo per cui gli insettoidi sono visti male e tenuti d’occhio.
-
-**Abilità**: [[Destrezza]], [[Percezione]]  
-**Linguaggi**: Animale, Comune
-
----
-Scegli un insetto, guadagni le sue capacità.
+**Scegli un insetto, guadagni le sue capacità.**
 ## MOSCA
 ### Livello 1️
 - Hai +1 ad [[02 Incontri e riposare#Incontro, turno e round|iniziativa]] e a [[Percezione]].

@@ -1,11 +1,7 @@
 ---
 Tipo: provenienza
-Abilità: Perspicacia
----
-Descrizione.
-
-**Abilità:** [[Perspicacia]]
-
+Descrizione: "Da fare."
+Abilità: "[[Perspicacia]]"
 ---
 ## Capacità
 - Guadagni il talento [[Cittadino]].

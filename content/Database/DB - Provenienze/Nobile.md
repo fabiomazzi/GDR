@@ -1,11 +1,6 @@
 ---
 Tipo: provenienza
-Abilità: Conoscenze
----
-Descrizione.
-
-**Abilità:** [[Conoscenze]]
-
+Descrizione: "Da fare."
+Abilità: "[[Conoscenze]]"
 ---
 ## Capacità
-- 
