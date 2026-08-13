@@ -1,15 +1,8 @@
 ---
 Tipo: classe
 PV: "6"
-Abilità: Destrezza, Perspicacia
-Descrizione: Da fare
----
-Descrizione della classe, che farò con calma.
-> Descrizione meta temporanea: skill monkey. Sa fare tutto discretamente bene, anche copiando le altre classi. In combat punta ad usare delle trappole portatili e altri oggetti.
-
-**PV:** 6  
-**Abilità:** [[Destrezza]], [[Perspicacia]]
-
+Abilità: "[[Destrezza]], [[Perspicacia]]"
+Descrizione: "[temporanea] skill monkey. Sa fare tutto discretamente bene, anche copiando le altre classi. In combat punta ad usare delle trappole portatili e altri oggetti."
 ---
 ## Prima di finirlo bisogna finire le trappole e fare almeno un po' di oggetti
 ### Livello 1

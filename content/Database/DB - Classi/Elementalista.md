@@ -1,15 +1,8 @@
 ---
 Tipo: classe
 PV: "8"
-Abilità: Vigore, Volontà
-Descrizione: Da fare
----
-Descrizione della classe, che farò con calma.
-> Descrizione meta temporanea: gli elementi gli scorrono dentro, non li usa tramite la magia. Usa Vigore e Volontà perché deve essere abbastanza forte mentalmente per dire "ora mi faccio del male liberando gli elementi che mi scorrono dentro" e abbastanza resistente fisicamente per sopportare quel dolore.
-
-**PV:** 8  
-**Abilità:** [[Vigore]], [[Volontà]]
-
+Abilità: "[[Vigore]], [[Volontà]]"
+Descrizione: "[temporanea] gli elementi gli scorrono dentro, non li usa tramite la magia. Usa Vigore e Volontà perché deve essere abbastanza forte mentalmente per dire "ora mi faccio del male liberando gli elementi che mi scorrono dentro" e abbastanza resistente fisicamente per sopportare quel dolore."
 ---
 ## Forse bisogna dargli un modo per recuperare cariche elementali e bloccargli il mana a 0, oppure trasformare il mana in cariche, oppure aggiungere magia alle cariche e non dare mana
 ### Livello 1

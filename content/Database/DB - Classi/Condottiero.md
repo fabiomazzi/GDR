@@ -1,15 +1,8 @@
 ---
 Tipo: classe
 PV: "8"
-Abilità: Carisma, Sopravvivenza
-Descrizione: Da fare
----
-Descrizione della classe, che farò con calma.
-> Descrizione meta temporanea: full support, equipaggia degli stendardi che danno bonus e contrassegna un nemico su cui fare focus per poter recuperare abilità e curare.
-
-**PV:** 8  
-**Abilità:** [[Carisma]], [[Sopravvivenza]]
-
+Abilità: "[[Carisma]], [[Sopravvivenza]]"
+Descrizione: "[temporanea] full support, equipaggia degli stendardi che danno bonus e contrassegna un nemico su cui fare focus per poter recuperare abilità e curare."
 ---
 ### Livello 1
 - **Reazione**: *<sei entro 10m da un alleato che ti vede o sente>* può immediatamente usare una sua [[04 Azioni e reazioni#Reazioni|reazione]], anche se non ne ha a disposizione (i requisiti devono comunque essere soddisfatti).

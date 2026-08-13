@@ -1,15 +1,8 @@
 ---
 Tipo: classe
 PV: "6"
-Abilità: Sopravvivenza, Volontà
-Descrizione: Da fare
----
-Descrizione della classe, che farò con calma.
-> Descrizione meta temporanea: scegli se avere un compagno animale o trasformarsi, nelle zone naturali ha parecchi bonus, abbastanza classico.
-
-**PV:** 6  
-**Abilità:** [[Sopravvivenza]], [[Volontà]]
-
+Abilità: "[[Sopravvivenza]], [[Volontà]]"
+Descrizione: "[temporanea] scegli se avere un compagno animale o trasformarsi, nelle zone naturali ha parecchi bonus, abbastanza classico."
 ---
 ## Prima di giocarlo per bene è da finire il bestiario
 ### Livello 1

@@ -1,15 +1,8 @@
 ---
 Tipo: classe
 PV: "4"
-Abilità: Conoscenze, Volontà
-Descrizione: Da fare
----
-Descrizione della classe, che farò con calma.
-> Descrizione meta temporanea: 
-
-**PV:** 4  
-**Abilità:** [[Conoscenze]], [[Volontà]]
-
+Abilità: "[[Conoscenze]], [[Volontà]]"
+Descrizione: "[temporanea] sa cose. Identifica debolezze e resistenze, aiuta a difendersi dalle capacità dei nemici e al colpirli meglio.
 ---
 ### Livello 1
 ### Livello 2

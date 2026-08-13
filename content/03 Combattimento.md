@@ -33,17 +33,17 @@
 *es: lancio un oggetto in uno spazio a 4m -> devo fare 4 o più col tiro per colpire*
 *lancio un oggetto a 14m -> devo fare 14 o più col tiro per colpire*
 
-**Per sapere che difesa usare e che abilità aggiungere al danno usa questa tabella:**
+**Se difesa e danno non sono specificati, usa questa tabella:**
 
-| Tipo di attacco                   | Danno     | Difesa                       |
-| --------------------------------- | --------- | ---------------------------- |
-| Fisico a contatto                 | Vigore    | Schivare / Parare / Bloccare |
-| Fisico a distanza                 | Destrezza | Schivare / Bloccare          |
-| Magico con tiro per colpire       | Destrezza | Schivare                     |
-| Magico a distanza (senza attacco) | Magia     | Volontà                      |
-| Magico ad area (danno)            | Magia     | Schivare                     |
-| Magico ad area (mentale)          | Magia     | Volontà                      |
-| Non magico ad area                | Destrezza | Schivare / Bloccare          |
+| Tipo di attacco               | Danno     | Difesa                       |
+| ----------------------------- | --------- | ---------------------------- |
+| Fisico a contatto             | Vigore    | Bloccare / Parare / Schivare |
+| Fisico a distanza             | Destrezza | Bloccare / Schivare          |
+| Magico senza tiro per colpire | Magia     | Volontà                      |
+| Magico con tiro per colpire   | Magia     | Bloccare / Schivare          |
+| Magico ad area (danno)        | Magia     | Bloccare / Schivare          |
+| Magico ad area (mentale)      | Magia     | Volontà                      |
+| Non magico ad area            | Destrezza | Bloccare / Schivare          |
 # Distanze
 - **Adiacente:** nei quadretti/esagoni intorno al tuo.
 - **A contatto**: puoi raggiungere il bersaglio con un’arma da mischia o naturale.

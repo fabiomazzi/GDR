@@ -1,15 +1,8 @@
 ---
 Tipo: classe
 PV: "12"
-Abilità: Sopravvivenza, Vigore
-Descrizione: Da fare
----
-Descrizione della classe, che farò con calma.
-> Descrizione meta temporanea: cerca di scendere di punti vita per andare in ira. Subisce apposta attacchi per contrattaccare.
-
-**PV:** 12  
-**Abilità:** [[Sopravvivenza]], [[Vigore]]
-
+Abilità: "[[Sopravvivenza]], [[Vigore]]"
+Descrizione: "[temporanea] cerca di scendere di punti vita per andare in ira. Subisce apposta attacchi per contrattaccare."
 ---
 ### Livello 1
 - **Reazione**: *\<sei un difensore>* puoi fallire automaticamente le [[03 Combattimento#Risolvere un'azione#|difese]] legate all'attacco (sia per il danno che per eventuali veleni, effetti mentali, lesioni, etc.) per [[04 Azioni e reazioni#⚔️ Attaccare|attaccare]] gratuitamente l’attaccante.

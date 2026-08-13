@@ -1,15 +1,8 @@
 ---
 Tipo: classe
 PV: "4"
-Abilità: Magia, Perspicacia
-Descrizione: Da fare
----
-Descrizione della classe, che farò con calma.
-> Descrizione meta temporanea: 
-
-**PV:** 4  
-**Abilità:** [[Magia]], [[Perspicacia]]
-
+Abilità: "[[Magia]], [[Perspicacia]]"
+Descrizione: "[temporanea] incanala la magia in marchingegni.
 ---
 ### Livello 1
 - **Reazione**: *<>* .

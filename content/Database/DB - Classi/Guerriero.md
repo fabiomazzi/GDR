@@ -1,15 +1,8 @@
 ---
 Tipo: classe
 PV: "10"
-Abilità: Precisione, Vigore
-Descrizione: Da fare
----
-Descrizione della classe, che farò con calma.
-> Descrizione meta temporanea: basato sul combattere in mischia e buttarsi in mezzo. Più nemici vicini ci sono, meglio funzionano le abilità.
-
-**PV:** 10  
-**Abilità:** [[Percezione]], [[Vigore]]
-
+Abilità: "[[Precisione]], [[Vigore]]"
+Descrizione: "[temporanea] basato sul combattere in mischia e buttarsi in mezzo. Più nemici vicini ci sono, meglio funzionano le abilità."
 ---
 ### Livello 1
 - **Reazione**: *\<minacci un attaccante a contatto>* attaccalo.

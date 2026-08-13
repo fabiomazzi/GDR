@@ -1,15 +1,8 @@
 ---
 Tipo: classe
 PV: "6"
-Abilità: Conoscenze, Magia
-Descrizione: Da fare
----
-Descrizione della classe, che farò con calma.
-> Descrizione meta temporanea: basato sul creare composti (e veleni anche se meno) e usarli in combattimento.
-
-**PV:** 6  
-**Abilità:** [[Conoscenze]], [[Magia]]
-
+Abilità: "[[Conoscenze]], [[Magia]]"
+Descrizione: "[temporanea] basato sul creare composti (e veleni anche se meno) e usarli in combattimento."
 ---
 ### Livello 1
 - **Reazione**: *<sei entro 10m dall’attaccante>* usa un composto comodo su di lui.

@@ -1,15 +1,8 @@
 ---
 Tipo: classe
 PV: "4"
-Abilità: Magia, Volontà
-Descrizione: Da fare
----
-Descrizione della classe, che farò con calma.
-> Descrizione meta temporanea: basato su incanalare, gli permette di curare e supportare o di fare danno e applicare debuff. Può recuperare il mana una volta al giorno quindi buon caster. In casi estremi picchia grazie all'arma sacra, ma i 4 pv e il fare fatica ad indossare armature non aiutano.
-
-**PV:** 4  
-**Abilità:** [[Magia]], [[Volontà]]
-
+Abilità: "[[Magia]], [[Volontà]]"
+Descrizione: "[temporanea] basato su incanalare, gli permette di curare e supportare o di fare danno e applicare debuff. Recupera mana quindi buon caster. In casi estremi picchia grazie all'arma sacra, ma i 4 pv e il fare fatica ad indossare armature non aiutano."
 ---
 ### Livello 1
 - **Reazione**: *<sei entro 10m da un difensore>* lancia un [[13 Incantesimi|incantesimo rapido]] o un **[[#Incanalare]]** su di lui, puoi farlo anche dopo aver visto il tiro dei danni.

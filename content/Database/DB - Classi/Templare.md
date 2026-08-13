@@ -1,15 +1,8 @@
 ---
 Tipo: classe
 PV: "8"
-Abilità: Vigore, Volontà
-Descrizione: Da fare
----
-Descrizione della classe, che farò con calma.
-> Descrizione meta temporanea: mena con l'aiuto dei custodi e la sua arma sacra che gli concede dei talenti. Fervore gli fa aggiungere danni e condizioni, oltre che diminuire il danno subito e lanciare la sua arma.
-
-**PV:** 8  
-**Abilità:** [[Vigore]], [[Volontà]]
-
+Abilità: "[[Vigore]], [[Volontà]]"
+Descrizione: "[temporanea] mena con l'aiuto dei custodi e la sua arma sacra che gli concede dei talenti. Fervore gli fa aggiungere danni e condizioni, oltre che diminuire il danno subito e lanciare la sua arma."
 ---
 ### Livello 1
 - **Reazione**: *<sei entro 10m da un difensore che sta subendo danno>* usa un **[[#Fervore]]** per dare [[06 Scheda personaggio#🧱 Barriera|barriera]] pari alla tua [[Volontà]] più il tuo [[06 Scheda personaggio#💯 Livello|livello]] e riduci di una gravità le [[11 Condizioni e lesioni#Lesioni|lesioni]].

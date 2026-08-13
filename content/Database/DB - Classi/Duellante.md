@@ -1,15 +1,8 @@
 ---
 Tipo: classe
 PV: "6"
-Abilità: Destrezza, Precisione
-Descrizione: Da fare
----
-Descrizione della classe, che farò con calma.
-> Descrizione meta temporanea: combattente mobile e agile basato sul gestire i punti maestria e il parare. 6 PV e limiti sulle armature costringono a giocarlo mordi e fuggi.
-
-**PV:** 6  
-**Abilità:** [[Destrezza]], [[Precisione]]
-
+Abilità: "[[Destrezza]], [[Precisione]]"
+Descrizione: "[temporanea] combattente mobile e agile basato sul gestire i punti maestria e il parare. 6 PV e limiti sulle armature costringono a giocarlo mordi e fuggi."
 ---
 ### Livello 1
 - **Reazione**: *<sei entro 6m dall’attaccante>* puoi muoverti di 4m nella sua direzione e fare un [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]].

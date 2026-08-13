@@ -2,14 +2,7 @@
 Tipo: classe
 PV: "6"
 Abilità: "[[Destrezza]], [[Furtività]]"
-Descrizione: Da fare
----
-Descrizione della classe, che farò con calma.
-> Descrizione meta temporanea: si muove come vuole sul campo di battaglia e sopravvive schivando. Il danno viene fatto principalmente con gli attacchi rapidi che applicano sanguinamenti.
-
-**PV:** 6  
-**Abilità:** [[Destrezza]], [[Furtività]]
-
+Descrizione: "[temporanea] si muove come vuole sul campo di battaglia e sopravvive schivando. Il danno viene fatto principalmente con gli attacchi rapidi che applicano sanguinamenti."
 ---
 ### Livello 1
 - **Reazione**: *\<hai schivato un attacco>* fai un attacco rapido contro l'attaccante.

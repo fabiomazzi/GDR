@@ -1,15 +1,8 @@
 ---
 Tipo: classe
 PV: "4"
-Abilità: Magia, Volontà
-Descrizione: Da fare
----
-Descrizione della classe, che farò con calma.
-> Descrizione meta temporanea: lancia magie e le potenzia, si specializza in 2-3 incantesimi che lancia gratis e potenziati. Recupera tutto il mana una volta al giorno.
-
-**PV:** 4  
-**Abilità:** [[Magia]], [[Volontà]]
-
+Abilità: "[[Magia]], [[Volontà]]"
+Descrizione: "[temporanea] lancia magie e le potenzia, si specializza in 2-3 incantesimi che lancia gratis e potenziati. Recupera tutto il mana una volta al giorno."
 ---
 ### Livello 1
 - **Reazione**: *<sei entro 10m dell’attaccante>* lancia un incantesimo rapido su di lui.

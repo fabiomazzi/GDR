@@ -1,15 +1,8 @@
 ---
 Tipo: classe
 PV: "10"
-Abilità: Percezione, Vigore
-Descrizione: Da fare
----
-Descrizione della classe, che farò con calma.
-> Descrizione meta temporanea: 100% difensiva basato sul bloccare, blocca gli attacchi diretti agli alleati, migliora armature e scudi.
-
-**PV:** 10  
-**Abilità:**  [[Percezione]], [[Vigore]]
-
+Abilità: "[[Percezione]], [[Vigore]]"
+Descrizione: "[temporanea] classe difensiva e di supporto basato sul bloccare e usare armature, blocca gli attacchi diretti agli alleati, migliora armature e scudi."
 ---
 ### Livello 1
 - **Reazione**: *\<sei adiacente a un difensore o sei sulla traiettoria di un proiettile a lui diretto>* puoi subire l’attacco al suo posto.
