@@ -1,8 +1,8 @@
 ---
 Tipo: Abilità
-Classi: Bastione, Duellante, Guerriero, Tiratore
+Classi: Bastione
 Provenienze: Insediamento rurale
-Razze: Felari, Insettoide
+Razze: Insettoide
 ---
 **Descrizione:** Quanto sei attento al mondo circostante. Accorgerti di movimenti, suoni, odori e dettagli nascosti.
 
@@ -13,7 +13,3 @@ Razze: Felari, Insettoide
 - Accorgersi che il pavimento non è stabile → [[05 Abilità#Fare una prova di abilità|DIF]] 3
 - Accorgersi che il soffitto è pericolante → [[05 Abilità#Fare una prova di abilità|DIF]] 5
 - Riconoscere una voce in mezzo ad una folla → [[05 Abilità#Fare una prova di abilità|DIF]] 12
-
-**Classi:** [[Bastione]], [[Duellante]], [[Guerriero]], [[Tiratore]]  
-**Provenienze:** [[Insediamento rurale]]  
-**Razze:** [[Felari (gatti)|Felari]], [[Insettoide]]

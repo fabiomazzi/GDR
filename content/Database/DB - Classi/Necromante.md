@@ -2,6 +2,7 @@
 Tipo: classe
 PV: "4"
 Abilità: Magia, Volontà
+Descrizione: Da fare
 ---
 Descrizione della classe, che farò con calma.
 > Descrizione meta temporanea: ha un servitore non-morto permanente più un piccolo esercito di non-morti al seguito. Può consumare la loro energia vitale per bonus immediati, curare, esplosioni, etc

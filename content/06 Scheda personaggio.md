@@ -4,7 +4,7 @@ Alla fine di ogni tuo turno perdi tutta la tua barriera.
 I danni necrotici ignorano la barriera.  
 *Esempio: hai 4 PV e 6 di Barriera, se subisci 8 danni ti restano 2 PV*
 ### 🎯 Colpire
-Pari a [[Destrezza]], [[Forma Fisica]] o [[Magia]], si usa quella specificata nell’azione.
+Pari a [[Destrezza]], [[Vigore]] o [[Magia]], si usa quella specificata nell’azione.
 Quando attacchi, aggiungi questo valore al tiro per colpire e al danno che fai.
 Vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]].
 
@@ -12,7 +12,7 @@ Vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]].
 
 | Tipo di attacco                   | Colpire      | Difesa                       |
 | --------------------------------- | ------------ | ---------------------------- |
-| Fisico a contatto                 | Forma fisica | Schivare / Parare / Bloccare |
+| Fisico a contatto                 | Vigore | Schivare / Parare / Bloccare |
 | Fisico a distanza                 | Destrezza    | Schivare / Bloccare          |
 | Magico con tiro per colpire       | Destrezza    | Schivare                     |
 | Magico a distanza (senza attacco) | Magia        | Volontà                      |
@@ -22,7 +22,7 @@ Vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]].
 
 ### 🛡️ Difese
 Aggiungi questi valori ai tiri per difenderti se usi una [[04 Azioni e reazioni#Reazioni|reazione]].
-- **Bloccare** → pari a [[Forma Fisica]], richiede uno scudo o un oggetto con la proprietà “Bloccare”.
+- **Bloccare** → pari a [[Vigore]], richiede uno scudo o un oggetto con la proprietà “Bloccare”.
 - **Parare** → pari a [[Destrezza]], richiede un’arma qualunque o un oggetto con la proprietà “Parare”.
 - **Schivare** → pari a [[Destrezza]].
 - **Risolutezza** → pari a [[Volontà]].

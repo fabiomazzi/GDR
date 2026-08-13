@@ -2,6 +2,7 @@
 Tipo: classe
 PV: "4"
 Abilità: Magia, Perspicacia
+Descrizione: Da fare
 ---
 Descrizione della classe, che farò con calma.
 > Descrizione meta temporanea: 

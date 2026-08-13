@@ -1,11 +1,11 @@
 ---
 Tipo: razza
-Abilità: Forma Fisica, Sopravvivenza
+Abilità: Sopravvivenza, Vigore
 Linguaggi: Comune, Selvaggio
 ---
 Descrizione della razza.
 
-**Abilità:** [[Forma Fisica]], [[Sopravvivenza]]  
+**Abilità:** [[Sopravvivenza]], [[Vigore]]
 **Linguaggi:** Comune, Selvaggio
 
 ---

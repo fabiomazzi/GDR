@@ -1,6 +1,6 @@
 ---
 Tipo: Abilità
-Classi: Berserker, Druido, Condottiero, Ramingo, Runologo
+Classi: Berserker, Druido, Ramingo, Runologo
 Provenienze: Foresta
 Razze: Gigante, Orco
 ---
@@ -12,7 +12,3 @@ Razze: Gigante, Orco
 - Orientarsi senza avere punti di riferimento chiari → [[05 Abilità#Fare una prova di abilità|DIF]] 8
 - Girando per un bosco notare un ramo tagliato artificialmente → [[05 Abilità#Fare una prova di abilità|DIF]] 12
 - Seguire delle tracce → contrapposta a [[Sopravvivenza]] (ambiente naturale) o [[Furtività]] (ambiente urbano)
-
-**Classi:** [[Berserker]], [[Druido]], [[Condottiero]], [[Ramingo]], [[Runologo]]  
-**Provenienze:** [[Foresta]]  
-**Razze:** [[Gigante]], [[Orco]]

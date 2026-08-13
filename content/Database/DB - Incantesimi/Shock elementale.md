@@ -1,6 +1,6 @@
 ---
 Costo: 1
-Difesa: Forma Fisica
+Difesa: Vigore
 Durata: Istantaneo
 Gittata: Contatto
 Rapido: true

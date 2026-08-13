@@ -1,6 +1,6 @@
 ---
 Tipo: Abilità
-Classi: Tecnomante, Tuttofare
+Classi: Condottiero, Tecnomante, Tuttofare
 Provenienze: Città
 Razze: Automa, Gnomo
 ---
@@ -11,7 +11,3 @@ Razze: Automa, Gnomo
 - Evitare un imboscata → contrapposta a [[Furtività]]
 - Capire come funziona un macchinario mai visto prima.
 - Intuire le [[06 Scheda personaggio#🛡️ Difese|difese]] di un avversario, DIF pari al suo livello.
-
-**Classi:** [[Tecnomante]], [[Tuttofare]]  
-**Provenienze:** [[Città]]  
-**Razze:** [[Automa]], [[Gnomo]]

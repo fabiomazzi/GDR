@@ -1,13 +1,14 @@
 ---
 Tipo: classe
 PV: "8"
-Abilità: Destrezza, Forma Fisica
+Abilità: Precisione, Vigore
+Descrizione: Da fare
 ---
 Descrizione della classe, che farò con calma.
 > Descrizione meta temporanea: si basa sul cambiare di continuo arma e avere a portata di mano quella migliore per ogni situazione: tipo di danno, una per le reazioni, una per parare, etc... sa usare le capacità speciali di tutte le armi e guadagna cariche quando ne usa diverse
 
 **PV:** 8  
-**Abilità:** [[Destrezza]], [[Forma Fisica]]
+**Abilità:** [[Precisione]], [[Vigore]]
 
 ---
 ## Avrà più senso quando saranno finite le capacità speciali delle armi, comprese armi con bonus a difendersi. Valutare se dare +1 a colpire per ogni carica, invece che solo al tiro per colpire

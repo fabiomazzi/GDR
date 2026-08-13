@@ -9,7 +9,7 @@ C: false
 DES req: 3
 Danno: 1d10
 Difesa: B, P, S
-FF req: 2
+VIG req: 2
 D: false
 Note:
 Parare:

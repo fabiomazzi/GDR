@@ -34,7 +34,7 @@ Si può provare ad influenzare lo stesso bersaglio quante volte si vuole quando 
 _Il Master dovrebbe applicare bonus o malus in base alla situazione.  
 Esempio: se uno scagnozzo rimane da solo contro cinque persone, il giocatore può ricevere anche un +10 per cercare di farlo arrendere. Se si prova a fare lo stesso contro il capo di una setta in superiorità numerica non ci sono possibilità di successo._
 ### 🤼‍♂️ Lottare
-Fai una prova di [[Forma Fisica]] contro [[Forma Fisica]] o [[Destrezza]] di un bersaglio [[03 Combattimento#Distanze|a contatto]], hai -4 alla prova per ogni taglia di differenza. Se vinci, puoi scegliere di
+Fai una prova di [[Vigore]] contro [[Vigore]] o [[Destrezza]] di un bersaglio [[03 Combattimento#Distanze|a contatto]], hai -4 alla prova per ogni taglia di differenza. Se vinci, puoi scegliere di
 - spingerlo fino a 2m in una direzione opposta alla tua e atterrarlo
 - [[11 Condizioni e lesioni#🤼‍♂️ AFFERRATO|afferrarlo]]
 ### 🪛 Maneggiare oggetti

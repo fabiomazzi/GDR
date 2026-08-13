@@ -14,7 +14,3 @@ Razze:
 - Identificare una malattia rara come causa di morte → [[05 Abilità#Fare una prova di abilità|DIF]] 8
 - Trattare una Lesione Grave → [[05 Abilità#Fare una prova di abilità|DIF]] 10
 - Trattare una condizione sconosciuta mai documentata → [[05 Abilità#Fare una prova di abilità|DIF]] 15
-
-**Classi:** [[Druido]], [[Medico]], [[Studioso]]  
-**Provenienze:** [[Deserto]]  
-**Razze:** 

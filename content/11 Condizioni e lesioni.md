@@ -7,7 +7,7 @@ Fallisci automaticamente le prove basate sulla vista.
 ### 🤼‍♂️ Afferrato
 Non puoi compiere azioni che richiedono libertà di movimento come attaccare, usare un oggetto, lanciare un incantesimo, etc.  
 I tuoi [[06 Scheda personaggio#🛡️ Difese|schivare]], [[06 Scheda personaggio#🛡️ Difese|parare]] e [[06 Scheda personaggio#🛡️ Difese|bloccare]] sono considerati 0.  
-Per muoverti devi superare una prova di [[Forma Fisica]] contrapposta, chi è in lotta con te viene trascinato in un quadretto vicino al tuo di arrivo, è un [[04 Azioni e reazioni#🏃‍♂️ Movimento|movimento complesso]].  
+Per muoverti devi superare una prova di [[Vigore]] contrapposta, chi è in lotta con te viene trascinato in un quadretto vicino al tuo di arrivo, è un [[04 Azioni e reazioni#🏃‍♂️ Movimento|movimento complesso]].  
 Se sei stato afferrato, all’inizio del tuo turno puoi ripetere gratuitamente la prova per liberarti.  
 Se invece hai afferrato tu, puoi interrompere questa condizione in qualunque momento.
 ### 🙉 Assordato
@@ -94,7 +94,7 @@ A discrezione del Master, le creature con un’anatomia non adatta sono immuni a
 
 Come si curano:
 - con l’Azione [[04 Azioni e reazioni#🩹 Trattare|trattare]]
-- [[02 Incontri e riposare#Riposare|riposando]], se superi un tiro di [[Forma Fisica]]
+- [[02 Incontri e riposare#Riposare|riposando]], se superi un tiro di [[Vigore]]
 - con la magia o altre capacità
 
 Per curare le lesioni critiche è necessaria la [[13 Incantesimi|magia]] o una [[Medico|protesi]].

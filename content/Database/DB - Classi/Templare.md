@@ -1,13 +1,14 @@
 ---
 Tipo: classe
 PV: "8"
-Abilità: Forma Fisica, Volontà
+Abilità: Vigore, Volontà
+Descrizione: Da fare
 ---
 Descrizione della classe, che farò con calma.
 > Descrizione meta temporanea: mena con l'aiuto dei custodi e la sua arma sacra che gli concede dei talenti. Fervore gli fa aggiungere danni e condizioni, oltre che diminuire il danno subito e lanciare la sua arma.
 
 **PV:** 8  
-**Abilità:** [[Forma Fisica]], [[Volontà]]
+**Abilità:** [[Vigore]], [[Volontà]]
 
 ---
 ### Livello 1

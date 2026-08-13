@@ -1,13 +1,14 @@
 ---
 Tipo: classe
 PV: "10"
-Abilità: Forma Fisica, Percezione
+Abilità: Precisione, Vigore
+Descrizione: Da fare
 ---
 Descrizione della classe, che farò con calma.
 > Descrizione meta temporanea: basato sul combattere in mischia e buttarsi in mezzo. Più nemici vicini ci sono, meglio funzionano le abilità.
 
 **PV:** 10  
-**Abilità:** [[Forma Fisica]], [[Percezione]]
+**Abilità:** [[Percezione]], [[Vigore]]
 
 ---
 ### Livello 1

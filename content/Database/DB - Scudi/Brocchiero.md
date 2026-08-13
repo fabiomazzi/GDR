@@ -7,7 +7,7 @@ Capacità Speciali:
 DES req: 2
 Danno:
 Malus DES:
-FF req:
+VIG req:
 Note: la mano con cui viene usato viene considerata libera
 Parare: 1
 ---

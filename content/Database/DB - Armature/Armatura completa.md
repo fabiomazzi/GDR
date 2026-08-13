@@ -7,7 +7,7 @@ Capacità Speciali:
 DES req:
 Danno:
 Malus DES: -5
-FF req: 5
+VIG req: 5
 Note:
 Parare:
 ---

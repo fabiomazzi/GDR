@@ -9,7 +9,7 @@ C: false
 DES req: 1
 Danno: 1d4
 Difesa: B, S
-FF req:
+VIG req:
 D: true
 Note:
 Parare: -4

@@ -2,8 +2,7 @@
 Tipo: armatura
 Magico: true
 Armatura: 0
-Descrizione:
-FF req:
+VIG req:
 MAG req:
 Schivare:
 VOL req: 4

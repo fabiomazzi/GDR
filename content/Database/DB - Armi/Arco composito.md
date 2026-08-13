@@ -4,12 +4,12 @@ Magico: false
 2h: true
 A: true
 Armatura:
-Capacità Speciali: Aggiungi FF al danno
+Capacità Speciali: Aggiungi VIG al danno
 C: false
 DES req: 3
 Danno: 1d8
 Difesa: B, S
-FF req: 2
+VIG req: 2
 D: true
 Note:
 Parare: -2

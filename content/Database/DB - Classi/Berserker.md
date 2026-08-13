@@ -1,13 +1,14 @@
 ---
 Tipo: classe
 PV: "12"
-Abilità: Forma Fisica, Sopravvivenza
+Abilità: Sopravvivenza, Vigore
+Descrizione: Da fare
 ---
 Descrizione della classe, che farò con calma.
 > Descrizione meta temporanea: cerca di scendere di punti vita per andare in ira. Subisce apposta attacchi per contrattaccare.
 
 **PV:** 12  
-**Abilità:** [[Forma Fisica]], [[Sopravvivenza]]
+**Abilità:** [[Sopravvivenza]], [[Vigore]]
 
 ---
 ### Livello 1
@@ -28,7 +29,7 @@ Descrizione della classe, che farò con calma.
 Quando sei a metà o meno punti vita e sei in combattimento, sei considerato in ira.
 - sei visibilmente agitato e manesco
 - hai protezione da tutti i tipi di danno
-- +2 a [[Forma Fisica]]
+- +2 a [[Vigore]]
 - +2 a [[Volontà]]
 - +2 a [[04 Azioni e reazioni#😠 Intimidire|intimidire]]
 - -2 a [[Destrezza]]
@@ -40,7 +41,7 @@ Quando sei a metà o meno punti vita e sei in combattimento, sei considerato in 
 - non puoi lanciare [[13 Incantesimi|incantesimo]]
 
 ### Livello 3
-- i bonus a [[Forma Fisica]] e [[Volontà]] diventano +3
+- i bonus a [[Vigore]] e [[Volontà]] diventano +3
 - il bonus al movimento diventa di 4m
 - la [[06 Scheda personaggio#🩷 Punti Vita (PV)|rigenerazione]] diventa 3
 - puoi ignorare fino ad una [[11 Condizioni e lesioni#Condizioni mentali|condizione mentale]] da cui sei afflitto

@@ -9,7 +9,3 @@ Razze: Nano
 **Esempi:**
 - Resistere al canto di una sirena.
 - Resistere ad [[13 Incantesimi|incantesimi]] ed effetti magici mentali.
-
-**Classi:** [[Arcanista]], [[Devoto]], [[Elementalista]], [[Monaco]], [[Necromante]], [[Sciamano]], [[Templare]]
-**Provenienze:** [[Palude]]
-**Razze:** [[Nano]]

@@ -1,8 +1,8 @@
 ---
-Descrizione: Descrizione della classe, tira le magie, pim pum pam tipo mago pazzo, non so devo scrivere un po' di descrizione per vedere come sta.
 Tipo: classe
 PV: "4"
 Abilità: Magia, Volontà
+Descrizione: Da fare
 ---
 Descrizione della classe, che farò con calma.
 > Descrizione meta temporanea: lancia magie e le potenzia, si specializza in 2-3 incantesimi che lancia gratis e potenziati. Recupera tutto il mana una volta al giorno.

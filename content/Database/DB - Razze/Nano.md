@@ -1,11 +1,11 @@
 ---
 Tipo: razza
-Abilità: Forma Fisica, Volontà
+Abilità: Vigore, Volontà
 Linguaggi: Comune, Nanico
 ---
 Descrizione della razza.
 
-**Abilità:** [[Forma Fisica]], [[Volontà]]  
+**Abilità:** [[Vigore]], [[Volontà]]  
 **Linguaggi:** Comune, Nanico
 
 ---

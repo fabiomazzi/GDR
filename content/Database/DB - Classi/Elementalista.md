@@ -1,13 +1,14 @@
 ---
 Tipo: classe
 PV: "8"
-Abilità: Forma Fisica, Volontà
+Abilità: Vigore, Volontà
+Descrizione: Da fare
 ---
 Descrizione della classe, che farò con calma.
-> Descrizione meta temporanea: gli elementi gli scorrono dentro, non li usa tramite la magia. Usa Forma Fisica e Volontà perché deve essere abbastanza forte mentalmente per dire "ora mi faccio del male liberando gli elementi che mi scorrono dentro" e abbastanza resistente fisicamente per sopportare quel dolore.
+> Descrizione meta temporanea: gli elementi gli scorrono dentro, non li usa tramite la magia. Usa Vigore e Volontà perché deve essere abbastanza forte mentalmente per dire "ora mi faccio del male liberando gli elementi che mi scorrono dentro" e abbastanza resistente fisicamente per sopportare quel dolore.
 
 **PV:** 8  
-**Abilità:** [[Forma Fisica]], [[Volontà]]
+**Abilità:** [[Vigore]], [[Volontà]]
 
 ---
 ## Forse bisogna dargli un modo per recuperare cariche elementali e bloccargli il mana a 0, oppure trasformare il mana in cariche, oppure aggiungere magia alle cariche e non dare mana
@@ -27,8 +28,8 @@ Descrizione della classe, che farò con calma.
 ## Padroneggiare gli elementi
 - Scegli un elemento da padroneggiare.
 - Guadagni il talento [[Soffio]], devi scegliere il tuo elemento.
-- Gli incantesimi [[Dardo Elementale]] e [[Shock Elementale]] costano 0 mana se lanciati scegliendo il tuo elemento, usa la più bassa fra [[Forma Fisica]] e [[Volontà]] invece che [[Magia]] per i tiri.
-- Hai Cariche Elementali pari alla somma della tua [[Forma Fisica]] e [[Volontà]], le recuperi riposando. Se un'abilità richiede un tiro per difendersi usa la più bassa fra [[Forma Fisica]] e [[Volontà]].
+- Gli incantesimi [[Dardo Elementale]] e [[Shock Elementale]] costano 0 mana se lanciati scegliendo il tuo elemento, usa la più bassa fra [[Vigore]] e [[Volontà]] invece che [[Magia]] per i tiri.
+- Hai Cariche Elementali pari alla somma della tua [[Vigore]] e [[Volontà]], le recuperi riposando. Se un'abilità richiede un tiro per difendersi usa la più bassa fra [[Vigore]] e [[Volontà]].
 - Puoi usare queste cariche per:
 	- potenziare un movimento con Movimento Elementale, non è un'azione
 	- attivare un Potenziamento Elementale all'inizio del tuo turno, non è un'azione
@@ -58,8 +59,8 @@ Guadagni le seguenti capacità:
 
 Con una Carica Elementale puoi usare:
 - **Movimento Elementale**: puoi muoverti in qualunque direzione senza toccare il terreno, devi essere a contatto con il terreno per poterlo attivare
-- **Potenziamento Elementale**: quando qualcuno ti arriva a contatto per la prima volta, respingilo di 4m e [[11 Condizioni e lesioni#🧎 Atterrato|atterralo]] a meno che non superi un tiro su [[Forma Fisica]]
-- **Scarica Elementale**: crea un’esplosione entro 10m, tutti i bersagli entro 4m dall’esplosione subiscono 1d4 danni sonici, vengono respinti di 6m nella direzione opposta e sono [[11 Condizioni e lesioni#🙉 Assordato|assordati]] per un turno, ci si difende con [[Forma Fisica]]
+- **Potenziamento Elementale**: quando qualcuno ti arriva a contatto per la prima volta, respingilo di 4m e [[11 Condizioni e lesioni#🧎 Atterrato|atterralo]] a meno che non superi un tiro su [[Vigore]]
+- **Scarica Elementale**: crea un’esplosione entro 10m, tutti i bersagli entro 4m dall’esplosione subiscono 1d4 danni sonici, vengono respinti di 6m nella direzione opposta e sono [[11 Condizioni e lesioni#🙉 Assordato|assordati]] per un turno, ci si difende con [[Vigore]]
 ### 🌩️ Fulmine
 Guadagni le seguenti capacità:
 - **Resistenza Elementale**: hai [[03 Combattimento#tipi di danno|resistenza]] ai danni elettrici e non puoi essere [[11 Condizioni e lesioni#🙊 Silenziato|silenziato]] (zone di silenzio ed effetti simili funzionano)
@@ -94,5 +95,5 @@ Guadagni le seguenti capacità:
 
 Con una Carica Elementale puoi usare:
 - **Movimento Elementale**: quando entri in un esagono/quadrato e sei a contatto col terreno, tutti i nemici adiacenti devono superare un tiro di [[Destrezza]] o essere [[11 Condizioni e lesioni#🧎 Atterrato|atterrati]]
-- **Potenziamento Elementale**: intrappola tutti i bersagli entro 10m che falliscono un tiro su [[Forma Fisica]], se sono atterrati falliscono in automatico, ogni turno possono provare a liberarsi
+- **Potenziamento Elementale**: intrappola tutti i bersagli entro 10m che falliscono un tiro su [[Vigore]], se sono atterrati falliscono in automatico, ogni turno possono provare a liberarsi
 - **Scarica Elementale**: fai 1d6 danni per livello da Elementalista a tutti i nemici entro 10m intrappolati da te

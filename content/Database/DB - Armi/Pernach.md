@@ -9,7 +9,7 @@ C: true
 DES req:
 Danno: 1d8/1d10
 Difesa: B, P, S
-FF req: 3
+VIG req: 3
 D: false
 Note: 1 o 2 mani
 Parare:

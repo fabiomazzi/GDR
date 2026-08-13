@@ -9,7 +9,7 @@ C: false
 DES req:
 Danno: 1d6
 Difesa: S
-FF req:
+VIG req:
 D: false
 Note: Fa danno magico
 Parare:

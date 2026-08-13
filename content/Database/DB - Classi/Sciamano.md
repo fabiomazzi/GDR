@@ -2,6 +2,7 @@
 Tipo: classe
 PV: "6"
 Abilità: Carisma, Volontà
+Descrizione: Da fare
 ---
 Descrizione della classe, che farò con calma.
 > Descrizione meta temporanea: può far comparire degli spiriti che danneggiano, curano, buffano, debuffano amici e nemici. Gli fanno recuperare mana quando fanno qualcosa.
@@ -30,7 +31,7 @@ La gittata del tuo Condotto Spirituale è 10m.
 ### Livello 1️
 Quando manifesti uno spirito può eseguire una di queste azioni:
 - Attaccare: può solo essere [[06 Scheda personaggio#🛡️ Difese|schivato]], fa [[03 Combattimento#tipi di danno|danni necrotici]], usa la tua [[Volontà]] come [[06 Scheda personaggio#🎯 Colpire|colpire]]
-- Applicare una [[11 Condizioni e lesioni#Lesioni|lesione]]: si resiste con [[Forma Fisica]] contro la tua [[Volontà]]
+- Applicare una [[11 Condizioni e lesioni#Lesioni|lesione]]: si resiste con [[Vigore]] contro la tua [[Volontà]]
 - Curare: cura 1d4 per livello + [[Volontà]], i [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] in eccesso diventano Barriera
 - Rinsanire: si può ritirare la difesa contro una [[11 Condizioni e lesioni#Condizioni mentali|condizione mentale]] da cui è afflitto, ha +1 a quel tiro
 ### Livello 2

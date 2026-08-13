@@ -1,7 +1,8 @@
 ---
 Tipo: classe
 PV: "6"
-Abilità: Destrezza, Percezione
+Abilità: Destrezza, Precisione
+Descrizione: Da fare
 ---
 Descrizione della classe, che farò con calma.
 > Descrizione meta temporanea: attacca e fa parecchio danno con armi dalla distanza e da lancio. Sa usare le loro capacità speciali e le armi da lancio che ha comode fanno attacchi secondari.

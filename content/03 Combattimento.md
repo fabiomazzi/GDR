@@ -25,16 +25,20 @@
 - **Attacco <= difesa**
     - Nessun danno o effetto.
 
-⚔️ Quando risolvi l’azione attacco, fai un [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]] con le armi secondarie e per ogni attacco a disposizione.
+⚔️ Quando risolvi l’azione attacco, fai un [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]] con le tue [[06 Scheda personaggio#🧰 Armi e Oggetti|armi secondarie]].
 *Gli attacchi rapidi non aggiungono il colpire al danno e non causano Reazioni.*
 
 🏹 Se attacchi con un’arma dalla distanza un nemico [[#Distanze|adiacente]], non mettere [[06 Scheda personaggio#🎯 Colpire|colpire]] al danno.
+
+🎯 Se con un'arma dalla distanza devi colpire uno spazio, ogni metro aumenta di 1 il risultato necessario.
+*es: lancio un oggetto in uno spazio a 4m -> devo fare 4 o più col tiro per colpire*
+*lancio un oggetto a 14m -> devo fare 14 o più col tiro per colpire*
 
 **Se Colpire e Difesa non sono specificati, usa questa tabella:**
 
 | Tipo di attacco                   | Colpire      | Difesa                       |
 | --------------------------------- | ------------ | ---------------------------- |
-| Fisico a contatto                 | Forma fisica | Schivare / Parare / Bloccare |
+| Fisico a contatto                 | Vigore | Schivare / Parare / Bloccare |
 | Fisico a distanza                 | Destrezza    | Schivare / Bloccare          |
 | Magico con tiro per colpire       | Destrezza    | Schivare                     |
 | Magico a distanza (senza attacco) | Magia        | Volontà                      |

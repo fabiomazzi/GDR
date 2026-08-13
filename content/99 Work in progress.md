@@ -2,7 +2,7 @@
 - valutare se applicare lesioni è interessante o è meglio tenerla come meccanica solo per i nemici
 - il sistema di magia fa probabilmente schifo, è da sistemare
 	- soprattutto devo dare una codifica agli incantesimi che puoi pagare più volte e pensare se farlo diventare lo standard per la magia
-- armi e altro equip dovrebbero dare cose non legate alla loro funzione, tipo un martello che da percezione, una staffa che da FF, etc
+- armi e altro equip dovrebbero dare cose non legate alla loro funzione, tipo un martello che da percezione, una staffa che da vigore, etc
 - semplificare il sistema per creare di composti e veleni, così non ha neanche senso perché non si possono comprare o trovare
 - fare armi e armature specifiche per le classi?
 - fare gear che i druidi possono usare da trasformati?
@@ -26,3 +26,4 @@
 	- livello 4: capacità molto forti e che sbilanciano un po' ma che non cambiano fondamentalmente il come si gioca la classe
 	- molte vanno bene, altre sono da rivedere
 - fare le taglie
+- armi che aggiungono DES/VIG a precisione, o anche classi

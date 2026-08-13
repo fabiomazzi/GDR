@@ -10,7 +10,3 @@ Razze: Felari
 - Piazzare o disattivare una trappola, il tuo tiro per piazzarla sarà la [[05 Abilità#Fare una prova di abilità|DIF]] per notarla.
 - Se vuoi borseggiare qualcuno tira Furtività contro [[Percezione]], ha +4 al tiro se ti sta osservando.
 - Se una persona sa della tua presenza, siete in combattimento o ti sta attivamente cercando ha +4 ai tiri di [[Percezione]] per notarti.
-
-**Classi:** [[Assassino]], [[Acrobata]]  
-**Provenienze:** [[Sottosuolo]]  
-**Razze:** [[Felari (gatti)|Felari]]

@@ -58,15 +58,15 @@ Se un nemico è [[11 Condizioni e lesioni#🧎 ATTERRATO|Atterrato]] o ha condiz
 Non puoi fermarti in uno spazio occupato da un nemico.
 Più alleati (a discrezione del master) possono occupare uno spazio, ma non possono agire se lo fanno.
 
-Saltare in lungo: con rincorsa puoi saltare 1 metro per ogni punto in [[Forma Fisica]], senza rincorsa la metà.
-Saltare in alto: puoi saltare 20cm in altezza ogni punto in [[Forma Fisica]] (minimo 50cm).
+Saltare in lungo: con rincorsa puoi saltare 1 metro per ogni punto in [[Vigore]], senza rincorsa la metà.
+Saltare in alto: puoi saltare 20cm in altezza ogni punto in [[Vigore]] (minimo 50cm).
 # Riposare
 Se passi almeno 8 ore riposando:
 
 - 🔋 Recupera tutto il [[06 Scheda personaggio#🔮 Mana|mana]]
 - ❤️ Recupera metà dei tuoi [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] totali
 - ♻️ Recupera gli usi “X volte per riposo”
-- 🩹 Per ogni [[11 Condizioni e lesioni#Lesioni|lesioni]] fai un tiro di [[Forma Fisica]], abbassa di un grado le lesioni lievi se fai 8 o più, quelle gravi se fai 12 o più. Ogni riposo in cui non guarisci da una lesione, hai un +1 cumulativo a quel tiro.
+- 🩹 Per ogni [[11 Condizioni e lesioni#Lesioni|lesioni]] fai un tiro di [[Vigore]], abbassa di un grado le lesioni lievi se fai 8 o più, quelle gravi se fai 12 o più. Ogni riposo in cui non guarisci da una lesione, hai un +1 cumulativo a quel tiro.
 - 🧪 [[03 Combattimento#Risolvere un'azione|Difenditi]] dai [[16 Composti e veleni#Veleni|veleni]] che hai in corpo, ogni riposo in cui non guarisci da un veleno, hai un +1 cumulativo a quel tiro.
 
 Si può riposare indicativamente una volta al giorno, a discrezione del Master.

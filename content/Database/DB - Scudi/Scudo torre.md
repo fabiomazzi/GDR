@@ -7,7 +7,7 @@ Capacità Speciali: Quando fallisci un tiro su Bloccare contro un effetto magico
 DES req:
 Danno:
 Malus DES: -4
-FF req: 3
+VIG req: 3
 Note:
 Parare:
 ---

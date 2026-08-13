@@ -1,11 +1,11 @@
 ---
 Tipo: razza
-Abilità: Forma Fisica, Sopravvivenza
+Abilità: Sopravvivenza, Vigore
 Linguaggi: Comune, Draconico
 ---
 Erano gli schiavi dei draghi.
 
-**Abilità:** [[Forma Fisica]], [[Sopravvivenza]]  
+**Abilità:** [[Sopravvivenza]], [[Vigore]]
 **Linguaggi:** Comune, Draconico
 
 ---

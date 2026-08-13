@@ -27,8 +27,8 @@ Confronta il risultato con:
 
 *Esempi di prove:*
 *accorgersi di una trappola → Percezione contro la DIF della trappola*
-*saltare un fossato → Forma Fisica contro la DIF decisa da master*
-*braccio di ferro → Forma Fisica contro Forma Fisica*  
+*saltare un fossato → Vigore contro la DIF decisa da master*
+*braccio di ferro → Vigore contro Vigore*  
 *borseggiare un passante → Furtività contro Percezione*
 
 *Diverse abilità possono sovrapporsi o lavorare insieme. Per esempio viaggiando in mezzo ad un bosco qualcosa potrebbe attirare la vostra attenzione, come un ramo tagliato artificialmente (Sopravvivenza) o qualcosa che si muove fra gli alberi (Percezione). Una volta notato che c’è qualcosa di strano, un tiro su Perspicacia può farvi capire che state per cadere vittime di un’imboscata.*

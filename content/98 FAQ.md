@@ -4,7 +4,6 @@ CAR: Carisma
 CON: Conoscenze
 DES: Destrezza
 DIF: Difficoltà (la CD di D&D)
-FF - Forma fisica
 FUR: Furtività
 MAG: Magia
 Master: Dungeon Master, Game Master, DM, GM, Giovanni, chiamatelo come volete
@@ -12,6 +11,7 @@ MED: Medicina
 PERC: Percezione
 PERS: Perspicacia
 SOP: Sopravvivenza
+VIG - Vigore
 VOL: Volontà
 ### Attivare un effetto magico
 Comprende il lanciare incantesimi, usare capacità magiche e usare un oggetto magico.

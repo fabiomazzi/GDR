@@ -1,6 +1,6 @@
 ---
 Costo: 2
-Difesa: Forma Fisica
+Difesa: Vigore
 Durata: Istantaneo
 Gittata: 10m
 Rapido: false

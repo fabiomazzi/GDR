@@ -1,10 +1,10 @@
 ---
 Tipo: provenienza
-Abilità: Forma Fisica
+Abilità: Vigore
 ---
 Descrizione.
 
-**Abilità:** [[Forma Fisica]]
+**Abilità:** [[Vigore]]
 
 ---
 ## Capacità

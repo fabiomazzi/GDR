@@ -1,13 +1,14 @@
 ---
 Tipo: classe
 PV: "6"
-Abilità: Destrezza, Percezione
+Abilità: Destrezza, Precisione
+Descrizione: Da fare
 ---
 Descrizione della classe, che farò con calma.
 > Descrizione meta temporanea: combattente mobile e agile basato sul gestire i punti maestria e il parare. 6 PV e limiti sulle armature costringono a giocarlo mordi e fuggi.
 
 **PV:** 6  
-**Abilità:** [[Destrezza]], [[Percezione]]
+**Abilità:** [[Destrezza]], [[Precisione]]
 
 ---
 ### Livello 1

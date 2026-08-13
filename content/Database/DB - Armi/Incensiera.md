@@ -9,7 +9,7 @@ C: true
 DES req: 2
 Danno: 1d6
 Difesa: B, P, S
-FF req: 1
+VIG req: 1
 D: false
 Note: Se usata con 2 mani sei considerato avere un'arma secondaria
 Parare: -4

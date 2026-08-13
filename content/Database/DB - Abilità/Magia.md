@@ -10,7 +10,3 @@ Razze: Dragonide, Elfo, Gnomo
 - [[12 Magia#Identificare|Identificare]] un incantesimo mentre viene lanciato o un effetto magico come rune, sigilli e trappole magiche → [[05 Abilità#Fare una prova di abilità|DIF]] pari alla DIF dell’effetto magico
 - [[12 Magia#Identificare|Identificare]] un oggetto magico.
 - Determina la [[05 Abilità#Fare una prova di abilità|DIF]] dei tuoi incantesimi ed effetti magici.
-
-**Classi:** [[Alchimista]], [[Arcanista]], [[Necromante]], [[Tecnomante]]  
-**Provenienze:** [[Accademia di magia]]  
-**Razze:** [[Dragonide]], [[Elfo]], [[Gnomo]]

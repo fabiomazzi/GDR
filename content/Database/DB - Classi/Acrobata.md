@@ -2,6 +2,7 @@
 Tipo: classe
 PV: "6"
 Abilità: Destrezza, Furtività
+Descrizione: Da fare
 ---
 Descrizione della classe, che farò con calma.
 > Descrizione meta temporanea: si muove come vuole sul campo di battaglia e sopravvive schivando. Il danno viene fatto principalmente con gli attacchi rapidi che applicano sanguinamenti.

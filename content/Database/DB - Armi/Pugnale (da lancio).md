@@ -9,9 +9,9 @@ C: false
 DES req: 2
 Danno: 1d3
 Difesa: B, P, S
-FF req:
+VIG req:
 D: true
-Note: FF oppure DES.
+Note:
 Parare: -3
 P: true
 Schivare:

@@ -2,6 +2,7 @@
 Tipo: classe
 PV: "6"
 Abilità: Sopravvivenza, Volontà
+Descrizione: Da fare
 ---
 Descrizione della classe, che farò con calma.
 > Descrizione meta temporanea: scegli se avere un compagno animale o trasformarsi, nelle zone naturali ha parecchi bonus, abbastanza classico.

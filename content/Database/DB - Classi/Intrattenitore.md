@@ -2,6 +2,7 @@
 Tipo: classe
 PV: "6"
 Abilità: Carisma, Conoscenze
+Descrizione: Da fare
 ---
 Descrizione della classe, che farò con calma.
 > Descrizione meta temporanea: ottima faccia per il party, può lanciare incantesimi di nascosto, curare condizioni mentali (cosa rara), far recuperare PV, mana, abilità e altro. In combat può intimidire (MOLTO utile), applicare debuff, andare di counterspell e altre cose utili.
