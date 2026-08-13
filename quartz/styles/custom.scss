@@ -24,13 +24,9 @@ a.internal {
   padding: 0;
   margin: 1rem 0;
 
-  // la barra "Properties" cliccabile in cima
+  // nascondi la barra "Properties" con la freccia
   summary.note-properties-header {
-    background: none;
-    border: none;
-    padding: 0;
-    font-weight: 700;
-    margin-bottom: 0.5rem;
+    display: none;
   }
 
   table.note-properties-table {
@@ -39,6 +35,7 @@ a.internal {
     border: none;
     border-collapse: collapse;
     background: none;
+    font-size: 1rem; // regola a piacere se ti sembra ancora piccolo/grande
 
     tbody, tr, td, th {
       display: block;
@@ -69,4 +66,9 @@ a.internal {
       }
     }
   }
+}
+
+// dato che il summary è nascosto, forza il pannello sempre "aperto"
+details.note-properties.metadata-container {
+  display: block;
 }
