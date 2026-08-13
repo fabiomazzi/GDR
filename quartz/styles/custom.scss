@@ -52,7 +52,7 @@ a.internal {
         display: inline;
         font-weight: 700;
         color: var(--dark);
-
+        font-size: 1rem; // regola a piacere se ti sembra ancora piccolo/grande
         &::after {
           content: ": ";
         }
