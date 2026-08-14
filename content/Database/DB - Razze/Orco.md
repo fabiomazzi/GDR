@@ -2,7 +2,7 @@
 Tipo: razza
 Descrizione: "Da fare."
 Abilità: ["[[Sopravvivenza]]", "[[Vigore]]"]
-Linguaggi: Comune, Selvaggio
+Linguaggi: "[[06 Scheda personaggio#🗣️ Linguaggi|Comune, Selvaggio]]"
 ---
 ---
 ### Capacità

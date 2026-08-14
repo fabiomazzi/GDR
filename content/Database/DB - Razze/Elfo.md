@@ -2,7 +2,7 @@
 Tipo: razza
 Descrizione: "Da fare."
 Abilità: ["[[Destrezza]]", "[[Magia]]"]
-Linguaggi: Comune, Elfico
+Linguaggi: "[[06 Scheda personaggio#🗣️ Linguaggi|Comune, Elfico]]"
 ---
 ---
 ## Capacità

@@ -2,7 +2,7 @@
 Tipo: razza
 Descrizione: "Da fare, temporanea: erano gli schiavi dei draghi."
 Abilità: ["[[Sopravvivenza]]", "[[Vigore]]"]
-Linguaggi: Comune, Draconico
+Linguaggi: "[[06 Scheda personaggio#🗣️ Linguaggi|Comune, Draconico]]"
 ---
 ---
 ## Capacità
