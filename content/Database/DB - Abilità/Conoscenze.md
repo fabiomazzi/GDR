@@ -1,8 +1,8 @@
 ---
 Tipo: Abilità
-Classi: Alchimista, Intrattenitore, Medico, Ramingo, Runologo, Studioso
-Provenienze: Nobile
-Razze: Automa
+Classi: ["[[Alchimista]]", "[[Intrattenitore]]", "[[Medico]]", "[[Ramingo]]", "[[Runologo]]", "[[Studioso]]"]
+Provenienze: ["[[Nobile]]"]
+Razze: ["[[Automa]]"]
 ---
 **Descrizione:** Ricordare informazioni e dettagli sulla storia, geografia, custodi, popoli, mostri, natura, etc. Rappresenta ciò hai letto e studiato. Serve per scoprire debolezze e abilità di creature non magiche.
 

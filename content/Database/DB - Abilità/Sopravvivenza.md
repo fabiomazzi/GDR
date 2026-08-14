@@ -1,8 +1,8 @@
 ---
 Tipo: Abilità
-Classi: Berserker, Druido, Ramingo, Runologo
-Provenienze: Foresta
-Razze: Gigante, Orco
+Classi: ["[[Berserker]]", "[[Druido]]", "[[Ramingo]]", "[[Runologo]]"]
+Provenienze: ["[[Foresta]]"]
+Razze: ["[[Gigante]]", "[[Orco]]"]
 ---
 **Descrizione:** Tutto quello che riguarda il viaggiare. Saper evitare animali selvaggi e pericoli naturali. Prevedere il meteo. Seguire e nascondere tracce.
 

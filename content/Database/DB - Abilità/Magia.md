@@ -1,8 +1,8 @@
 ---
 Tipo: Abilità
-Classi: Alchimista, Arcanista, Necromante, Tecnomante
-Provenienze: Accademia di magia
-Razze: Dragonide, Elfo, Gnomo
+Classi: ["[[Alchimista]]", "[[Arcanista]]", "[[Necromante]]", "[[Tecnomante]]"]
+Provenienze: ["[[Accademia di magia]]"]
+Razze: ["[[Dragonide]]", "[[Elfo]]", "[[Gnomo]]"]
 ---
 **Descrizione:** Tutte le conoscenze legate alla [[magia]] e le creature magiche. Determina la tua riserva di [[06 Scheda personaggio#🔮 Mana|mana]] e il quanto è difficile resistere ai tuoi [[13 Incantesimi|incantesimi]] ed effetti magici.
 

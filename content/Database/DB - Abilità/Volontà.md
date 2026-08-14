@@ -1,8 +1,8 @@
 ---
 Tipo: Abilità
-Classi: Arcanista, Devoto, Elementalista, Monaco, Necromante, Sciamano, Templare
-Provenienze: Palude
-Razze: Nano
+Classi: ["[[Arcanista]]", "[[Devoto]]", "[[Elementalista]]", "[[Monaco]]", "[[Necromante]]", "[[Sciamano]]", "[[Templare]]"]
+Provenienze: ["[[Palude]]"]
+Razze: ["[[Nano]]"]
 ---
 **Descrizione:** Fermezza mentale e morale. Determina [[06 Scheda personaggio#🛡️ Difese|risolutezza]].
 

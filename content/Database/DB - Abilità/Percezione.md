@@ -1,8 +1,8 @@
 ---
 Tipo: Abilità
-Classi: Bastione
-Provenienze: Insediamento rurale
-Razze: Insettoide
+Classi: ["[[Bastione]]"]
+Provenienze: ["[[Insediamento rurale]]"]
+Razze: ["[[Insettoide]]"]
 ---
 **Descrizione:** Quanto sei attento al mondo circostante. Accorgerti di movimenti, suoni, odori e dettagli nascosti.
 

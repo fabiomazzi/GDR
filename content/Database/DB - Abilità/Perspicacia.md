@@ -1,8 +1,8 @@
 ---
 Tipo: Abilità
-Classi: Condottiero, Tecnomante, Tuttofare
-Provenienze: Città
-Razze: Automa, Gnomo
+Classi: ["[[Condottiero]]", "[[Tecnomante]]", "[[Tuttofare]]"]
+Provenienze: ["[[Città]]"]
+Razze: ["[[Automa]]", "[[Gnomo]]"]
 ---
 **Descrizione:** Intuire come funziona un macchinario. Determinare le [[06 Scheda personaggio#🛡️ Difese|difese]], le abilità e il livello di un essere. Capire cos'è successo in un luogo dopo un combattimento, un furto, etc.
 

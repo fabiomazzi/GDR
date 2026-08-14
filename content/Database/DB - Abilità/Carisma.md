@@ -1,8 +1,8 @@
 ---
 Tipo: Abilità
-Classi: Condottiero, Devoto, Intrattenitore, Sciamano
-Provenienze: Nomade
-Razze: Dragonide
+Classi: ["[[Condottiero]]", "[[Devoto]]", "[[Intrattenitore]]", "[[Sciamano]]"]
+Provenienze: ["[[Nomade]]"]
+Razze: ["[[Dragonide]]"]
 ---
 **Descrizione:** La tua capacità di influenzare, intrattenere, persuadere o intimidire gli altri attraverso la personalità e l’espressività. Saper leggere le persone e le situazioni. Vedi [[04 Azioni e reazioni#😠 Intimidire|intimidire]].
 

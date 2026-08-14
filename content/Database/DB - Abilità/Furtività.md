@@ -1,8 +1,8 @@
 ---
 Tipo: Abilità
-Classi: Acrobata, Assassino
-Provenienze: Sottosuolo
-Razze: Felari
+Classi: ["[[Acrobata]]", "[[Assassino]]"]
+Provenienze: ["[[Sottosuolo]]"]
+Razze: ["[[Felari]]"]
 ---
 **Descrizione:** Sapersi nascondere e passare inosservati. Scassinare serrature, lucchetti e altri meccanismi per aprirli o richiuderli. Borseggiare. Piazzare o disattivare trappole. Nascondere un’arma su di te. Se più di un membro del party deve nascondersi, si usa la media dei loro tiri Furtività.
 

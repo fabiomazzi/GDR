@@ -1,8 +1,8 @@
 ---
 Tipo: Abilità
-Classi: Berserker, Bastione, Elementalista, Guerriero, Maestro d'armi, Lottatore, Templare
-Provenienze: Montagna
-Razze: Gigante, Nano, Orco
+Classi: ["[[Berserker]]", "[[Bastione]]", "[[Elementalista]]", "[[Guerriero]]", "[[Maestro d'armi]]", "[[Lottatore]]", "[[Templare]]"]
+Provenienze: ["[[Montagna]]"]
+Razze: ["[[Gigante]]", "[[Nano]]", "[[Orco]]"]
 ---
 **Descrizione:** Quanto si è forti e robusti fisicamente. Serve per lanciare, sollevare, correre, scalare, arrampicarsi, nuotare, saltare, etc. Determina il danno con le armi da mischia e il [[06 Scheda personaggio#🛡️ Difese|bloccare]].
 

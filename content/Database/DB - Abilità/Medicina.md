@@ -1,8 +1,8 @@
 ---
 Tipo: Abilità
-Classi: Druido, Medico, Studioso
-Provenienze: Deserto
-Razze: 
+Classi: ["[[Druido]]", "[[Medico]]", "[[Studioso]]"]
+Provenienze: ["[[Deserto]]"]
+Razze: []
 ---
 **Descrizione:** Trattare le [[11 Condizioni e lesioni#Lesioni|lesioni]]. Conoscere e creare rimedi per [[16 Composti e veleni#Veleni|veleni]] e malattie, determinare la causa di morte.
 

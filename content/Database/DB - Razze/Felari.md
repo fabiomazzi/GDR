@@ -1,6 +1,6 @@
 ---
 Tipo: razza
-Descrizione: "Da fare."
+Descrizione: "Da fare, temporanea: sono gli uomini gatto."
 Abilità: ["[[Destrezza]]", "[[Furtività]]"]
 Linguaggi: Animale, Comune
 ---
