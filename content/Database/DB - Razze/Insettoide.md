@@ -4,6 +4,7 @@ Descrizione: "Da fare, temporanea: durante un test di un teletrasporto di uno gn
 Abilità: "[[Destrezza]], [[Percezione]]"
 Linguaggi: Animale, Comune
 ---
+---
 **Scegli un insetto, guadagni le sue capacità.**
 ## MOSCA
 ### Livello 1️

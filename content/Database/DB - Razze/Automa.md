@@ -4,6 +4,7 @@ Descrizione: "Da fare, temporanea: creati dal primo Tecnomante come schiavi, fac
 Abilità: "[[Conoscenze]], [[Perspicacia]]"
 Linguaggi: Comune e uno a scelta
 ---
+---
 ## Capacità
 - Sei immune a [[16 Composti e veleni|veleni]] e malattie ma sei debole ai danni elettrici
 - Non devi mangiare, bere o dormire, ma se passi più di 24 ore senza riposare ti spegni per 8 ore senza possibilità di riattivarti

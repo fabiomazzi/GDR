@@ -4,6 +4,7 @@ Descrizione: "Da fare."
 Abilità: "[[Destrezza]], [[Furtività]]"
 Linguaggi: Animale, Comune
 ---
+---
 ## Capacità
 - Considera condizioni di luce scarsa come fossero normali.
 - Puoi scalare, arrampicarti e saltare usando la tua [[Destrezza]] invece che [[Vigore]].
