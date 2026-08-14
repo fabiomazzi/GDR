@@ -22,7 +22,6 @@ a.internal {
   box-shadow: none;
   border-radius: 0;
   padding: 0;
-  margin: 0.9rem 0;
 
   // nascondi la barra "Properties" con la freccia
   summary.note-properties-header {
@@ -51,7 +50,6 @@ a.internal {
       td:first-child, th:first-child {
         display: inline;
         font-weight: 700;
-        margin: 0.9rem 0;
         color: var(--dark);
         &::after {
           content: ": ";
