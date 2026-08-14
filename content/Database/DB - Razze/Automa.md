@@ -1,7 +1,7 @@
 ---
 Tipo: razza
 Descrizione: "Da fare, temporanea: creati dal primo Tecnomante come schiavi, facendoli sempre più avanzati è riuscito ad infondergli una coscienza. Il Tecnomante non si sa che fine abbia fatto, nessun altro sa come farli. Devono riposare altrimenti il sistema di auto-ricarica non funziona."
-Abilità: "[[Conoscenze]], [[Perspicacia]]"
+Abilità: ["[[Conoscenze]]", "[[Perspicacia]]"]
 Linguaggi: Comune e uno a scelta
 ---
 ---

@@ -1,7 +1,7 @@
 ---
 Tipo: provenienza
 Descrizione: "Da fare."
-Abilità: "[[Vigore]]"
+Abilità: ["[[Montagna]]"]
 ---
 ---
 ## Capacità

@@ -1,7 +1,7 @@
 ---
 Tipo: razza
 Descrizione: "Da fare."
-Abilità: "[[Destrezza]], [[Furtività]]"
+Abilità: ["[[Destrezza]]", "[[Furtività]]"]
 Linguaggi: Animale, Comune
 ---
 ---

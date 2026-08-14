@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "8"
-Abilità: "[[Vigore]], [[Volontà]]"
+Abilità: ["[[Vigore]]", "[[Volonta]]"]
 Descrizione: "[temporanea] gli elementi gli scorrono dentro, non li usa tramite la magia. Usa Vigore e Volontà perché deve essere abbastanza forte mentalmente per farsi del male liberando gli elementi e abbastanza resistente fisicamente per sopportare quel dolore."
 ---
 ---

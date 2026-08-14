@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "8"
-Abilità: "[[Carisma]], [[Sopravvivenza]]"
+Abilità: ["[[Carisma]]", "[[Vigore]]"]
 Descrizione: "[temporanea] full support, equipaggia degli stendardi che danno bonus e contrassegna un nemico su cui fare focus per poter recuperare abilità e curare."
 ---
 ---

@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "6"
-Abilità: "[[Sopravvivenza]], [[Volontà]]"
+Abilità: ["[[Sopravvivenza]]", "[[Volonta]]"]
 Descrizione: "[temporanea] scegli se avere un compagno animale o trasformarsi, nelle zone naturali ha parecchi bonus, abbastanza classico."
 ---
 ---

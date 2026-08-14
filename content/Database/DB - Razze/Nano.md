@@ -1,7 +1,7 @@
 ---
 Tipo: razza
 Descrizione: "Da fare."
-Abilità: "[[Vigore]], [[Volontà]]"
+Abilità: ["[[Vigore]]", "[[Volonta]]"]
 Linguaggi: Comune, Nanico
 ---
 ---

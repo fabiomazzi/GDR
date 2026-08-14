@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "6"
-Abilità: "[[Destrezza]], [[Perspicacia]]"
+Abilità: ["[[Destrezza]]", "[[Perspicacia]]"]
 Descrizione: "[temporanea] skill monkey. Sa fare tutto discretamente bene, anche copiando le altre classi. In combat punta ad usare delle trappole portatili e altri oggetti."
 ---
 ---

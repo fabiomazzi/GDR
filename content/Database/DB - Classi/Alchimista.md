@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "6"
-Abilità: "[[Conoscenze]], [[Magia]]"
+Abilità: ["[[Conoscenze]]", "[[Magia]]"]
 Descrizione: "[temporanea] basato sul creare composti (e veleni anche se meno) e usarli in combattimento."
 ---
 ---

@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "6"
-Abilità: "[[Destrezza]], [[Precisione]]"
+Abilità: ["[[Destrezza]]", "[[Precisione]]"]
 Descrizione: "[temporanea] attacca e fa parecchio danno con armi dalla distanza e da lancio. Sa usare le loro capacità speciali e le armi da lancio che ha comode fanno attacchi secondari."
 ---
 ---

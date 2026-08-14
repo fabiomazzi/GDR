@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "8"
-Abilità: "[[Precisione]], [[Vigore]]"
+Abilità: ["[[Precisione]]", "[[Vigore]]"]
 Descrizione: "[temporanea] si basa sul cambiare di continuo arma e avere a portata di mano quella migliore per ogni situazione: tipo di danno, una per le reazioni, una per parare, etc... sa usare le capacità speciali di tutte le armi e guadagna cariche quando ne usa diverse"
 ---
 ---

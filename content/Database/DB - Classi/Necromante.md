@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "4"
-Abilità: "[[Magia]], [[Volontà]]"
+Abilità: ["[[Magia]]", "[[Volonta]]"]
 Descrizione: "[temporanea] ha un servitore non-morto permanente più un piccolo esercito di non-morti al seguito. Può consumare la loro energia vitale per bonus immediati, curare, esplosioni, etc"
 ---
 ---

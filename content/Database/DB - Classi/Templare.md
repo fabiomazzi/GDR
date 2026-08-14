@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "8"
-Abilità: "[[Vigore]], [[Volontà]]"
+Abilità: ["[[Vigore]]", "[[Volonta]]"]
 Descrizione: "[temporanea] mena con l'aiuto dei custodi e la sua arma sacra che gli concede dei talenti. Fervore gli fa aggiungere danni e condizioni, oltre che diminuire il danno subito e lanciare la sua arma."
 ---
 ---

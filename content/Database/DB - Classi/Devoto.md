@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "4"
-Abilità: "[[Carisma]], [[Volontà]]"
+Abilità: ["[[Carisma]]", "[[Volonta]]"]
 Descrizione: "[temporanea] basato su incanalare, gli permette di curare e supportare o di fare danno e applicare debuff. Recupera mana quindi buon caster."
 ---
 ---

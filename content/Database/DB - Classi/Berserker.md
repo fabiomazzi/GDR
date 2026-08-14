@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "12"
-Abilità: "[[Sopravvivenza]], [[Vigore]]"
+Abilità: ["[[Sopravvivenza]]", "[[Vigore]]"]
 Descrizione: "[temporanea] cerca di scendere di punti vita per andare in ira. Subisce apposta attacchi per contrattaccare."
 ---
 ---

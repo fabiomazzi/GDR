@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "6"
-Abilità: "[[Destrezza]], [[Precisione]]"
+Abilità: ["[[Destrezza]]", "[[Precisione]]"]
 Descrizione: "[temporanea] combattente mobile e agile basato sul gestire i punti maestria e il parare. 6 PV e limiti sulle armature costringono a giocarlo mordi e fuggi."
 ---
 ---

@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "6"
-Abilità: "[[Carisma]], [[Volontà]]"
+Abilità: ["[[Carisma]]", "[[Volonta]]"]
 Descrizione: "[temporanea] può far comparire degli spiriti che danneggiano, curano, buffano, debuffano amici e nemici. Gli fanno recuperare mana quando fanno qualcosa."
 ---
 ---

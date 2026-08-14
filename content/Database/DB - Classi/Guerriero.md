@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "10"
-Abilità: "[[Precisione]], [[Vigore]]"
+Abilità: ["[[Precisione]]", "[[Vigore]]"]
 Descrizione: "[temporanea] basato sul combattere in mischia e buttarsi in mezzo. Più nemici vicini ci sono, meglio funzionano le abilità."
 ---
 ---

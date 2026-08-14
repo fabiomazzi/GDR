@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "10"
-Abilità: "[[Precisione]], [[Vigore]]"
+Abilità: ["[[Precisione]]", "[[Vigore]]"]
 Descrizione: "[temporanea] si basa sul combattere a mani nude, lottare, afferrare e simili."
 ---
 ---

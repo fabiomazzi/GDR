@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "6"
-Abilità: "[[Furtività]], [[Precisione]]"
+Abilità: ["[[Furtività]]", "[[Precisione]]"]
 Descrizione: "[temporanea] basato sullo sfruttare il talento Colpo Furtivo e i veleni, quindi deve attaccare da nascosto riposizionandosi e nascondendosi di continuo."
 ---
 ---

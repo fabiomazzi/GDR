@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "6"
-Abilità: "[[Conoscenze]], [[Medicina]]"
+Abilità: ["[[Conoscenze]]", "[[Medicina]]"]
 Descrizione: "[temporanea] cura, debuff, ottimo per trattare o causare lesioni e unico modo comodo per avere delle protesi. In più sa creare pozioni per curarsi e simili."
 ---
 ---

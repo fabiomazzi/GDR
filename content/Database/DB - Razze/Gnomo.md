@@ -1,7 +1,7 @@
 ---
 Tipo: razza
 Descrizione: "Da fare."
-Abilità: "[[Magia]], [[Perspicacia]]"
+Abilità: ["[[Magia]]", "[[Perspicacia]]"]
 Linguaggi: Comune, Silvano
 ---
 ---
