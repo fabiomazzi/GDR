@@ -11,7 +11,7 @@
 - fare le proprietà speciali delle armi
 - gear e talenti per far recuperare gli usi di incanalare, condotto spirituale e simili
 - ricordarsi quando si scrivono avventure e si mastera di avere cose tipo “se c’è un classe/razza si hanno vantaggi, non bisogna tirare, etc.” soprattutto per classi “non da combat”
-- fare armi che hanno bonus se usate per attacchi con reazioni
+- fare armi che hanno bonus se usate per attacchi con reazioni o per parare
 - dare a più cose la possibilità di fermare le persone, soprattutto ai tank
 - fare le trappole
 - fare gli oggetti
