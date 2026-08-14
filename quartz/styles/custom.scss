@@ -22,8 +22,11 @@ a.internal {
   box-shadow: none;
   border-radius: 0;
   padding: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  color: inherit;
 
-  // nascondi la barra "Properties" con la freccia
   summary.note-properties-header {
     display: none;
   }
@@ -34,19 +37,25 @@ a.internal {
     border: none;
     border-collapse: collapse;
     background: none;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
 
     tbody, tr, td, th {
       display: block;
       border: none !important;
       background: none !important;
       padding: 0 !important;
+      font-family: inherit;
+      font-size: inherit;
+      line-height: inherit;
     }
 
     tr {
       display: block;
-      margin-bottom: 0.35rem;
+      // stessa spaziatura verticale usata dai <p> nell'articolo
+      margin: 0 0 1em 0;
 
-      // prima cella = nome proprietà (es. "PV", "Abilità")
       td:first-child, th:first-child {
         display: inline;
         font-weight: 700;
@@ -55,8 +64,6 @@ a.internal {
           content: ": ";
         }
       }
-
-      // seconda cella = valore
       td:last-child {
         display: inline;
         color: var(--darkgray);
@@ -65,7 +72,6 @@ a.internal {
   }
 }
 
-// dato che il summary è nascosto, forza il pannello sempre "aperto"
 details.note-properties.metadata-container {
   display: block;
 }
