@@ -1,3 +1,6 @@
+---
+title: Incontri e riposare
+---
 # Incontro, turno e round
 Per “incontro” si intende una situazione sociale o un combattimento durante il quale il Master decide che bisogna agire a turni.  
 Un incontro è diviso in round, durante un round i partecipanti svolgono a giro un turno a testa.

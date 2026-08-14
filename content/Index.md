@@ -1,5 +1,5 @@
 ---
-title: 00 Dove sono?
+title: Dove sono?
 ---
 Questo è il regolamento di \[INSERÒ IL NOME APPENA LO DECIDO].
 

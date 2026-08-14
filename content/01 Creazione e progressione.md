@@ -1,3 +1,6 @@
+---
+title: Creazione e progressione
+---
 # Creare un personaggio
 - Scegli una [[07 Classi|classe]], portala a livello 1.
 - Scegli una [[08 Razze|razza]] e una [[09 Provenienze|provenienza]].
