@@ -1,6 +1,3 @@
----
-title: Combattimento
----
 # Risolvere un'azione
 *Quando si risolve un’azione, per “attaccante” si intende la persona o oggetto che compie l’azione, per “difensore” chi sta subendo l’azione.*  
 *es: una palla di fuoco può avere nessuno o più difensori, se qualcuno beve una pozione verrà considerato “attaccante” anche se non ci sono difensori.*  
