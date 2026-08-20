@@ -26,10 +26,8 @@ views:
       - Capacità Speciali
       - Note
     sort:
-      - property: L
-        direction: DESC
-      - property: D
-        direction: DESC
+      - property: DES req
+        direction: ASC
     columnSize:
       file.name: 156
       note.VIG req: 75
@@ -87,13 +85,9 @@ Per ogni incremento di gittata hai -4 al tiro per colpire.
 ### Difesa
 Come ci si difende dagli attacchi di quest'arma. Vedi [[03 Combattimento#Risolvere un'azione|risolvere un'azione]].
 ### DES/MAG/VIG/VOL req
-Abilità richiesta per usare l'equipaggiamento. I requisiti si sommano.
+Abilità richiesta per essere equipaggiato. I requisiti si sommano.
 
-Se un’arma ti fa scegliere tra [[Destrezza]] e [[Vigore]], aggiungerai quello che usi come requisito al danno.
-
-Se per esempio voglio indossare un’armatura media (VIG 2), uno scudo grande (VIG 2) e una spada corta (VIG 1 o DES 1) devo avere uno fra:
-- VIG 5
-- VIG 4 e DES 1 (in questo caso la spada corta aggiungerò DES invece che VIG al danno)
+Se per esempio voglio equipaggiare un’armatura media (VIG 2), uno scudo grande (VIG 2) e un bastone (VIG 1 + DES 1) devo almeno 5 in Vigore e 1 in Destrezza.
 ### (L) Da lancio
 Deve essere lanciata.
 ### Naturale

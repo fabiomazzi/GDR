@@ -9,9 +9,9 @@ C: false
 DES req: 2
 Danno: 1d4
 Difesa: B, S
-VIG req: 2
+VIG req:
 D: true
-Note: VIG oppure DES. In un slot arma puoi mettere 6 shuriken.
+Note: In un slot arma puoi mettere 6 shuriken.
 Parare:
 P: true
 Schivare:

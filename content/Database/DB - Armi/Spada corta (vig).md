@@ -5,7 +5,7 @@ Magico: false
 A: true
 Armatura:
 Capacità Speciali:
-C: true
+C: false
 DES req:
 Danno: 1d4
 Difesa: B, P, S
@@ -15,7 +15,7 @@ Note:
 Parare:
 P: false
 Schivare:
-T: false
+T: true
 Gittata:
 L: false
 ---

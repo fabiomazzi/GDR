@@ -1,7 +1,7 @@
 ---
 Tipo: classe
 PV: "10"
-Abilità: ["[[Destrezza]]", "[[Furtività]]"]
+Abilità: ["[[Percezione]]", "[[Vigore]]"]
 Descrizione: "[temporanea] classe difensiva e di supporto basato sul bloccare e usare armature, blocca gli attacchi diretti agli alleati, migliora armature e scudi."
 ---
 ---

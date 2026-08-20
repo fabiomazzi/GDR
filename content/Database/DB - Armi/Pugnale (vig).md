@@ -6,12 +6,12 @@ A: true
 Armatura:
 Capacità Speciali: Nel momento in cui impugni quest'arma, puoi lanciarla facendo un attacco rapido.
 C: false
-DES req: 1
+DES req:
 Danno: 1d3
 Difesa: B, P, S
 VIG req: 1
 D: false
-Note: VIG oppure DES.
+Note:
 Parare: -3
 P: true
 Schivare:

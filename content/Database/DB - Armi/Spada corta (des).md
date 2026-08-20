@@ -6,12 +6,12 @@ A: true
 Armatura:
 Capacità Speciali:
 C: false
-DES req: 1
+DES req: 2
 Danno: 1d4
 Difesa: B, P, S
-VIG req: 1
+VIG req:
 D: false
-Note: VIG oppure DES
+Note:
 Parare:
 P: false
 Schivare:
