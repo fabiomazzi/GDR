@@ -28,6 +28,10 @@ Trovo il combattimento di tanti GDR (soprattutto D&D) poco soddisfacente sotto v
 	- Potete compiere scelte e azioni influenti anche fuori dal vostro turno, per meglio rappresentare il dinamismo di un combattimento. 
 - L'equipaggiamento è "arma e armatura coi numeri più alti, con qualche pozione di cura".
 	- In base alla situazione e al nemico bisogna prepararsi con tipi di danno diversi, consumabili specifici e protezioni adeguate.
+- La magia è schifosamente sbilanciata.
+	- Non ci sono maghi che con uno schiocco di dita fanno esplodere pianeti, mentre i ladri pregano di riuscire a fare 3d6 danni con un furtivo.
+- I combattimenti sono lunghi e noiosi con gente che resiste a decine di attacchi subiti.
+	- Pochi colpi ben assestati sono sufficienti per tirare giù chiunque.
 - Poca personalizzazione una volta scelta la classe iniziale.
 	- Se livellando volete che il vostro monaco studi necromanzia e alchimia, nessuno ve lo vieta.
 - Statistiche, caratteristiche, tira i dadi ma puoi togliere i più bassi e ritirare gli 1, non metterle dispari che non serve, competenze, talenti, puoi cambiare un bonus di razza per un altro... chi crea un PG le prime volte non ha idea di cosa sta facendo.
