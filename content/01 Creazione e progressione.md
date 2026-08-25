@@ -1,18 +1,13 @@
 # Creare un personaggio
-- Scegli una [[07 Classi|classe]], portala a livello 1.
-- Scegli una [[08 Razze|razza]] e una [[09 Provenienze|provenienza]].
-- Metti 1 punto in ogni [[05 Abilità|abilità]] indicata nelle tabelle di [[07 Classi|classe]], [[08 Razze|razza]] e [[09 Provenienze|provenienza]].
-- Metti 1 punto in 3 [[05 Abilità|abilità]] a scelta, puoi avere al massimo 3 punti in un abilità.
-- Segna le capacità guadagnate da [[07 Classi|classe]], [[08 Razze|razza]] e [[09 Provenienze|provenienza]].
-- Guadagni [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] pari a quelli della tua [[07 Classi|classe]].
+- Scegli una [[07 Classi|classe]], una [[08 Razze|razza]] e una [[09 Provenienze|provenienza]]. Porta la classe a livello 1.
+- Metti 1 punto in ogni [[05 Abilità|abilità]] indicata nella tabella della [[07 Classi|classe]] e segna le sue capacità. Guadagni i [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] dati da quella classe.
+- Metti 1 punto in ogni [[05 Abilità|abilità]] indicata nella tabella della [[08 Razze|razza]] e segna le sue capacità.
+- Metti 1 punto in ogni [[05 Abilità|abilità]] indicata nella tabella della [[09 Provenienze|provenienza]] e segna le sue capacità.
 - Scegli equipaggiamento e oggetti iniziali.
 # Salire di livello
 - Aumenta di 1 il livello di una [[07 Classi|classe]], fino al limite segnato nella tabella qui sotto
-- Guadagni:
-    - le capacità elencate sotto al nuovo livello
-    - 1 punto nelle sue [[05 Abilità|abilità]]
-    - [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] pari a quelli della [[07 Classi|classe]]
-- Metti 1 punto in 3 [[05 Abilità|abilità]] a scelta in cui non hai guadagnato punti durante questo aumento di livello.
+- Guadagni 1 punto nelle sue [[05 Abilità|abilità]], le capacità del nuovo livello e [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] pari a quelli della [[07 Classi|classe]].
+- Metti 1 punto in 5 [[05 Abilità|abilità]] a scelta in cui non hai guadagnato punti durante questo aumento di livello.
 ### Limite di livello
 
 | Livello PG | Livello massimo della classe |

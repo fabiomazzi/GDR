@@ -27,3 +27,4 @@
 	- molte vanno bene, altre sono da rivedere
 - fare le taglie
 - armi che aggiungono DES/VIG a precisione, o anche classi
+- sistemare il lassativo

@@ -2,7 +2,7 @@
 Costo: 2
 Difesa: Risolutezza
 Durata: Istantaneo
-Gittata: 10m
+Gittata: 20m
 Rapido: true
 Servitore: false
 Armatura inc: false

@@ -12,7 +12,7 @@
 - I difensori tirano 1d12. Questo è il tiro per difendersi.
 	- prima di tirare il d12 si può usare una [[04 Azioni e reazioni#Reazioni|reazione]] per aggiungere la [[06 Scheda personaggio#🛡️ Difese|difesa]] adatta al tiro per difendersi, in questo caso si dice che provano a bloccare/parare/schivare/resistere l'attacco.
 
-- **Attacco > difesa**
+- **Attacco ≥ difesa**
     - Si calcolano il danno o gli effetti:
         - si tirano i dadi dell'arma, incantesimo o altri effetti che fanno danno 
         - si aggiunge [[Destrezza]], [[Magia]] o [[Vigore]] in base all'attacco
@@ -21,7 +21,7 @@
         - si dimezza il totale rimasto per eventuali resistenze
         - se il dado per colpire ha fatto 12, o se altri effetti lo specificano, si applica una [[11 Condizioni e lesioni#Lesioni|lesione]] casuale in aggiunta al danno
         - le [[04 Azioni e reazioni#Reazioni|reazioni]] che hanno “che sta subendo danno” come requisito possono essere usate ora
-- **Attacco ≤ difesa**
+- **Attacco < difesa**
     - Nessun danno o effetto.
 
 ⚔️ Quando risolvi l’azione attacco, fai un [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]] con le tue [[06 Scheda personaggio#🧰 Armi e Oggetti|armi secondarie]].

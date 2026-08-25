@@ -59,7 +59,7 @@ Ogni condizione può essere trattata una volta per [[02 Incontri e riposare#Ripo
 ### 🤸 Usare abilità e capacità
 Vedi [[05 Abilità|abilità]] e le capacità di classi, razze, etc.
 # Reazioni
-Si hanno due reazioni ogni round, si possono usare in due modi:
+Si ha una reazione ogni round, si può usare in due modi:
 
 - Quando qualcuno causa una reazione, i partecipanti all'incontro possono usare una reazione che hanno fra le loro capacità, a patto di soddisfare i suoi requisiti. 
 Si causa una reazione quando si compie un'azione o in altri casi dove è specificato, per esempio quando ci si rialza da terra o si fa un movimento complesso. 

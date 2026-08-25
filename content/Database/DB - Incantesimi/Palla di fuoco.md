@@ -1,5 +1,5 @@
 ---
-Costo: 3
+Costo: 2
 Difesa: Bloccare, Schivare
 Durata: Istantaneo
 Gittata: 20m
@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Fai 1d4 danni da fuoco per [[06 Scheda personaggio#💯 Livello|livello]] in un raggio di 1m per livello.
+Fai 1d6 danni da fuoco per [[06 Scheda personaggio#💯 Livello|livello]] in un raggio di 1m per livello.

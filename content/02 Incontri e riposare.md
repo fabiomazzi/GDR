@@ -10,7 +10,7 @@ Svolgimento di un Incontro:
 - 🏁 Chi ha svolto l’ultimo turno del round sceglie chi inizia il round successivo (può scegliere se stesso).
 # Il tuo turno
 ### 🟡 Inizio turno
-- Ottieni un Movimento, un'Azione e due Reazioni.
+- Ottieni un Movimento, un'Azione e una Reazione.
 - Riduci di 1 la durata di ogni effetto “dura X turni" generato da te, se scende a 0 termina.
 - Puoi decidere che armi e oggetti impugnare o rinfoderare fra quelli [[06 Scheda personaggio#🧰 Armi e Oggetti|comodi]].
 - Subisci i danni da [[11 Condizioni e lesioni#🩸 SANGUINANTE|sanguinamento]] e altri effetti “all’inizio del turno”.

@@ -16,11 +16,11 @@ views:
       - Rapido
       - Difesa
     sort:
+      - property: Gittata
+        direction: ASC
       - property: file.name
         direction: ASC
       - property: Costo
-        direction: DESC
-      - property: Gittata
         direction: DESC
       - property: Difesa
         direction: ASC
