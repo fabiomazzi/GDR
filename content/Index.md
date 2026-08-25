@@ -24,7 +24,7 @@ Ci sono molti metodi per evitare di subire danno ma quando si subisce un attacco
 Trovo il combattimento di tanti GDR (soprattutto D&D) poco soddisfacente sotto vari aspetti:
 
 - L'unica domanda da farsi è "come faccio più danno possibile?".
-	- Posizionamento, preparazione e collaborazione devono essere più importanti dei numeri.
+	- Posizionamento, preparazione e collaborazione devono essere più importanti dei numeri. Le classi di supporto sono importanti, non servono semplicemente ad aumentare o diminuire i numeri.
 - Ognuno ottimizza il proprio turno senza pensare agli altri.
 	- Senza sinergia e supporto reciproco, si muore.
 - Fuori dal proprio turno la gente guarda dei culi su Instagram.
