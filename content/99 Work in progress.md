@@ -28,3 +28,4 @@
 - fare le taglie
 - armi che aggiungono DES/VIG a precisione, o anche classi
 - sistemare il lassativo
+- al momento è sviluppato solo il sistema del combattimento, poco alla volta sono da portare avanti le meccaniche per esplorazione e interazioni sociali

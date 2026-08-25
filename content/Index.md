@@ -43,7 +43,7 @@ Trovo il combattimento di tanti GDR (soprattutto D&D) poco soddisfacente sotto v
 Sì ma molto adattabile, di base è “mid fantasy” (la magia è comune ma non troppo potente).
 Il mondo era nato con una componente arcanopunk (marchingegni che incanalano la magia), ma è ancora da definire.
 ### Che sistema usa?
-d12, ha una bella forma e permette di tenere i bonus numerici bassi.
+2d6, permette di tenere i bonus numerici bassi perché la curva dei risultati è "a campana", cioè i bonus numerici influiscono molto di più rispetto ad usare un singolo dado.
 ### Quante classi ci sono?
 Al momento 26, ogni personaggio a livello 8 avrà una classe a livello 4, una di livello 3 e una di livello 1 (oppure 4-2-2), per un totale di 23400 combinazioni.
 ### Non hai paura che ci siano combinazioni rotte e sbilanciate?

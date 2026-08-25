@@ -3,7 +3,7 @@ Per “incontro” si intende una situazione sociale o un combattimento durante 
 Un incontro è diviso in round, durante un round i partecipanti svolgono a giro un turno a testa.
 
 Svolgimento di un Incontro:
-- 🎲 Tutti tirano 1d12 + [[Perspicacia]] + [[Destrezza]], questo risultato è l’iniziativa, che va annotata in ordine. Chi ha l’iniziativa più alta decide se agire o aspettare. Se aspetta si passa all’iniziativa successiva, così via fino a quando qualcuno non gioca il primo turno.
+- 🎲 Tutti tirano 2d6 + [[Perspicacia]] + [[Destrezza]], questo risultato è l’iniziativa, che va annotata in ordine. Chi ha l’iniziativa più alta decide se agire o aspettare. Se aspetta si passa all’iniziativa successiva, così via fino a quando qualcuno non gioca il primo turno.
     *Il Master può decidere chi agisce per primo a seconda della narrativa e/o far saltare il primo turno [[02 Incontri e riposare#Incontro, turno e round|iniziativa]] chi è ignaro di cosa sta succedendo. Si tirerà e annoterà comunque l’iniziativa dei partecipanti.*
  - 🌀 Quando finisci il turno, scegli chi agisce dopo di te (tra chi ancora non ha agito nel round).
 - ✅ Quando tutti hanno svolto il proprio turno, termina il round.
@@ -66,7 +66,7 @@ Se passi almeno 8 ore riposando:
 - 🔋 Recupera tutto il [[06 Scheda personaggio#🔮 Mana|mana]]
 - ❤️ Recupera metà dei tuoi [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] totali
 - ♻️ Recupera gli usi “X volte per riposo”
-- 🩹 Per ogni [[11 Condizioni e lesioni#Lesioni|lesioni]] fai un tiro di [[Vigore]], abbassa di un grado le lesioni lievi se fai 8 o più, quelle gravi se fai 12 o più. Ogni riposo in cui non guarisci da una lesione, hai un +1 cumulativo a quel tiro.
+- 🩹 Per ogni [[11 Condizioni e lesioni#Lesioni|lesioni]] fai un tiro di [[Vigore]], abbassa di un grado le lesioni lievi se fai 8 o più, quelle gravi se fai 10 o più. Ogni riposo in cui non guarisci da una lesione, hai un +1 cumulativo a quel tiro.
 - 🧪 [[03 Combattimento#Risolvere un'azione|Difenditi]] dai [[16 Composti e veleni#Veleni|veleni]] che hai in corpo, ogni riposo in cui non guarisci da un veleno, hai un +1 cumulativo a quel tiro.
 
 Si può riposare indicativamente una volta al giorno, a discrezione del Master.

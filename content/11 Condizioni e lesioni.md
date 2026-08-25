@@ -55,7 +55,7 @@ Ogni volta oltre alla prima che diventeresti ustionato, aumenta questo malus di 
 Cadi a terra addormentato.  
 Non puoi agire.  
 Se subisci danno ti svegli.  
-I tuoi tiri per difenderti sono considerati 0 e chi ti attacca da adiacente fa automaticamente 12 e danno massimo.  
+I tuoi tiri per difenderti sono considerati 0 e chi ti attacca da adiacente fa automaticamente un doppio 6 e danno massimo.  
 Un altro personaggio può svegliarti con un’azione.
 Fallisci automaticamente le prove che richiedono un qualunque movimento.
 ### 😍 Ammaliato
@@ -70,7 +70,7 @@ Obbedisci agli ordini impartiti da chi ti ha dominato.
 Non puoi eseguire [[04 Azioni e reazioni#Reazioni|reazioni]].
 ### 🗿 Paralizzato
 Sei bloccato e non puoi agire.  
-I tuoi tiri per difenderti sono considerati 0 e chi ti attacca da adiacente fa automaticamente 12 e danno massimo.  
+I tuoi tiri per difenderti sono considerati 0 e chi ti attacca da adiacente fa automaticamente un doppio 6 e danno massimo.  
 Fallisci automaticamente le prove che richiedono un qualunque movimento.
 ### 😱 Spaventato
 Cerchi in tutti i modi di allontanarti dalla fonte dell’effetto.  
@@ -81,10 +81,10 @@ Non puoi usare [[04 Azioni e reazioni#Azioni|azioni]], [[04 Azioni e reazioni#Re
 ### 😑 Svenuto
 Cadi a terra svenuto.  
 Non puoi agire.  
-I tuoi tiri per difenderti sono considerati 0 e chi ti attacca da adiacente fa automaticamente 12 e danno massimo.  
+I tuoi tiri per difenderti sono considerati 0 e chi ti attacca da adiacente fa automaticamente un doppio 6 e danno massimo.  
 Dopo 24 ore rinvieni.
 # Lesioni
-Quando un attacco va a segno e il dado per colpire segna un 12, si applica una lesione casuale. Tira 1d12 per scegliere a che zona applicarla, se fai 12 sceglila tu.
+Quando un attacco va a segno e il dado per colpire segna un doppio 6, si applica una lesione casuale. Tira 1d12 per scegliere a che zona applicarla, se fai 12 sceglila tu.
 
 Se un effetto ti dice “applica una lesione” scegli tu la zona.
 

@@ -25,7 +25,7 @@ Creature che sono in grado di ragionamenti anche basilari e che hanno un’anima
 Non consuma azioni, reazioni, movimento, etc.
 ### Iniziativa
 Determina chi agisce per primo all'inizio di un incontro e in altre situazione in cui più di una persona vuole agire nello stesso momento.
-È 1d12 + [[Perspicacia]] + [[Destrezza]].
+È 2d6 + [[Perspicacia]] + [[Destrezza]].
 ### Minacciare
 Minacci tutti i nemici che puoi attaccare con l'arma che hai impugnato.
 ### Reazione
