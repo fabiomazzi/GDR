@@ -5,4 +5,4 @@ Abilità: ["[[Volontà]]"]
 ---
 ---
 ## Capacità
-- Hai +2 contro [[16 Composti e veleni#Veleni|veleni]] e malattie.
+- Hai +1 contro [[16 Composti e veleni#Veleni|veleni]] e malattie.

@@ -1,20 +1,16 @@
 ---
 Tipo: talento
 ---
-Se sei in un territorio che hai studiato per almeno un giorno (in una libreria, sul campo, chiedendo informazioni ad esperti della zona) hai:
-- +1 a [[Percezione]].
-- +1 a [[Furtività]]; muoversi furtivamente non è un movimento complesso.
-- +1 a [[Sopravvivenza]]; non sei rallentato quando segui delle tracce.
-- +1 a [[Perspicacia]] per indagare.
-- All’inizio di un incontro, dopo aver visto le [[02 Incontri e riposare#Incontro, turno e round|iniziative]], puoi muoverti di 4m e ripristinare una [[04 Azioni e reazioni#Reazioni|reazione]].
-- +1 alle prove di [[Conoscenze]] per avere informazioni riguardo quel territorio, compresi abitanti, animali e mostri.
+Se sei in un ambiente che hai studiato per almeno un giorno (in una libreria, sul campo, chiedendo informazioni ad esperti della zona) hai i seguenti bonus:
+- +1 a tutte le prove di [[05 Abilità|abilità]].
+- All’inizio di un incontro, dopo aver visto le [[02 Incontri e riposare#Incontro, turno e round|iniziative]], puoi muoverti di 2m e ripristinare una [[04 Azioni e reazioni#Reazioni|reazione]].
 - I [[02 Incontri e riposare#Movimento|terreni difficili]] non magici non ti rallentano.
-- Hai un bonus di +2m al movimento.
+- +2m al movimento.
 - Non ti puoi perdere se non per effetti magici.
 
-Questi bonus rimangono attivi fino a quando non decidi di applicarli ad un altro territorio.
+Questi bonus rimangono attivi fino a quando non decidi di applicarli ad un altro ambiente.
 
-I territori sono: Arido (deserti, steppe), Marino, Montano, Naturale (foreste, praterie, paludi), Rurale (piccoli villaggi), Sotterraneo (dungeon, grotte, sotterranei), Urbano (grandi città)
+Gli ambienti sono: Arido (deserti, steppe), Marino, Montano, Naturale (foreste, praterie, paludi), Rurale (piccoli villaggi), Sotterraneo (dungeon, grotte, sotterranei), Urbano (grandi città)
 
 Il Master può aggiungere o modificare la lista in base all’ambientazione e alla storia.
 

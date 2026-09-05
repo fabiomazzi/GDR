@@ -5,3 +5,4 @@ Abilità: ["[[Conoscenze]]"]
 ---
 ---
 ## Capacità
+- 

@@ -2,20 +2,21 @@
 - Riduci i danni ricevuti da ogni effetto diretto (non si applica a sanguinamenti e simili) di una quantità pari alla tua armatura.
 - Danni magici e necrotici ignorano l’armatura.
 ### 🧰 Armi e Oggetti
-Armi, scudi e oggetti comodi sono quelli che hai impugnato o che hai in uno degli slot comodi.
-Gli slot comodi sono:
-- 2 slot armi o scudi (le armi a due mani e gli scudi grandi e a torre occupano due slot)
+Armi, scudi e oggetti comodi sono quelli che hai impugnato o che hai in uno slot comodo.
+Hai questi slot comodi:
+- 2 slot armi o scudi (le armi a due mani e gli scudi grandi/torre occupano due slot)
 - 3 slot oggetti
+*Il numero di armi e oggetti totali (per esempio dentro o appesi allo zaino) va a discrezione del Master.*
 
-Ad inizio turno puoi impugnare o riporre armi, scudi e oggetti comodi come preferisci.
+All'inizio del tuo turno puoi impugnare o riporre liberamente armi, scudi e oggetti comodi.
 Se vuoi riporre qualcosa ma hai tutti gli slot comodi occupati, puoi metterlo nello zaino con un’[[04 Azioni e reazioni#🤼‍♂️|azione]] o lasciarlo cadere.
 
-Puoi combattere tenendo in mano un’arma ad una mano, un’arma ad una mano e uno scudo, due armi ad una mano, o un’arma a due mani. Scegli qual è la tua arma primaria, tutte le altre sono considerate armi secondarie.  
-In caso di arti addizionali o simili, il numero di armi impugnate può aumentare.
-Puoi trasportare un’arma per mano anche se sono a due mani, ma non potrai combatterci.
-Puoi momentaneamente tenere due oggetti con una mano, se per esempio stai combattendo con spada e scudo e vuoi bere una pozione puoi farlo.  
+Puoi combattere impugnando un'arma o uno scudo per mano.
+Le armi [[14 Armi#2H|a due mani]] richiedono due mani per essere utilizzate.
+Se impugni più armi, scegli un'arma primaria, le altre sono secondarie.  
+*Arti addizionali o capacità simili aumentano il numero di armi, scudi e oggetti impugnati.*
 
-*Il numero di armi e oggetti totali (per esempio dentro o appesi allo zaino) va a discrezione del Master.*
+Puoi momentaneamente tenere più oggetti per mano se vuoi liberartene una per bere una pozione, lanciare un incantesimo o altre azioni simili. 
 ### 🧱 Barriera
 Se subisci danni con una barriera attiva, questa assorbe il danno per prima.  
 Alla fine di ogni tuo turno perdi tutta la tua barriera.  
