@@ -10,7 +10,7 @@
 ### 🎲 Risoluzione:
 - L’attaccante tira 2d6 e aggiunge la sua [[Precisione]]. Questo è il tiro per colpire.
 - I difensori tirano 2d6. Questo è il tiro per difendersi.
-	- prima di tirare i dadi si può usare una [[04 Azioni e reazioni#Reazioni|reazione]] per aggiungere la [[06 Scheda personaggio#🛡️ Difese|difesa]] adatta al tiro per difendersi, in questo caso si dice che provano a bloccare/parare/schivare/resistere l'attacco.
+	- prima di tirare i dadi per difendersi, possono usare una [[04 Azioni e reazioni#Reazioni|reazione]] per aggiungere la [[06 Scheda personaggio#🛡️ Difese|difesa]] adatta, in questo caso si dice che provano a bloccare/parare/schivare/resistere l'attacco.
 
 - **Attacco ≥ difesa**
     - Si calcolano il danno o gli effetti:
@@ -19,17 +19,18 @@
         - si aggiungono eventuali modifiche da capacità, oggetti, etc.
         - si riduce il totale per il valore di [[06 Scheda personaggio#🦺 Armatura|armatura]]
         - si dimezza il totale rimasto per eventuali resistenze
-        - se i dadi per colpire hanno fatto un doppio 6, o se altri effetti lo specificano, si applica una [[11 Condizioni e lesioni#Lesioni|lesione]] casuale in aggiunta al danno
+        - se i due dadi per colpire segnano due numeri uguali, o se altri effetti lo specificano, si applica una [[11 Condizioni e lesioni#Lesioni|lesione]] casuale in aggiunta al danno; se i dadi sono due 6 scegli la zona della lesione
         - le [[04 Azioni e reazioni#Reazioni|reazioni]] che hanno “che sta subendo danno” come requisito possono essere usate ora
+
 - **Attacco < difesa**
     - Nessun danno o effetto.
 
-⚔️ Quando risolvi l’azione attacco, fai un [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]] con le tue [[06 Scheda personaggio#🧰 Armi e Oggetti|armi secondarie]].
+⚔️ Quando si risolve l’azione attacco, l'attaccante può fare un [[04 Azioni e reazioni#⚔️ Attaccare|attacco rapido]] con le sue [[06 Scheda personaggio#🧰 Armi e Oggetti|armi secondarie]].
 *Gli attacchi rapidi non aggiungono Vigore al danno e non causano reazioni.*
 
-🏹 Se attacchi con un’arma dalla distanza un nemico [[#Distanze|adiacente]], non aggiungere la [[Destrezza]] al danno.
+🏹 Se si attacca con un’arma dalla distanza un nemico [[#Distanze|adiacente]], non si aggiunge la [[Destrezza]] al danno.
 
-🎯 Se con un'arma dalla distanza devi colpire uno spazio, ogni metro di distanza aumenta di 1 il risultato necessario.
+🎯 Se con un'arma dalla distanza si tenta di colpire uno spazio, ogni metro di distanza aumenta di 1 il risultato necessario.
 *es: lancio un oggetto in uno spazio a 4m -> devo fare 4 o più col tiro per colpire*
 *lancio un oggetto a 14m -> devo fare 14 o più col tiro per colpire*
 

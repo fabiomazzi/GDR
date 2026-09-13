@@ -1,7 +1,9 @@
 ---
 Tipo: classe
 PV: "8"
-Abilità: ["[[Carisma]]", "[[Vigore]]"]
+Abilità:
+  - "[[Carisma]]"
+  - "[[Percezione]]"
 Descrizione: "[temporanea] full support, equipaggia degli stendardi che danno bonus e contrassegna un nemico su cui fare focus per poter recuperare abilità e curare."
 ---
 ---
@@ -14,18 +16,18 @@ Descrizione: "[temporanea] full support, equipaggia degli stendardi che danno bo
 ### Livello 3
 - I tuoi [[#Equipaggiare uno stendardo|stendardi]] hanno due effetti attivi invece che uno.
 - Dopo che colpisci un [[#Nemico Designato]], il prossimo alleato che lo colpisce entro un turno recupera [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]] pari al tuo [[Carisma]].
-- Dopo che un [[#Nemico Designato]] ti colpisce, subisce danni massimi dal prossimo attacco che riceve da un tuo alleato entro il suo prossimo turno.
+- Dopo che un [[#Nemico Designato]] ti colpisce, subisce danni massimi dal prossimo attacco di un alleato che riceve entro il suo prossimo turno.
 ### Livello 4
 - Una volta per riposo, quando un alleato sotto l’effetto di un tuo stendardo scende a 0 o meno [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]], rimane invece a 1 [[06 Scheda personaggio#🩷 Punti Vita (PV)|punti vita]].
 - Gli effetti dei tuoi stendardi migliorano.
 
 ---
 ## Punti spirazione
-Hai Punti Ispirazione massimi pari al tuo [[Carisma]] più il tuo livello da Condottiero. Ne recuperi uno quando sconfiggi un [[#Nemico Designato]], tutti [[02 Incontri e riposare#Riposare|riposando]].
+Hai Punti Ispirazione massimi pari al tuo [[Carisma]]. Ne recuperi uno quando sconfiggi un [[#Nemico Designato]], tutti [[02 Incontri e riposare#Riposare|riposando]].
 
-Puoi usare i Punti Ispirazione per:
+Puoi usarli per [[#Equipaggiare uno stendardo]] o [[#Ispirare]] i tuoi alleati.
 ### Equipaggiare uno stendardo
-Come [[02 Incontri e riposare#Il tuo turno|azione]] puoi spendere 1 Punto Ispirazione per equipaggiare uno stendardo, dai dei bonus agli alleati entro 10m che ti possono vedere o sentire (te compreso).
+Come [[02 Incontri e riposare#Il tuo turno|azione]] puoi spendere 1 Punto Ispirazione per equipaggiare uno stendardo che da dei bonus agli alleati entro 10m che ti possono vedere o sentire (te compreso).
 
 Scegli fra:
 - +1* alle prove su un’[[05 Abilità|abilità]] a tua scelta

@@ -4,7 +4,7 @@ Magico: false
 2h: false
 A: true
 Armatura:
-Capacità Speciali: Nel momento in cui impugni quest'arma, puoi lanciarla facendo un attacco rapido.
+Capacità Speciali: Nel momento in cui impugni quest'arma, puoi fare un attacco rapido con essa.
 C: false
 DES req:
 Danno: 1d3

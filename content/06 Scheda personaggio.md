@@ -4,7 +4,7 @@
 ### 🧰 Armi e Oggetti
 Armi, scudi e oggetti comodi sono quelli che hai impugnato o che hai in uno slot comodo.
 Hai questi slot comodi:
-- 2 slot armi o scudi (le armi a due mani e gli scudi grandi/torre occupano due slot)
+- 3 slot armi o scudi (le armi a due mani e gli scudi grandi/torre occupano due slot)
 - 3 slot oggetti
 *Il numero di armi e oggetti totali (per esempio dentro o appesi allo zaino) va a discrezione del Master.*
 

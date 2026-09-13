@@ -4,9 +4,10 @@ Classi: ["[[Acrobata]]", "[[Assassino]]"]
 Provenienze: ["[[Sottosuolo]]"]
 Razze: ["[[Felari]]"]
 ---
-**Descrizione:** Sapersi nascondere e passare inosservati. Scassinare serrature, lucchetti e altri meccanismi per aprirli o richiuderli. Borseggiare. Piazzare o disattivare trappole. Nascondere un’arma su di te. Se più di un membro del party deve nascondersi, si usa la media dei loro tiri Furtività.
+**Descrizione:** La capacità di compiere azioni senza farsi notare. Sapersi nascondere, mischiarsi fra la folla e passare inosservati. Borseggiare. Nascondere un’arma su di te. Se più di un membro del party deve nascondersi, si usa la media di tutti i tiri Furtività.
+*Se una persona sa della tua presenza, siete in combattimento o ti sta attivamente cercando ha +4 ai tiri di [[Percezione]] per notarti.*
 
 **Esempi:**
-- Piazzare o disattivare una trappola, il tuo tiro per piazzarla sarà la [[05 Abilità#Fare una prova di abilità|DIF]] per notarla.
 - Se vuoi borseggiare qualcuno tira Furtività contro [[Percezione]], ha +4 al tiro se ti sta osservando.
-- Se una persona sa della tua presenza, siete in combattimento o ti sta attivamente cercando ha +4 ai tiri di [[Percezione]] per notarti.
+- Quando nascondi un coltello dentro una manica, nella cintura, in uno stivale, etc. tira Furtività, sarà il tiro da superare con [[Percezione]] per accorgersi dell'arma.
+- Per muoverti furtivamente vedi l'azione [[04 Azioni e reazioni#🥷 Nascondersi|nascondersi]].

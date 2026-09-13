@@ -10,14 +10,14 @@ Descrizione: "[temporanea] lancia magie e le potenzia, si specializza in 2-3 inc
 - Padroneggia un [[13 Incantesimi|incantesimo]]: scegli un incantesimo che costa 1 o meno [[06 Scheda personaggio#🔮 Mana|mana]], diventa rapido e costa 0 mana.
 - Una volta per riposo puoi spendere un’ora ininterrotta per recuperare il tuo [[06 Scheda personaggio#🔮 Mana|mana]] totale e gli altri usi "X volte per riposo" di questa classe.
 ### Livello 2
-- Padroneggia un [[13 Incantesimi|incantesimo]]: scegli un incantesimo che costa 2 o meno [[06 Scheda personaggio#🔮 Mana|mana]], diventa rapido e costa 0 mana.
-- Gli [[13 Incantesimi|incantesimi]] che padroneggi hanno i bonus numerici aumentati del 50% (fanno il 50% di danno in più, danno il 50% di barriera in più, etc.).
+- Padroneggia un [[13 Incantesimi|incantesimo]]: scegli un incantesimo che costa 1 o meno [[06 Scheda personaggio#🔮 Mana|mana]], diventa rapido e costa 0 mana.
+- Gli [[13 Incantesimi|incantesimi]] che padroneggi hanno i bonus numerici aumentati del 50% (danno, barriera, cure, etc.).
 ### Livello 3
 - Padroneggia un [[13 Incantesimi|incantesimo]]: scegli un incantesimo che costa 2 o meno [[06 Scheda personaggio#🔮 Mana|mana]], diventa rapido e costa 0 mana.
 - Un numero di volte per riposo pari al tuo livello da Arcanista puoi aggiungere uno di questi effetti ad un tuo [[13 Incantesimi|incantesimo]], non si somma col bonus degli incantesimi padroneggiati:
 	- lancialo senza parlare
 	- lancialo senza gesticolare
-	- aumenta del 50% il danno
+	- i tiri di dado sono massimizzati
 	- aumenta del 50% l’area
 	- raddoppia la durata (massimo 1 giorno)
 	- dai -2 alle [[06 Scheda personaggio#🛡️ Difese|difese]] contro di esso
@@ -27,4 +27,4 @@ Descrizione: "[temporanea] lancia magie e le potenzia, si specializza in 2-3 inc
 ### Livello 4
 - Aggiungi agli effetti disponibili dell’abilità di livello 3: rendi un incantesimo rapido.
 
-*⚠️ Gli incantesimi che hanno effetti potenziati in base a quante volte li paghi, per esempio [[cura]], non hanno effetto se pagati 0 mana.*
+*⚠️ Gli incantesimi che hanno effetti diversi in base a quante volte li paghi, per esempio [[cura]], non hanno effetto se pagati 0 mana.*

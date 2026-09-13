@@ -1,7 +1,9 @@
 ---
 Tipo: classe
 PV: "4"
-Abilità: ["[[Magia]]", "[[Perspicacia]]"]
+Abilità:
+  - "[[Magia]]"
+  - "[[Manualità]]"
 Descrizione: "[temporanea] incanala la magia in marchingegni."
 ---
 ---

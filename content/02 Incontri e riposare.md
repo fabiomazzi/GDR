@@ -3,14 +3,15 @@ Per “incontro” si intende una situazione sociale o un combattimento durante 
 Un incontro è diviso in round, durante un round i partecipanti svolgono a giro un turno a testa.
 
 Svolgimento di un Incontro:
-- 🎲 Tutti tirano 2d6 + [[Perspicacia]] + [[Destrezza]], questo risultato è l’iniziativa, che va annotata in ordine. Chi ha l’iniziativa più alta decide se agire o aspettare. Se aspetta si passa all’iniziativa successiva, così via fino a quando qualcuno non gioca il primo turno.
-    *Il Master può decidere chi agisce per primo a seconda della narrativa e/o far saltare il primo turno [[02 Incontri e riposare#Incontro, turno e round|iniziativa]] chi è ignaro di cosa sta succedendo. Si tirerà e annoterà comunque l’iniziativa dei partecipanti.*
+- 🎲 Tutti tirano 2d6 + [[Perspicacia]] + [[Destrezza]], questo risultato è l’iniziativa, chi ha l’iniziativa più alta decide se agire o aspettare. Se aspetta si passa a chi ha l'iniziativa più alta dopo di lui, così via fino a quando qualcuno non gioca il primo turno.
  - 🌀 Quando finisci il turno, scegli chi agisce dopo di te (tra chi ancora non ha agito nel round).
 - ✅ Quando tutti hanno svolto il proprio turno, termina il round.
 - 🏁 Chi ha svolto l’ultimo turno del round sceglie chi inizia il round successivo (può scegliere se stesso).
+    *Il Master può decidere chi agisce per primo a seconda della narrativa e/o far saltare il primo turno a chi è ignaro di cosa sta succedendo. Si tirerà e annoterà comunque l’iniziativa dei partecipanti.*
+    *In alternativa a questo metodo di iniziativa potete usare il "classico".*
 # Il tuo turno
 ### 🟡 Inizio turno
-- Ottieni un Movimento, un'Azione e una Reazione.
+- Ripristina fino a un Movimento, un'Azione e una Reazione.
 - Riduci di 1 la durata di ogni effetto “dura X turni" generato da te, se scende a 0 termina.
 - Puoi decidere che armi e oggetti impugnare o rinfoderare fra quelli [[06 Scheda personaggio#🧰 Armi e Oggetti|comodi]].
 - Subisci i danni da [[11 Condizioni e lesioni#🩸 SANGUINANTE|sanguinamento]] e altri effetti “all’inizio del turno”.

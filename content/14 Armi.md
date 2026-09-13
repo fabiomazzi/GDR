@@ -26,7 +26,7 @@ views:
       - Capacità Speciali
       - Note
     sort:
-      - property: DES req
+      - property: Danno
         direction: ASC
     columnSize:
       file.name: 156
