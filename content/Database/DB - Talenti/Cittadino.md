@@ -13,4 +13,4 @@ Quando ti trovi in un altro ambiente hai invece i seguenti malus:
 - -1 ad [[02 Incontri e riposare#Incontro, turno e round|iniziativa]].
 - -2m al movimento.
 
-Se hai il talento [[esploratore]] non puoi studiare l'ambiente urbano, ma non ricevi i malus quando sei in un altro ambiente.
+Se hai anche il talento [[esploratore]] non puoi studiare l'ambiente urbano, ma non ricevi i malus quando sei in un altro ambiente.

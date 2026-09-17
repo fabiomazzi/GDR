@@ -24,16 +24,17 @@ Quando sei a metà o meno punti vita, sei considerato in ira:
 - sei visibilmente agitato e manesco
 - hai protezione da tutti i tipi di danno tranne necrotico
 - hai +1 a [[Vigore]], [[Volontà]] e [[04 Azioni e reazioni#😠 Intimidire|intimidire]]
+- aggiungi 1d6 al tuo tiro per colpire
 - hai -1 a [[Destrezza]]
 - considera le [[11 Condizioni e lesioni#Lesioni|lesioni]] lieve e gravi come fossero un grado più basse (rimangono comunque presenti con la loro gravità originale)
-- hai un bonus alla velocità di movimento di 2m
+- hai un bonus alla velocità di movimento di 4m
 - hai [[06 Scheda personaggio#🩷 Punti Vita (PV)|rigenerazione]] 1
 - le tue [[Conoscenze]], [[Furtività]], [[Manualità]] e [[Perspicacia]] vengono considerate 0
 - non puoi lanciare [[13 Incantesimi|incantesimi]]
 
 ### Livello 3
-- i bonus a [[Vigore]] e [[Volontà]] diventano +2
-- il bonus al movimento diventa di 4m
+- i bonus a [[Vigore]], [[Volontà]] e [[04 Azioni e reazioni#😠 Intimidire|intimidire]] diventano +2
+- il bonus al movimento diventa di 6m
 - la [[06 Scheda personaggio#🩷 Punti Vita (PV)|rigenerazione]] diventa 3
 - puoi ignorare fino ad una [[11 Condizioni e lesioni#Condizioni mentali|condizione mentale]] da cui sei afflitto
 - una volta per riposo, quando scendi a 0 o meno punti vita puoi eseguire immediatamente un'azione prima di [[06 Scheda personaggio#🩷 Punti Vita (PV)|svenire]]

@@ -15,7 +15,7 @@ Linguaggi: "[[06 Scheda personaggio#🗣️ Linguaggi|Animale, Comune]]"
 ### Livello 1️
 - Ti cresce una coda appuntita che viene considerata un’[[14 Armi#Naturale|arma naturale]] secondaria, fa 1d3 danni perforanti, aggiungi [[Destrezza]] ai danni invece che [[Vigore]].
 ### Livello 3️
-- Una volta per [[02 Incontri e riposare#Riposare|riposo]], quando colpisci con la tua coda, puoi applicare l’effetto di un [[16 Composti e veleni|veleno]], si resiste con una prova di [[Vigore]] contrapposta al tuo [[06 Scheda personaggio#💯 Livello|livello]].
+- Una volta per [[02 Incontri e riposare#Riposare|riposo]], quando colpisci con la tua coda, puoi applicare l’effetto di un [[16 Composti e veleni|veleno]], ci si difende con una prova di [[Vigore]] contrapposta al tuo [[06 Scheda personaggio#💯 Livello|livello]].
 ## FASMIDE
 ### Livello 1️
 - Puoi usare un [[02 Incontri e riposare#Movimento|movimento]] per avere un +1 cumulativo a [[Furtività]] fino al tuo prossimo movimento (volontario o non); il bonus massimo è pari al tuo livello.

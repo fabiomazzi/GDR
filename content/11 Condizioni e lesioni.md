@@ -7,7 +7,7 @@ Fallisci automaticamente le prove basate sulla vista.
 ### 🤼‍♂️ Afferrato
 Non puoi compiere azioni che richiedono libertà di movimento come attaccare, usare un oggetto, lanciare un incantesimo, etc.  
 I tuoi [[06 Scheda personaggio#🛡️ Difese|schivare]], [[06 Scheda personaggio#🛡️ Difese|parare]] e [[06 Scheda personaggio#🛡️ Difese|bloccare]] sono considerati 0.  
-Per muoverti devi superare una prova di [[Vigore]] contrapposta, chi è in lotta con te viene trascinato in un quadretto vicino al tuo di arrivo, è un [[04 Azioni e reazioni#🏃‍♂️ Movimento|movimento complesso]].  
+Per muoverti devi superare una prova contrapposta di [[Vigore]], chi è in lotta con te viene trascinato in un quadretto vicino al tuo di arrivo, è un [[04 Azioni e reazioni#🏃‍♂️ Movimento|movimento complesso]].  
 Se sei stato afferrato, all’inizio del tuo turno puoi ripetere gratuitamente la prova per liberarti.  
 Se invece hai afferrato tu, puoi interrompere questa condizione in qualunque momento.
 ### 🙉 Assordato
@@ -17,14 +17,14 @@ Fallisci in automatico tutte le prove basate sull’udito.
 Devi vedere chi ti sta parlando ed entrambi dovete essere concentrati per dialogare.
 ### 🧎 Atterrato
 Quando diventi atterrato causi [[04 Azioni e reazioni#Reazioni|reazioni]].  
-Hai -2 ai tiri per difenderti e a [[06 Scheda personaggio#🎯 Precisione|precisione]].  
+Hai -2 a [[06 Scheda personaggio#🛡️ Difese|schivare]] e [[06 Scheda personaggio#🎯 Precisione|precisione]].  
 Rialzarti da terra costa 4m di movimento.
 Se vieni atterrato durante un tuo movimento, quel movimento si interrompe e viene perso.
 ### ☠️ Avvelenato
 Sei afflitto da un [[16 Composti e veleni#Veleni|veleno]]. Vedi [[16 Composti e veleni#Veleni|veleni]]
 ### ❄️ Congelato
 La tua velocità è dimezzata.  
-Hai -2 a [[06 Scheda personaggio#🎯 Precisione|precisione]].
+Hai -1 a [[06 Scheda personaggio#🎯 Precisione|precisione]].
 Non puoi usare [[04 Azioni e reazioni#Reazioni|reazioni]].  
 Perdi la condizione se subisci almeno 5 danni da fuoco o vieni esposto ad una fonte di calore per 5 minuti.
 ### ☢️ Corroso
@@ -73,7 +73,7 @@ Sei bloccato e non puoi agire.
 I tuoi tiri per difenderti sono considerati 0 e chi ti attacca da adiacente fa automaticamente un doppio 6 e danno massimo.  
 Fallisci automaticamente le prove che richiedono un qualunque movimento.
 ### 😱 Spaventato
-Cerchi in tutti i modi di allontanarti dalla fonte dell’effetto.  
+Cerchi in tutti i modi di allontanarti dalla fonte dell’effetto fino a quando sei distante almeno 10m.
 Eviti azioni autodistruttive (come buttarsi in un dirupo o camminare nel fuoco), ma non ti curi delle [[04 Azioni e reazioni#Reazioni|reazioni]] che causi, dello stato dei tuoi compagni e sfrutti ogni mezzo a tua disposizione per farlo, come incantesimi o capacità.  
 Se messo alle strette ti difendi ma senza poter usare azioni offensive dirette alla fonte dell’effetto.
 ### 💫 Stordito

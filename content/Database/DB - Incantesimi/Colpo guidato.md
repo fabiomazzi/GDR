@@ -8,4 +8,4 @@ Servitore: false
 Armatura inc: false
 Tipo: incantesimo
 ---
-Fai un [[04 Azioni e reazioni#⚔️ Attaccare|attacco]], hai +3 al [[03 Combattimento#Risolvere un'azione|tiro per colpire]].
+Fai un [[04 Azioni e reazioni#⚔️ Attaccare|attacco]], aggiungi 2d6 al tiro per colpire.

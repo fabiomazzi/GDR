@@ -11,3 +11,4 @@ Razze: ["[[Felari]]"]
 - Se vuoi borseggiare qualcuno tira Furtività contro [[Percezione]], ha +4 al tiro se ti sta osservando.
 - Quando nascondi un coltello dentro una manica, nella cintura, in uno stivale, etc. tira Furtività, sarà il tiro da superare con [[Percezione]] per accorgersi dell'arma.
 - Per muoverti furtivamente vedi l'azione [[04 Azioni e reazioni#🥷 Nascondersi|nascondersi]].
+- Evitare di lasciare tracce in un ambiente urbano.

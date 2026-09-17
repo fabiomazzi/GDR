@@ -8,6 +8,7 @@ Descrizione: "[temporanea] basato sullo sfruttare il talento Colpo Furtivo e i v
 ### Livello 1
 - **Reazione**: *<minacci l’attaccante con un'arma agile>* fai un [[03 Combattimento#Risolvere un'azione|attacco rapido]].
 - Guadagni il talento [[Colpo furtivo]], dopo aver compiuto un colpo furtivo puoi muoverti di 4m e [[04 Azioni e reazioni#🥷 Nascondersi|nasconderti]].
+- Guadagni il talento [[Furtivo]].
 - Quando sconfiggi un avversario puoi muoverti di 4m e nasconderti.
 ### Livello 2
 - **Padroneggiare i [[16 Composti e veleni#Veleni|veleni]]**:
@@ -19,4 +20,5 @@ Descrizione: "[temporanea] basato sullo sfruttare il talento Colpo Furtivo e i v
 - Quando usi il talento [[Colpo furtivo]] scegli due effetti.
 - Quando usi il talento [[Colpo furtivo]] per la prima volta nella giornata contro un bersaglio, se manchi l'[[03 Combattimento#Risolvere un'azione|attacco]] il bersaglio non si accorge di te. 
 ### Livello 4
-- 
+- Quando usi il talento [[Colpo furtivo]], tira 1d6 aggiuntivo per colpire.
+- **Da fare**

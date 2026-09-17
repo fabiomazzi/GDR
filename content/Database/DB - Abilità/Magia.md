@@ -3,6 +3,7 @@ Tipo: Abilità
 Classi:
   - "[[Alchimista]]"
   - "[[Arcanista]]"
+  - "[[Druido]]"
   - "[[Necromante]]"
   - "[[Tecnomante]]"
 Provenienze:

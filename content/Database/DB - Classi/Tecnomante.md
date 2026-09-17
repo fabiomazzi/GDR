@@ -4,7 +4,7 @@ PV: "4"
 Abilità:
   - "[[Magia]]"
   - "[[Manualità]]"
-Descrizione: "[temporanea] incanala la magia in marchingegni."
+Descrizione: "[temporanea] incanala la magia tramite marchingegni."
 ---
 ---
 ### Livello 1

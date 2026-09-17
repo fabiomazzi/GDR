@@ -157,7 +157,7 @@ Spalma un unguento che toglie le condizioni [[11 Condizioni e lesioni#☢️ Cor
 **Uso**: versato
 **Difesa**: [[Vigore]]
 ### 💉 Vaccino
-Crea un vaccino contro un [[16 Composti e veleni#Veleni|veleno]] o una malattia specifica. Per 24 ore hai un bonus a difendersi contro quel veleno o malattia pari all’abilità usata per creare l’antidoto.
+Crea un vaccino contro un [[16 Composti e veleni#Veleni|veleno]] o una malattia specifica. Per 24 ore hai un bonus per difenderti contro quel veleno o malattia pari all’abilità usata per creare l’antidoto.
 
 **Requisiti**: 4 punti in [[Medicina]]
 **Uso**: ingerimento

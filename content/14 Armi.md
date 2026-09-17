@@ -29,7 +29,7 @@ views:
       - property: Danno
         direction: ASC
     columnSize:
-      file.name: 156
+      file.name: 172
       note.VIG req: 75
       note.A: 21
       note.C: -1

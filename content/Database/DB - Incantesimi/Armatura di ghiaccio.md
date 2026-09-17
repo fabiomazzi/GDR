@@ -2,7 +2,7 @@
 Costo: 2
 Difesa:
 Durata: 1 turno per livello
-Gittata: Te stesso
+Gittata: Contatto
 Rapido: false
 Servitore: false
 Armatura inc: true

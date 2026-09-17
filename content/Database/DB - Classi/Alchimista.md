@@ -13,7 +13,7 @@ Descrizione: "[temporanea] basato sul creare composti (e veleni anche se meno) e
 	- quando crei [[16 Composti e veleni#Composti|composti]] e [[16 Composti e veleni#Veleni|veleni]] col tuo distillatore, puoi crearne tanti quanti ne contiene, facendoli riposare solo 2 ore invece che 8, devono però essere composti che non hai già creato durante questo riposo.
 - Puoi usare [[Conoscenze]] invece che l’abilità richiesta per creare, notare e identificare [[16 Composti e veleni#Composti|composti]] e [[16 Composti e veleni#Veleni|veleni]].
 ### Livello 2
-- Guadagni questa azione, usala un numero di volte per riposo pari al tuo livello: crea un [[16 Composti e veleni#Composti|composto]] o un [[16 Composti e veleni#Veleni|veleno]], deve essere usato entro il tuo prossimo turno o diventa inerte.
+- Un numero di volte per riposo pari al tuo livello, con un’[[02 Incontri e riposare#Il tuo turno|azione]] puoi creare e usare immediatamente un [[16 Composti e veleni#Composti|composto]] o un [[16 Composti e veleni#Veleni|veleno]], se non viene usato entro il tuo prossimo turno diventa inerte.
 ### Livello 3
 - Quando usi il tuo distillatore potenziato hai accesso ai [[16 Composti e veleni#Composti da alchimista|composti da alchimista]].
 ### Livello 4

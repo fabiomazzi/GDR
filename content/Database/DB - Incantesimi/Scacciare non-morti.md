@@ -2,7 +2,7 @@
 Costo: 3
 Difesa: Risolutezza
 Durata: 1 turno per livello
-Gittata: 0m
+Gittata: Te stesso
 Rapido: false
 Servitore: false
 Armatura inc: false

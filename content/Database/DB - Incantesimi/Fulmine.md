@@ -2,7 +2,7 @@
 Costo: 3
 Difesa: Bloccare, Schivare
 Durata: Istantaneo
-Gittata: 0m
+Gittata: Te stesso
 Rapido: false
 Servitore: false
 Armatura inc: false

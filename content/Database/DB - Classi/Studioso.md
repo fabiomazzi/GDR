@@ -8,6 +8,7 @@ Descrizione: "[temporanea] sa cose. Identifica debolezze e resistenze, aiuta a d
 ---
 ---
 ### Livello 1
+- **Reazione**: *<>* .
 ### Livello 2
 ### Livello 3
 ### Livello 4

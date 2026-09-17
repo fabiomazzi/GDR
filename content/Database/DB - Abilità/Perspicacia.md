@@ -1,6 +1,7 @@
 ---
 Tipo: Abilità
 Classi:
+  - "[[Runologo]]"
   - "[[Studioso]]"
   - "[[Tuttofare]]"
 Provenienze:
@@ -13,6 +14,5 @@ Razze:
 
 **Esempi:**
 - Capire cos’è successo su un luogo del crimine.
-- Evitare un imboscata → contrapposta a [[Furtività]]
 - Capire come funziona un macchinario mai visto prima.
 - Intuire le [[06 Scheda personaggio#🛡️ Difese|difese]] di un avversario -> contrapposta al suo livello

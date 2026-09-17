@@ -11,6 +11,7 @@
 - L’attaccante tira 2d6 e aggiunge la sua [[Precisione]]. Questo è il tiro per colpire.
 - I difensori tirano 2d6. Questo è il tiro per difendersi.
 	- prima di tirare i dadi per difendersi, possono usare una [[04 Azioni e reazioni#Reazioni|reazione]] per aggiungere la [[06 Scheda personaggio#🛡️ Difese|difesa]] adatta, in questo caso si dice che provano a bloccare/parare/schivare/resistere l'attacco.
+*Se delle capacità fanno aggiungere d6 aggiuntivi ai tiri, tirali tutti e tienine due a scelta.*
 
 - **Attacco ≥ difesa**
     - Si calcolano il danno o gli effetti:

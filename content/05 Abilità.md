@@ -23,7 +23,7 @@ views:
 Per fare una prova di abilità tira 2d6 e aggiungi il bonus che hai in quell’abilità.  
 Confronta il risultato con:
 - una Difficoltà (DIF) decisa dal Master → se il risultato è uguale o superiore, hai superato la prova.
-- un tiro contrapposto da parte di un altro personaggio → entrambi fanno una prova di abilità e chi ottiene il risultato più alto vince. In caso di pareggio si ritira.  
+- una prova contrapposta da parte di un altro personaggio → entrambi fanno una prova di abilità e chi ottiene il risultato più alto vince. In caso di pareggio si ritira.  
 
 *Esempi:*
 *accorgersi di una trappola → Percezione contro la DIF della trappola*

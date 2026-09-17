@@ -14,7 +14,7 @@ Razze:
 **Esempi:**
 - Vedere qualcuno che si muove furtivamente → contrapposta a [[Furtività]]
 - Trovare una trappola, interruttore segreto o passaggio nascosto → contrapposta a [[Furtività]] di chi li ha creati
-- Capire che in un alimento è presente un [[16 Composti e veleni#Composti|composto]] → contrapposta all'abilità usata per crearlo
+- Capire che in un alimento è presente un [[16 Composti e veleni#Composti|composto]] → contrapposta alla DIF del composto
 - Accorgersi che il pavimento non è stabile → [[05 Abilità#Fare una prova di abilità|DIF]] 3
 - Accorgersi che il soffitto è pericolante → [[05 Abilità#Fare una prova di abilità|DIF]] 5
 - Riconoscere una voce in mezzo ad una folla → [[05 Abilità#Fare una prova di abilità|DIF]] 12

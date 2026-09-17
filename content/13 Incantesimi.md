@@ -16,12 +16,6 @@ views:
       - Rapido
       - Difesa
     sort:
-      - property: Costo
-        direction: ASC
-      - property: Durata
-        direction: ASC
-      - property: Gittata
-        direction: ASC
       - property: file.name
         direction: ASC
       - property: Difesa

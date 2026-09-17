@@ -35,6 +35,8 @@ Ogni azione come attaccare, lanciare un incantesimo, usare un oggetto, intimidir
 *Se ho una reazione disponibile (ogni personaggio ne ha 2 ogni round) posso usarla e lanciare un incantesimo rapido.*
 ### Rigenerazione
 A fine turno recuperi punti vita pari alla tua rigenerazione.
+### Spazio
+Un esagono o un quadretto, in base alla tipo di mappa che si usa.
 # Meccaniche e regolamento
 ### Dimezzare e dividere
 Se un numero va dimezzato o diviso si arrotonda per eccesso.

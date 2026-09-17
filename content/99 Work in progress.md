@@ -24,8 +24,11 @@
 	- livello 2: bonus secondari e non troppo importanti
 	- livello 3: abilità forte legata alla sua identità
 	- livello 4: capacità molto forti e che sbilanciano un po' ma che non cambiano fondamentalmente il come si gioca la classe
-	- molte vanno bene, altre sono da rivedere
+	- molte vanno bene, altre sono da rivedere, quelle di livello 4 sono quasi tutte da fare perché voglio prima capire come bilanciare meglio
 - fare le taglie
 - armi che aggiungono DES/VIG a precisione, o anche classi
 - sistemare il lassativo
 - al momento è sviluppato solo il sistema del combattimento, poco alla volta sono da portare avanti le meccaniche per esplorazione e interazioni sociali
+- prima espansione: quando fai due numeri uguali con un attacco hai effetti extra
+- controllare dove ho scritto "falliscono una prova di" o "un tiro di" e anche "una prova contrapposta" o "un tiro contrapposto"
+- fare capacità che proccano dopo che si resiste a qualcosa
